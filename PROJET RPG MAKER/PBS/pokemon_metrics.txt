@@ -404,7 +404,7 @@ ShadowSize = 2
 #-------------------------------
 [AEGISLASH]
 BackSprite = 0,19
-FrontSprite = 0,16
+FrontSprite = 4,10
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
@@ -500,7 +500,7 @@ ShadowSize = 2
 #-------------------------------
 [AEGISLASH,1]
 BackSprite = 0,13
-FrontSprite = 0,16
+FrontSprite = 4,10
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
