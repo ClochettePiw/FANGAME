@@ -602,13 +602,13 @@ ShadowSize = 3
 #-------------------------------
 [SKRELP]
 BackSprite = 0,39
-FrontSprite = -5,16
+FrontSprite = 2,25
 ShadowX = 0
 ShadowSize = 1
 #-------------------------------
 [DRAGALGE]
 BackSprite = 0,1
-FrontSprite = 0,4
+FrontSprite = -1,6
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
