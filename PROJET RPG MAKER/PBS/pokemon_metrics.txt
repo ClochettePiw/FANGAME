@@ -308,7 +308,7 @@ ShadowSize = 2
 #-------------------------------
 [GYARADOS]
 BackSprite = 0,18
-FrontSprite = -1,11
+FrontSprite = -1,8
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
