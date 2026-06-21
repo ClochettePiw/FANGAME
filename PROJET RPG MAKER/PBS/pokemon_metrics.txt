@@ -104,9 +104,9 @@ ShadowSize = 2
 #-------------------------------
 [SANDSHREW]
 BackSprite = 0,45
-FrontSprite = 0,31
+FrontSprite = 0,37
 ShadowX = 0
-ShadowSize = 2
+ShadowSize = 1
 #-------------------------------
 [SANDSLASH]
 BackSprite = 0,36
@@ -272,7 +272,7 @@ ShadowSize = 2
 #-------------------------------
 [FROSLASS]
 BackSprite = 0,33
-FrontSprite = 0,18
+FrontSprite = 5,13
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
@@ -386,7 +386,7 @@ ShadowSize = 1
 #-------------------------------
 [PELIPPER]
 BackSprite = 0,33
-FrontSprite = 4,5
+FrontSprite = -2,8
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
@@ -674,7 +674,7 @@ ShadowSize = 3
 #-------------------------------
 [VENIPEDE]
 BackSprite = 0,49
-FrontSprite = 0,33
+FrontSprite = -3,27
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
@@ -878,7 +878,7 @@ ShadowSize = 1
 #-------------------------------
 [BISHARP]
 BackSprite = 0,16
-FrontSprite = 0,17
+FrontSprite = -5,14
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
@@ -956,7 +956,7 @@ ShadowSize = 2
 #-------------------------------
 [PALAFIN]
 BackSprite = 0,0
-FrontSprite = 0,22
+FrontSprite = 2,29
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
