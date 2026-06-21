@@ -429,12 +429,12 @@ Flags = Fling_100
 Description = The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
 #-------------------------------
 [PRETTYFEATHER]
-Name = Pretty Feather
-NamePlural = Pretty Feathers
+Name = Jolie Plume
+NamePlural = Jolies Plumes
 Pocket = 1
 Price = 1000
 Flags = Fling_20
-Description = Though this feather is beautiful, it's just a regular feather and has no effect on Pokémon.
+Description = Une plume très jolie, mais ordinaire et sans effet particulier.
 #-------------------------------
 [TINYMUSHROOM]
 Name = Petit Champi
@@ -503,8 +503,8 @@ Flags = Fling_30
 Description = Un fragment de gemme qui brille d'un éclat rouge. Peut être vendue à bon prix en magasin.
 #-------------------------------
 [COMETSHARD]
-Name = Comet Shard
-NamePlural = Comet Shards
+Name = Morceau Comète
+NamePlural = Morceaux Comète
 Pocket = 1
 Price = 25000
 Flags = Fling_30
@@ -805,16 +805,16 @@ Flags = Fling_80
 Description = Objet à tenir. Protège le Pokémon contre les dégâts dus à la météo et la plupart des capacités utilisant de la poudre.
 #-------------------------------
 [PROTECTIVEPADS]
-Name = Protective Pads
-NamePlural = Protective Pads
-PortionName = set of Protective Pads
-PortionNamePlural = sets of Protective Pads
+Name = Pare-Effet
+NamePlural = Pares-Effet
+PortionName = paire de Pares-Effet
+PortionNamePlural = paires de Pares-Effet
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 BPPrice = 25
 Flags = Fling_30
-Description = An item to be held by a Pokémon. They protect the holder from effects caused by making contact.
+Description = Objet à tenir. Annule les effets subis par le porteur quand il utilise une attaque directe sur un autre Pokémon.
 #-------------------------------
 [HEAVYDUTYBOOTS]
 Name = Heavy-Duty Boots
@@ -994,13 +994,13 @@ Flags = Fling_40
 Description = Objet à tenir. Prolonge la durée de la capacité Grêle utilisée par le porteur.
 #-------------------------------
 [TERRAINEXTENDER]
-Name = Terrain Extender
-NamePlural = Terrain Extenders
+Name = Champ'Duit
+NamePlural = Champ'Duits
 Pocket = 1
 Price = 4000
 BPPrice = 15
 Flags = Fling_60
-Description = An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder.
+Description = Objet à tenir. Prolonge la durée des champs que le Pokémon peut créer sur le terrain avec une capacité ou un talent.
 #-------------------------------
 [LIGHTCLAY]
 Name = Lumargile
@@ -1188,40 +1188,40 @@ Flags = Fling_100
 Description = An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.
 #-------------------------------
 [ELECTRICSEED]
-Name = Electric Seed
-NamePlural = Electric Seeds
+Name = Graine Électrik
+NamePlural = Graines Électrik
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.
+Description = Objet à tenir. Augmente la Défense lorsque le terrain est couvert d’un Champ Électrifié.
 #-------------------------------
 [GRASSYSEED]
-Name = Grassy Seed
-NamePlural = Grassy Seeds
+Name = Graine Herbe
+NamePlural = Graines Herbe
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once.
+Description = Objet à tenir. Augmente la Défense lorsque le terrain est couvert d’un Champ Herbu.
 #-------------------------------
 [MISTYSEED]
-Name = Misty Seed
-NamePlural = Misty Seeds
+Name = Graine Brume
+NamePlural = Graines Brume
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.
+Description = Objet à tenir. Augmente la Défense Spéciale lorsque le terrain est couvert d’un Champ Brumeux.
 #-------------------------------
 [PSYCHICSEED]
-Name = Psychic Seed
-NamePlural = Psychic Seeds
+Name = Graine Psychique
+NamePlural = Graines Psychiques
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once.
+Description = Objet à tenir. Augmente la Défense Spéciale lorsque le terrain est couvert d’un Champ Psychique.
 #-------------------------------
 [LIFEORB]
 Name = Orbe Vie
