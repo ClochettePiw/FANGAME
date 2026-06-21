@@ -1,0 +1,823 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[POKEMONTRAINER_Red]
+Name = Dresseur
+Gender = Male
+BaseMoney = 60
+BattleBGM = BT-Rival
+#-------------------------------
+[POKEMONTRAINER_Leaf]
+Name = Dresseur
+Gender = Male
+BaseMoney = 60
+BattleBGM = BT-Rival
+#-------------------------------
+[ISAAC]
+Name = Dresseur
+Gender = Male
+BaseMoney = 50
+SkillLevel = 40
+BattleBGM = BT-Rival
+#-------------------------------
+[ISAAC2]
+Name = Dresseur
+Gender = Male
+BaseMoney = 150
+SkillLevel = 90
+BattleBGM = BT-Rival
+#-------------------------------
+[EMILIE]
+Name = Dresseuse
+Gender = Female
+BaseMoney = 50
+SkillLevel = 40
+BattleBGM = BT-Rival
+#-------------------------------
+[MILOY]
+Name = Rival
+Gender = Male
+BaseMoney = 50
+SkillLevel = 50
+BattleBGM = BT-Rival
+#-------------------------------
+[MILOO]
+Name = Dresseur
+Gender = Male
+BaseMoney = 150
+SkillLevel = 90
+BattleBGM = BT-MiloEnd
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[REGALIAM]
+Name = Sbire
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-Regalia
+BattleBGM = BT-RegaliaGrunt
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[REGALIAF]
+Name = Sbire
+Gender = Female
+BaseMoney = 24
+IntroBGM = ET-Regalia
+BattleBGM = BT-RegaliaGrunt
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[REGALIADUO]
+Name = Sbires
+Gender = Male
+BaseMoney = 48
+IntroBGM = ET-Regalia
+BattleBGM = BT-RegaliaGrunt
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[ROBBER]
+Name = Malfrat
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-Regalia
+BattleBGM = BT-Keith
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[KEITH]
+Name = Cambrioleur
+Gender = Male
+BaseMoney = 48
+SkillLevel = 50
+IntroBGM = ET-Regalia
+BattleBGM = BT-Keith
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[KEITHREGALIADUO]
+Name = Sbire
+Gender = Male
+BaseMoney = 60
+SkillLevel = 50
+IntroBGM = ET-Regalia
+BattleBGM = BT-Keith
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[SOULEYMAN]
+Name = Majordome
+Gender = Male
+BaseMoney = 48
+SkillLevel = 50
+BattleBGM = BT-RegaliaGrunt
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[REGALIAPRINCE]
+Name = Prince
+Gender = Male
+BaseMoney = 80
+SkillLevel = 50
+BattleBGM = BT-PrincePrincess
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[REGALIAPRINCESS]
+Name = Princesse
+Gender = Female
+BaseMoney = 80
+SkillLevel = 50
+BattleBGM = BT-PrincePrincess
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[REGALIAQUEEN]
+Name = Reine
+Gender = Female
+BaseMoney = 120
+SkillLevel = 90
+BattleBGM = BT-QueenKing
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[REGALIAKING]
+Name = Leader Régalia
+Gender = Male
+BaseMoney = 180
+SkillLevel = 90
+BattleBGM = BT-Faust
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[GYMLEADER1]
+Name = Champion
+Gender = Male
+BaseMoney = 120
+SkillLevel = 50
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[GYMLEADER2]
+Name = Champion
+Gender = Male
+BaseMoney = 120
+SkillLevel = 50
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[GYMLEADER3]
+Name = Championne
+Gender = Female
+BaseMoney = 120
+SkillLevel = 50
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[GYMLEADER4]
+Name = Champion
+Gender = Male
+BaseMoney = 120
+SkillLevel = 50
+SkillLevel = 60
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[GYMLEADER5]
+Name = Championne
+Gender = Male
+BaseMoney = 120
+SkillLevel = 60
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[GYMLEADER6]
+Name = Champion
+Gender = Male
+BaseMoney = 120
+SkillLevel = 60
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[GYMLEADER7]
+Name = Champion
+Gender = Male
+BaseMoney = 120
+SkillLevel = 60
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[GYMLEADER8]
+Name = Champion
+Gender = Male
+BaseMoney = 120
+SkillLevel = 60
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[ELITE4POISON]
+Name = Conseil 4
+Gender = Male
+BaseMoney = 120
+SkillLevel = 100
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[ELITE4FIGHTING]
+Name = Conseil 4
+Gender = Male
+BaseMoney = 120
+SkillLevel = 100
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[ELITE4GHOST]
+Name = Conseil 4
+Gender = Female
+BaseMoney = 120
+SkillLevel = 100
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[ELITE4FAIRY]
+Name = Conseil 4
+Gender = Female
+BaseMoney = 120
+SkillLevel = 100
+BattleBGM = BT-NewGymLeader
+VictoryBGM = VIC-Gym
+#-------------------------------
+[CHAMPION]
+Name = Maître
+Gender = Male
+BaseMoney = 180
+SkillLevel = 100
+BattleBGM = BT-Champion
+VictoryBGM = VIC-Gym
+#-------------------------------
+[LASSC]
+Name = Fillette
+Gender = Female
+BaseMoney = 16
+IntroBGM = ET-Lass
+#-------------------------------
+[LASSW]
+Name = Fillette
+Gender = Female
+BaseMoney = 16
+IntroBGM = ET-Lass
+#-------------------------------
+[PKMNRANGERF]
+Name = PKMN Ranger
+Gender = Female
+BaseMoney = 24
+IntroBGM = ET-Tamer
+#-------------------------------
+[PKMNRANGERM]
+Name = PKMN Ranger
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-Tamer
+#-------------------------------
+[BUGMANIACM]
+Name = Entomomaniac
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-BugManiac
+#-------------------------------
+[BUGMANIACF]
+Name = Entomomaniac
+Gender = Female
+BaseMoney = 24
+IntroBGM = ET-BugManiac
+#-------------------------------
+[AROMALADY]
+Name = Aroma
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-BeautyParasolAroma
+#-------------------------------
+[LADY]
+Name = Mademoiselle
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-Lady
+#-------------------------------
+[ILLUSIONIST]
+Name = Illusioniste
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[YOUNGSTERH]
+Name = Gamin
+Gender = Male
+BaseMoney = 16
+IntroBGM = ET-Youngster
+#-------------------------------
+[YOUNGSTERC]
+Name = Gamin
+Gender = Male
+BaseMoney = 16
+IntroBGM = ET-Youngster
+#-------------------------------
+[SOCIALITE]
+Name = Mondaine
+Gender = Female
+BaseMoney = 100
+IntroBGM = ET-BeautyParasolAroma
+#-------------------------------
+[GENTLEMAN]
+Name = Gentleman
+Gender = Male
+BaseMoney = 100
+IntroBGM = ET-BeautyParasolAroma
+#-------------------------------
+[POKEMANIAC2]
+Name = Pokémaniac
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SWIMMERFF]
+Name = Nageuse
+Gender = Female
+BaseMoney = 16
+IntroBGM = ET-Swimmer
+#-------------------------------
+[SWIMMERF]
+Name = Nageuse
+Gender = Female
+BaseMoney = 16
+IntroBGM = ET-Swimmer
+#-------------------------------
+[SWIMMERM]
+Name = Nageur
+Gender = Male
+BaseMoney = 16
+IntroBGM = ET-Swimmer
+#-------------------------------
+[BACKPACKERF]
+Name = Randonneuse
+Gender = Female
+BaseMoney = 24
+IntroBGM = ET-Hiker
+#-------------------------------
+[BACKPACKERM]
+Name = Randonneur
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-Hiker
+#-------------------------------
+[RUINMANIAC]
+Name = Ruinemaniac
+Gender = Male
+BaseMoney = 48
+IntroBGM = ET-Miner
+#-------------------------------
+[CHEF]
+Name = Cuisto
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-Circus
+#-------------------------------
+[SKIIER]
+Name = Skieur
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Rancher
+#-------------------------------
+[SKYTRAINERM]
+Name = Dresseur Aérien
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Lady
+#-------------------------------
+[SKYTRAINERF]
+Name = Dresseuse Aérienne
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-Lady
+#-------------------------------
+[IDOLC]
+Name = Starlette
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-Idol
+#-------------------------------
+[MINERY]
+Name = Mineur
+Gender = Male
+BaseMoney = 40
+IntroBGM = ET-Miner
+#-------------------------------
+[MINERO]
+Name = Mineur
+Gender = Male
+BaseMoney = 40
+IntroBGM = ET-Miner
+#-------------------------------
+[HIKER]
+Name = Montagnard
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Hiker
+#-------------------------------
+[ESKIMO]
+Name = Alpiniste
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Hiker
+#-------------------------------
+[BIRDWATCHER]
+Name = Amateur d'Oiseaux
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-ShutterbugBirdWatcher
+#-------------------------------
+[BIRDKEEPER]
+Name = Ornithologue
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-ShutterbugBirdWatcher
+#-------------------------------
+[SCHOOLKIDM]
+Name = Écolier
+Gender = Male
+BaseMoney = 8
+IntroBGM = ET-YoungExpBugCatc
+#-------------------------------
+[SCHOOLKIDF]
+Name = Écolière
+Gender = Female
+BaseMoney = 8
+IntroBGM = ET-YoungExpBugCatc
+#-------------------------------
+[BLACKBELT]
+Name = Karatéka
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-BlackBeltBattleLady
+#-------------------------------
+[BATTLEGIRL]
+Name = Combattante
+Gender = Female
+BaseMoney = 24
+IntroBGM = ET-BlackBeltBattleLady
+#-------------------------------
+[FISHERMANC]
+Name = Pêcheur
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Fisherman
+#-------------------------------
+[FISHERMANW]
+Name = Pêcheur
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Fisherman
+#-------------------------------
+[RANCHER]
+Name = Fermière
+Gender = Female
+BaseMoney = 16
+IntroBGM = ET-Rancher
+#-------------------------------
+[LUMBERJACK]
+Name = Bûcheron
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Miner
+#-------------------------------
+[ENGINEER]
+Name = Ingénieur
+Gender = Male
+BaseMoney = 48
+IntroBGM = ET-EngineerWelder
+#-------------------------------
+[GARDENERF]
+Name = Jardinière
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-BeautyParasolAroma
+#-------------------------------
+[GARDENERM]
+Name = Jardinier
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-BeautyParasolAroma
+#-------------------------------
+[SCIENTISTM]
+Name = Scientifique
+Gender = Male
+BaseMoney = 48
+IntroBGM = ET-Scientist
+#-------------------------------
+[SCIENTISTF]
+Name = Scientifique
+Gender = Female
+BaseMoney = 48
+IntroBGM = ET-Scientist
+#-------------------------------
+[MEDIUM]
+Name = Médium
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-Medium
+#-------------------------------
+[PAWTER]
+Name = PokéKid
+Gender = Male
+BaseMoney = 8
+IntroBGM = ET-Youngster
+#-------------------------------
+[CAMPER]
+Name = Campeur
+Gender = Male
+BaseMoney = 16
+IntroBGM = ET-Youngster
+#-------------------------------
+[PICNICKER]
+Name = Pique-Nique
+Gender = Female
+BaseMoney = 16
+IntroBGM = ET-Lass
+#-------------------------------
+[OFFICER]
+Name = Officier
+Gender = Male
+BaseMoney = 40
+IntroBGM = ET-WorkerOfficer
+#-------------------------------
+[CAMPERBOYGIRL]
+Name = Young Explorers
+Gender = Unknown
+BaseMoney = 30
+IntroBGM = ET-YoungExpBugCatc
+#-------------------------------
+[BUGCATCHER]
+Name = Scout
+Gender = Female
+BaseMoney = 16
+IntroBGM = ET-YoungExpBugCatc
+#-------------------------------
+[PSYCHICF]
+Name = Kinésiste
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-Psychic
+#-------------------------------
+[TREASUREHUNTER]
+Name = Chasseur de trésors
+Gender = Male
+BaseMoney = 48
+IntroBGM = ET-Merchant
+#-------------------------------
+[MERCHANTM]
+Name = Marchand
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Merchant
+#-------------------------------
+[MERCHANTF]
+Name = Marchande
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-Merchant
+#-------------------------------
+[SURVIVALIST]
+Name = Survivaliste
+Gender = Male
+BaseMoney = 8
+IntroBGM = ET-Survivalist
+#-------------------------------
+[COLLECTOR]
+Name = Collectionneur
+Gender = Male
+BaseMoney = 64
+IntroBGM = ET-BugManiac
+#-------------------------------
+[ROUGHNECK]
+Name = Loubard
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-Roughneck
+#-------------------------------
+[PIRATEM]
+Name = Boucanier
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Roughneck
+#-------------------------------
+[PIRATEF]
+Name = Boucanière
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-Roughneck
+#-------------------------------
+[KINDLER]
+Name = Saltimanque
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-BikerKindler
+#-------------------------------
+[PARASOL]
+Name = Sœur Parasol
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-BeautyParasolAroma
+#-------------------------------
+[SHUTTERBUG]
+Name = Photographe
+Gender = Male
+BaseMoney = 40
+IntroBGM = ET-ShutterbugBirdWatcher
+#-------------------------------
+[BEAUTY]
+Name = Canon
+Gender = Female
+BaseMoney = 56
+IntroBGM = ET-Lady
+#-------------------------------
+[BEAUTYROUGHNECK]
+Name = Canon et Loubard
+Gender = Male
+BaseMoney = 80
+IntroBGM = ET-BeautyParasolAroma
+#-------------------------------
+[WORKER]
+Name = Contremaître
+Gender = Male
+BaseMoney = 40
+IntroBGM = ET-WorkerOfficer
+#-------------------------------
+[WELDER]
+Name = Électricien
+Gender = Male
+BaseMoney = 40
+IntroBGM = ET-EngineerWelder
+#-------------------------------
+[TUBERM]
+Name = Garçon à la Bouée
+Gender = Male
+BaseMoney = 16
+IntroBGM = ET-YoungExpBugCatc
+#-------------------------------
+[TUBERF]
+Name = Fille à la Bouée
+Gender = Female
+BaseMoney = 16
+IntroBGM = ET-YoungExpBugCatc
+#-------------------------------
+[SAILOR]
+Name = Marin
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-WorkerOfficer
+#-------------------------------
+[DIVER]
+Name = Plongeur
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Diver
+#-------------------------------
+[SCIENTIST_1]
+Name = Scientifique
+Gender = Female
+BaseMoney = 48
+IntroBGM = ET-Scientist
+#-------------------------------
+[POKEMANIAC]
+Name = Pokémaniac
+Gender = Male
+BaseMoney = 48
+IntroBGM = ET-BugManiac
+#-------------------------------
+[RANGERW]
+Name = Ranger
+Gender = Male
+BaseMoney = 48
+IntroBGM = ET-Ranger
+#-------------------------------
+[CYCLISTF]
+Name = Cycliste
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-Idol
+#-------------------------------
+[CYCLISTM]
+Name = Cycliste
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Idol
+#-------------------------------
+[BIKER]
+Name = Motard
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-BikerHeavyGuitar
+#-------------------------------
+[GUITARIST]
+Name = Guitariste
+Gender = Female
+BaseMoney = 24
+IntroBGM = ET-BikerHeavyGuitar
+#-------------------------------
+[ROCKER]
+Name = Rocker
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-BlackBeltBattleLady
+#-------------------------------
+[BREEDERM]
+Name = Éleveur
+Gender = Male
+BaseMoney = 48
+IntroBGM = ET-Tamer
+#-------------------------------
+[BREEDERF]
+Name = Éleveuse
+Gender = Female
+BaseMoney = 48
+IntroBGM = ET-Tamer
+#-------------------------------
+[PILOTCOPILOT]
+Name = Pilote et Copilote
+Gender = Unknown
+BaseMoney = 32
+IntroBGM = ET-Pilot
+#-------------------------------
+[CLOWN]
+Name = Clown
+Gender = Male
+BaseMoney = 24
+IntroBGM = ET-Circus
+#-------------------------------
+[TAMER]
+Name = Entraîneuse
+Gender = Female
+BaseMoney = 40
+IntroBGM = ET-Tamer
+#-------------------------------
+[TOREADOR]
+Name = Toréador
+Gender = Male
+BaseMoney = 40
+IntroBGM = ET-Tamer
+#-------------------------------
+[ACROBAT]
+Name = Acrobate
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-Acrobat
+#-------------------------------
+[HEAVYWEIGHT]
+Name = Culturiste
+Gender = Male
+BaseMoney = 48
+IntroBGM = ET-BikerHeavyGuitar
+#-------------------------------
+[ACETRAINERCM]
+Name = Topdresseur
+Gender = Male
+BaseMoney = 60
+IntroBGM = ET-AceTrainer
+#-------------------------------
+[ACETRAINERCF]
+Name = Topdresseuse
+Gender = Female
+BaseMoney = 60
+IntroBGM = ET-AceTrainer
+#-------------------------------
+[ACETRAINERWM]
+Name = Topdresseur
+Gender = Male
+BaseMoney = 60
+IntroBGM = ET-AceTrainer
+#-------------------------------
+[ACETRAINERWF]
+Name = Topdresseuse
+Gender = Female
+BaseMoney = 60
+IntroBGM = ET-AceTrainer
+#-------------------------------
+[MONKM]
+Name = Moine
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Psychic
+#-------------------------------
+[MONKF]
+Name = Moine
+Gender = Female
+BaseMoney = 32
+IntroBGM = ET-Psychic
+#-------------------------------
+[DRAGONTAMER]
+Name = Dracologue
+Gender = Female
+BaseMoney = 48
+IntroBGM = ET-DragonTamer
+#-------------------------------
+[RANGERCF]
+Name = Ranger
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[SURFER]
+Name = Surfeur
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-BikerHeavyGuitar
+#-------------------------------
+[PSYCHICM]
+Name = Kinésiste
+Gender = Male
+BaseMoney = 32
+IntroBGM = ET-Psychic
