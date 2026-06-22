@@ -3,7 +3,7 @@
 [0]
 StartMoney = 3000
 StartItemStorage = POTION
-Home = 2,24,34,8
+Home = 7,15,14,2
 StorageCreator = Bill
 WildBattleBGM = Battle wild
 TrainerBattleBGM = Battle trainer
@@ -22,8 +22,14 @@ SurfCharset = boy_surf
 DiveCharset = boy_surf
 FishCharset = boy_fish_offset
 SurfFishCharset = boy_fish_offset
+Home = 7,15,14,2
 #-------------------------------
 [2]
 TrainerType = POKEMONTRAINER_Red
 WalkCharset = trainer_POKEMONTRAINER_Red_Régalia
 RunCharset = boy_run_Régalia
+CycleCharset = boy_run_Régalia
+SurfCharset = boy_run_Régalia
+DiveCharset = boy_run_Régalia
+FishCharset = trainer_POKEMONTRAINER_Red_Régalia
+SurfFishCharset = trainer_POKEMONTRAINER_Red_Régalia

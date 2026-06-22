@@ -3053,7 +3053,7 @@ Pokemon = DRAGALGE,60
 #-------------------------------
 [ELITE4FIGHTING,Floyd,1]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = ***
+LoseText = C'est une issue à laquelle je ne m'attendais pas.
 Pokemon = PALAFIN,61
     Moves = FLIPTURN,WAVECRASH,DRAINPUNCH,HYPERVOICE
     AbilityIndex = 0
@@ -3087,7 +3087,7 @@ Pokemon = BLAZIKEN,60
 #-------------------------------
 [ELITE4GHOST,Alma,1]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = ***
+LoseText = Snif… Ne t'en fais pas, ce sont des larmes de joie…
 Pokemon = GOLURK,60
     Moves = EARTHQUAKE,SHADOWPUNCH,HEAVYSLAM,STEALTHROCK
     AbilityIndex = 0
@@ -3121,7 +3121,7 @@ Pokemon = BASCULEGION,62
 #-------------------------------
 [ELITE4FAIRY,Kimiko,1]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = ***
+LoseText = Et voici que s'achève le premier acte…
 Pokemon = DACHSBUN,61
     Moves = PLAYROUGH,CRUNCH,BODYPRESS,MISTYTERRAIN
     AbilityIndex = 0
