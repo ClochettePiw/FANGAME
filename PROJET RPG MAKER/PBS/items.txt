@@ -429,12 +429,12 @@ Flags = Fling_100
 Description = The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
 #-------------------------------
 [PRETTYFEATHER]
-Name = Jolie Plume
-NamePlural = Jolies Plumes
+Name = Pretty Feather
+NamePlural = Pretty Feathers
 Pocket = 1
 Price = 1000
 Flags = Fling_20
-Description = Une plume très jolie, mais ordinaire et sans effet particulier.
+Description = Though this feather is beautiful, it's just a regular feather and has no effect on Pokémon.
 #-------------------------------
 [TINYMUSHROOM]
 Name = Petit Champi
@@ -503,8 +503,8 @@ Flags = Fling_30
 Description = Un fragment de gemme qui brille d'un éclat rouge. Peut être vendue à bon prix en magasin.
 #-------------------------------
 [COMETSHARD]
-Name = Morceau Comète
-NamePlural = Morceaux Comète
+Name = Comet Shard
+NamePlural = Comet Shards
 Pocket = 1
 Price = 25000
 Flags = Fling_30
@@ -805,16 +805,16 @@ Flags = Fling_80
 Description = Objet à tenir. Protège le Pokémon contre les dégâts dus à la météo et la plupart des capacités utilisant de la poudre.
 #-------------------------------
 [PROTECTIVEPADS]
-Name = Pare-Effet
-NamePlural = Pares-Effet
-PortionName = paire de Pares-Effet
-PortionNamePlural = paires de Pares-Effet
+Name = Protective Pads
+NamePlural = Protective Pads
+PortionName = set of Protective Pads
+PortionNamePlural = sets of Protective Pads
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 BPPrice = 25
 Flags = Fling_30
-Description = Objet à tenir. Annule les effets subis par le porteur quand il utilise une attaque directe sur un autre Pokémon.
+Description = An item to be held by a Pokémon. They protect the holder from effects caused by making contact.
 #-------------------------------
 [HEAVYDUTYBOOTS]
 Name = Heavy-Duty Boots
@@ -994,13 +994,13 @@ Flags = Fling_40
 Description = Objet à tenir. Prolonge la durée de la capacité Grêle utilisée par le porteur.
 #-------------------------------
 [TERRAINEXTENDER]
-Name = Champ'Duit
-NamePlural = Champ'Duits
+Name = Terrain Extender
+NamePlural = Terrain Extenders
 Pocket = 1
 Price = 4000
 BPPrice = 15
 Flags = Fling_60
-Description = Objet à tenir. Prolonge la durée des champs que le Pokémon peut créer sur le terrain avec une capacité ou un talent.
+Description = An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder.
 #-------------------------------
 [LIGHTCLAY]
 Name = Lumargile
@@ -1188,40 +1188,40 @@ Flags = Fling_100
 Description = An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.
 #-------------------------------
 [ELECTRICSEED]
-Name = Graine Électrik
-NamePlural = Graines Électrik
+Name = Electric Seed
+NamePlural = Electric Seeds
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = Objet à tenir. Augmente la Défense lorsque le terrain est couvert d’un Champ Électrifié.
+Description = An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.
 #-------------------------------
 [GRASSYSEED]
-Name = Graine Herbe
-NamePlural = Graines Herbe
+Name = Grassy Seed
+NamePlural = Grassy Seeds
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = Objet à tenir. Augmente la Défense lorsque le terrain est couvert d’un Champ Herbu.
+Description = An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once.
 #-------------------------------
 [MISTYSEED]
-Name = Graine Brume
-NamePlural = Graines Brume
+Name = Misty Seed
+NamePlural = Misty Seeds
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = Objet à tenir. Augmente la Défense Spéciale lorsque le terrain est couvert d’un Champ Brumeux.
+Description = An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.
 #-------------------------------
 [PSYCHICSEED]
-Name = Graine Psychique
-NamePlural = Graines Psychiques
+Name = Psychic Seed
+NamePlural = Psychic Seeds
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = Objet à tenir. Augmente la Défense Spéciale lorsque le terrain est couvert d’un Champ Psychique.
+Description = An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once.
 #-------------------------------
 [LIFEORB]
 Name = Orbe Vie
@@ -3598,7 +3598,7 @@ BPPrice = 32
 FieldUse = TR
 Flags = Fling_10
 Move = REFLECT
-Description = A wondrous wall of light is put up to reduce damage from physical attacks for five turns.
+Description = Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités physiques pendant cinq tours.
 #-------------------------------
 [TM34]
 Name = TM34
@@ -5388,31 +5388,31 @@ Flags = KeyItem
 Description = A folding Bicycle that enables much faster movement than the Running Shoes.
 #-------------------------------
 [OLDROD]
-Name = Old Rod
-NamePlural = Old Rods
+Name = Canne
+NamePlural = Cannes
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = An old and beat-up fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.
+Description = Une vieille canne usée. Utilisez-la pour pêcher des Pokémon sauvages dans les points d'eau.
 #-------------------------------
 [GOODROD]
-Name = Good Rod
-NamePlural = Good Rods
+Name = Super Canne
+NamePlural = Super Cannes
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = A new, good-quality fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.
+Description = Une canne neuve et de bonne qualité. Utilisez-la pour pêcher des Pokémon sauvages dans les points d'eau.
 #-------------------------------
 [SUPERROD]
-Name = Super Rod
-NamePlural = Super Rods
+Name = Méga Canne
+NamePlural = Méga Canne
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = An awesome, high-tech fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.
+Description = Une canne à pêche ultramoderne. Utilisez-la pour pêcher des Pokémon sauvages dans les points d'eau.
 #-------------------------------
 [ITEMFINDER]
 Name = Itemfinder
