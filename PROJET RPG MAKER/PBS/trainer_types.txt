@@ -37,7 +37,6 @@ BattleBGM = BT-Rival
 Name = Rival
 Gender = Male
 BaseMoney = 50
-SkillLevel = 50
 BattleBGM = BT-Rival
 #-------------------------------
 [MILOO]
@@ -166,7 +165,6 @@ VictoryBGM = VIC-Gym
 Name = Champion
 Gender = Male
 BaseMoney = 120
-SkillLevel = 50
 SkillLevel = 60
 BattleBGM = BT-NewGymLeader
 VictoryBGM = VIC-Gym

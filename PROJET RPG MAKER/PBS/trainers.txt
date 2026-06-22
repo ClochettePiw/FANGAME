@@ -2024,10 +2024,11 @@ LoseText = Quoi ? Ça a commencé ?
 Pokemon = MUSHARNA,37
 #-------------------------------
 [MEDIUM,Eurydice]
-LoseText = Même moi, je ne peux expliquer ce qu'il vient de se passer.
+LoseText = ...
 Pokemon = LITWICK,33
 Pokemon = GOLETT,35
 Pokemon = BASCULEGION,36
+    Form = 1
     Gender = female
 #-------------------------------
 [BUGMANIACF,Frida]
@@ -2614,10 +2615,10 @@ Pokemon = SANDACONDA,49
 Items = FULLRESTORE,FULLRESTORE
 LoseText = Oh non… C'est déjà fini ?
 Pokemon = TATSUGIRI,51
+    Form = 0
     Moves = MIRRORCOAT,MEMENTO,DRAGONPULSE,DRAGONDANCE
     AbilityIndex = 0
     Gender = male
-    Form = 0
     IV = 31,31,31,31,31,31
 Pokemon = DONDOZO,51
     Moves = ORDERUP,AQUATAIL,REST,BODYPRESS
@@ -3191,9 +3192,3 @@ Pokemon = URSALUNA,65
     Item = SITRUSBERRY
     Gender = male
     IV = 31,31,31,31,31,31
-
-
-
-
-
-
