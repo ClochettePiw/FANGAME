@@ -2489,7 +2489,7 @@ Pokemon = KROOKODILE,46
 #-------------------------------
 [KEITH,Keith,2]
 Items = MAXPOTION,MAXPOTION
-LoseText = ***
+LoseText = Fichu gamin !
 Pokemon = HONCHKROW,50
     Moves = THIEF,DARKPULSE,AIRSLASH,NASTYPLOT
     AbilityIndex = 2
