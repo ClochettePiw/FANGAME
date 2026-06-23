@@ -1893,7 +1893,7 @@ Pokemon = TINGLU,40
 LoseText = J'ai la tête qui tourne…
 Pokemon = INKAY,20
 #-------------------------------
-[PIRATEF,Marlon]
+[PIRATEM,Marlon]
 LoseText = Hum… Oublie ça.
 Pokemon = MANKEY,20
 Pokemon = REMORAID,21
@@ -3192,3 +3192,4 @@ Pokemon = URSALUNA,65
     Item = SITRUSBERRY
     Gender = male
     IV = 31,31,31,31,31,31
+
