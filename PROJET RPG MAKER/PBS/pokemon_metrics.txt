@@ -356,7 +356,7 @@ ShadowSize = 3
 #-------------------------------
 [DRIFLOON]
 BackSprite = 0,30
-FrontSprite = -2,5
+FrontSprite = 0,10
 ShadowX = 0
 ShadowSize = 1
 #-------------------------------
