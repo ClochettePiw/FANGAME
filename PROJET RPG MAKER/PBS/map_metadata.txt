@@ -902,10 +902,10 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 #-------------------------------
-[104]   # Elevator Top
+[104]   # Hardia - QG des Rangers
 Name = Route 17
 #-------------------------------
-[105]   # Elevator Bottom
+[105]   # Elevator
 Name = Route 17
 #-------------------------------
 [106]   # Port de Stalno
