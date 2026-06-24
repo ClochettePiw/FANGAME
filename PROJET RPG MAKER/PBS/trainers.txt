@@ -766,7 +766,7 @@ Pokemon = SANDILE,25
 #-------------------------------
 [REGALIAM,Régalia,7]
 LoseText = Il faut avertir le commandement !
-Pokemon = PAWNIARD,27
+Pokemon = PAWNIARD,99
 #-------------------------------
 [REGALIAM,Régalia,8]
 LoseText = Allez jouer ailleurs, les mômes !
