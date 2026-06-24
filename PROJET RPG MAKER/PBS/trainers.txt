@@ -139,7 +139,7 @@ Pokemon = LILLIPUP,12
     Gender = female
 Pokemon = STANTLER,13
     Moves = TACKLE,MUDSLAP,FOCUSENERGY
-    AbilityIndex = 0
+    AbilityIndex = 1
     Item = ORANBERRY
     Gender = male
 #-------------------------------
