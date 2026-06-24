@@ -621,28 +621,28 @@ Pokemon = BRELOOM,23
 #-------------------------------
 [MINERY,Robb]
 LoseText = C'est l'heure de la pause...
-Pokemon = DRILBUR,23
-Pokemon = DRILBUR,23
+Pokemon = DRILBUR,22
+Pokemon = DRILBUR,22
 #-------------------------------
 [WORKER,Josef]
 LoseText = C'est chaud bouillant, là...
-Pokemon = ROGGENROLA,22
-Pokemon = VULPIX,22
-Pokemon = ARON,23
+Pokemon = ROGGENROLA,21
+Pokemon = VULPIX,21
+Pokemon = ARON,22
 #-------------------------------
 [ACETRAINERWM,Sullivan]
 LoseText = Tu as sûrement tes chances dans l'arène.
-Pokemon = GLIGAR,25
-Pokemon = SERVINE,25
+Pokemon = GLIGAR,24
+Pokemon = SERVINE,24
 #-------------------------------
 [MINERO,Patrice]
 LoseText = On dirait bien que tu es de taille.
-Pokemon = ROLYCOLY,23
-Pokemon = CARKOL,24
+Pokemon = ROLYCOLY,22
+Pokemon = CARKOL,23
 #-------------------------------
 [MINERY,Marc]
 LoseText = Je vais appeler à la grève générale...
-Pokemon = BOLDORE,25
+Pokemon = BOLDORE,24
 #-------------------------------
 [SCIENTISTM,Virgile]
 LoseText = Je suis un vrai scientifique, promis !
@@ -651,14 +651,14 @@ Pokemon = TYNAMO,23
 #-------------------------------
 [MONKM,Alban]
 LoseText = Si j'ai eu peur ? N-Non... Je plaisantais.
-Pokemon = FLITTLE,22
-Pokemon = FLITTLE,22
-Pokemon = MANKEY,24
+Pokemon = FLITTLE,21
+Pokemon = FLITTLE,21
+Pokemon = MANKEY,23
 #-------------------------------
 [MINERO,Darius]
 LoseText = Mauvaise pioche !
 Pokemon = ARON,21
-Pokemon = CARKOL,24
+Pokemon = CARKOL,23
 #-------------------------------
 [WORKER,Emmett]
 LoseText = Il y a une faille dans mes certitudes...
@@ -863,44 +863,44 @@ Pokemon = DHELMISE,31
 #-------------------------------
 [BLACKBELT,Yasin]
 LoseText = J'ai vu trente-six chandelles...
+Pokemon = CLOBBOPUS,24
 Pokemon = CLOBBOPUS,25
-Pokemon = CLOBBOPUS,26
 #-------------------------------
 [GUITARIST,Tessa]
 LoseText = J'ai besoin d'écrire tout ça quelque part, avant que ça ne sorte de ma tête.
 Pokemon = HELIOPTILE,23
-Pokemon = EMOLGA,26
+Pokemon = EMOLGA,25
 #-------------------------------
 [SAILOR,Bob]
 LoseText = Il faut croire que l'habit ne fait pas le moine...
-Pokemon = WINGULL,23
-Pokemon = FINIZEN,24
-Pokemon = CLOBBOPUS,26
+Pokemon = WINGULL,21
+Pokemon = FINIZEN,22
+Pokemon = CLOBBOPUS,24
 #-------------------------------
 [SWIMMERF,Océane]
 LoseText = J'ai bu la tasse !
-Pokemon = FRILLISH,27
+Pokemon = FRILLISH,25
     Gender = female
 #-------------------------------
 [SWIMMERM,Luigi]
 LoseText = Il faut parfois savoir s'avouer vaincu...
-Pokemon = CHINCHOU,25
-Pokemon = CHINCHOU,25
-Pokemon = FRILLISH,25
+Pokemon = CHINCHOU,23
+Pokemon = CHINCHOU,23
+Pokemon = FRILLISH,24
     Gender = male
 #-------------------------------
 [SWIMMERF,Maria]
 LoseText = C'est fini ?
-Pokemon = STARYU,26
-Pokemon = CLOYSTER,26
+Pokemon = STARYU,24
+Pokemon = CLOYSTER,25
 #-------------------------------
 [TUBERM,Loïc]
 LoseText = Mon équipe s'est dégonflée...
-Pokemon = CHINCHOU,26
+Pokemon = CHINCHOU,24
 #-------------------------------
 [TUBERF,Célia]
 LoseText = Mes projets tombent tous à l'eau...
-Pokemon = SPHEAL,26
+Pokemon = SPHEAL,25
 #-------------------------------
 [ACETRAINERCF,Élisa]
 LoseText = J'en ai eu pour mon argent...
