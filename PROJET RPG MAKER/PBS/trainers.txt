@@ -759,53 +759,53 @@ Pokemon = SERVINE,28
 #-------------------------------
 [REGALIADUO,Régalia,6]
 LoseText = Je sens qu'on va ENCORE avoir des complications...
-Pokemon = SNORUNT,26
-Pokemon = PRIMEAPE,28
-Pokemon = HONEDGE,27
-Pokemon = SANDILE,27
+Pokemon = SNORUNT,24
+Pokemon = PRIMEAPE,26
+Pokemon = HONEDGE,25
+Pokemon = SANDILE,25
 #-------------------------------
 [REGALIAM,Régalia,7]
 LoseText = Il faut avertir le commandement !
-Pokemon = PAWNIARD,29
+Pokemon = PAWNIARD,27
 #-------------------------------
 [REGALIAM,Régalia,8]
 LoseText = Allez jouer ailleurs, les mômes !
-Pokemon = HONEDGE,29
+Pokemon = HONEDGE,27
 #-------------------------------
 [REGALIAF,Régalia,9]
 LoseText = A votre place, je retournerai d'où je suis venue.
-Pokemon = SILICOBRA,29
+Pokemon = SILICOBRA,28
 #-------------------------------
 [REGALIAM,Régalia,10]
 LoseText = Vous arrivez trop tard, une fois de plus.
-Pokemon = PAWNIARD,27
-Pokemon = INKAY,28
+Pokemon = PAWNIARD,26
+Pokemon = INKAY,27
 #-------------------------------
 [REGALIAF,Régalia,11]
 LoseText = J'espère qu'on me paiera des heures supplémentaires...
-Pokemon = NYMBLE,26
-Pokemon = LOKIX,28
+Pokemon = NYMBLE,25
+Pokemon = LOKIX,27
 #-------------------------------
 [REGALIAF,Régalia,12]
 LoseText = Vous allez vous attirer de gros ennuis.
-Pokemon = MANKEY,27
-Pokemon = SANDILE,27
+Pokemon = MANKEY,26
+Pokemon = SANDILE,26
 #-------------------------------
 [REGALIAM,Régalia,13]
 LoseText = Ce n'est pas comme si vous risquiez d'aller bien loin.
-Pokemon = SALANDIT,27
-Pokemon = SNORUNT,28
+Pokemon = SALANDIT,26
+Pokemon = SNORUNT,27
 #-------------------------------
 [REGALIAM,Régalia,14]
 LoseText = C'est déjà fini ?
-Pokemon = SANDILE,28
-Pokemon = PAWNIARD,27
+Pokemon = SANDILE,27
+Pokemon = PAWNIARD,26
 #-------------------------------
 [REGALIAF,Régalia,15]
 LoseText = Je n'en reviens pas !
-Pokemon = PAWNIARD,27
-Pokemon = SALANDIT,27
-Pokemon = HONEDGE,28
+Pokemon = PAWNIARD,26
+Pokemon = SALANDIT,26
+Pokemon = HONEDGE,27
 #-------------------------------
 [REGALIAM,Régalia,16]
 LoseText = Quelle insolence !
@@ -813,45 +813,45 @@ Pokemon = KROKOROK,29
 #-------------------------------
 [REGALIAF,Régalia,17]
 LoseText = J'ai failli à mon devoir...
-Pokemon = INKAY,28
-Pokemon = PRIMEAPE,28
+Pokemon = INKAY,26
+Pokemon = PRIMEAPE,27
 #-------------------------------
 [REGALIAM,Régalia,18]
 LoseText = Je comprends mieux pourquoi...
-Pokemon = SCRAGGY,27
+Pokemon = SCRAGGY,25
 Pokemon = SNORUNT,27
 Pokemon = SALANDIT,28
 #-------------------------------
 [REGALIAF,Régalia,19]
 LoseText = Ma vengeance sera terrible...
-Pokemon = PANCHAM,28
-Pokemon = SILICOBRA,28
+Pokemon = PANCHAM,27
+Pokemon = SILICOBRA,27
 #-------------------------------
 [REGALIAF,Régalia,20]
 LoseText = J'ai gagné, mais à quel prix ?...
-Pokemon = SCRAGGY,28
-Pokemon = INKAY,28
+Pokemon = SCRAGGY,27
+Pokemon = INKAY,27
 #-------------------------------
 [REGALIAM,Régalia,21]
 LoseText = Quoi ?!
-Pokemon = INKAY,26
-Pokemon = SCRAGGY,27
-Pokemon = HONEDGE,27
+Pokemon = INKAY,24
+Pokemon = SCRAGGY,25
+Pokemon = HONEDGE,25
 #-------------------------------
 [REGALIAPRINCE,Alistair,1]
 Items = HYPERPOTION
 LoseText = Tu choisis donc de t'opposer aux dignes héritiers du trône.
-Pokemon = YAMASK,29
+Pokemon = YAMASK,28
     Moves = HEX,TOXIC,PROTECT,DARKPULSE
     AbilityIndex = 0
     Gender = male
     IV = 31,31,31,31,31,31
-Pokemon = SILICOBRA,30
+Pokemon = SILICOBRA,28
     Moves = GLARE,EARTHPOWER,DRAGONRUSH,FACADE
     AbilityIndex = 1
     Gender = female
     IV = 31,31,31,31,31,31
-Pokemon = HONEDGE,30
+Pokemon = HONEDGE,29
     Moves = SWORDSDANCE,RETALIATE,SHADOWCLAW,IRONHEAD
     AbilityIndex = 0
     Gender = male
