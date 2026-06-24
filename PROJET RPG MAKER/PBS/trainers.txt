@@ -293,18 +293,15 @@ Pokemon = DRIFLOON,16
     AbilityIndex = 1
     Item = STICKYBARB
     Gender = female
-    IV = 31,28,26,28,28,30
 Pokemon = EMOLGA,17
     Moves = TAILWIND,THUNDERSHOCK,AGILITY,SWIFT
     AbilityIndex = 0
     Gender = female
-    IV = 31,28,28,28,29,30
 Pokemon = GLISCOR,18
     Moves = FIREFANG,ACROBATICS,KNOCKOFF,MUDSHOT
     AbilityIndex = 0
-    Item = SITRUSBERRY
+    Item = ORANBERRY
     Gender = male
-    IV = 27,27,27,27,27,27
 #-------------------------------
 [REGALIAM,Régalia,1]
 LoseText = Tu ne perds rien pour attendre !
