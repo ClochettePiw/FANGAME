@@ -290,7 +290,7 @@ ShadowSize = 3
 #-------------------------------
 [STANTLER]
 BackSprite = 0,24
-FrontSprite = -3,12
+FrontSprite = -8,18
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
