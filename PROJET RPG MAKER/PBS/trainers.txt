@@ -270,11 +270,11 @@ LoseText = Tu sembles solide sur tes appuis !
 Pokemon = FLETCHLING,14
 Pokemon = GLIGAR,14
 #-------------------------------
-[SKYTRAINERM,Alice]
+[SKYTRAINERF,Alice]
 LoseText = Et voilà que les rôles s'inversent...
 Pokemon = EMOLGA,16
 #-------------------------------
-[SKYTRAINERM,Inès]
+[SKYTRAINERF,Inès]
 LoseText = Aïe ! Mon dos !
 Pokemon = WINGULL,14
 Pokemon = WINGULL,14
