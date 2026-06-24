@@ -133,18 +133,15 @@ Pokemon = TEDDIURSA,12
     Moves = LICK,BABYDOLLEYES,FURYSWIPES,SWIFT
     AbilityIndex = 1
     Gender = male
-    IV = 28,28,28,31,28,30
 Pokemon = LILLIPUP,12
     Moves = FOCUSENERGY,TACKLE,COVET
     AbilityIndex = 0
     Gender = female
-    IV = 28,26,28,31,28,30
 Pokemon = STANTLER,13
-    Moves = STOMP,MUDSLAP,FOCUSENERGY
+    Moves = TACKLE,MUDSLAP,FOCUSENERGY
     AbilityIndex = 0
     Item = ORANBERRY
     Gender = male
-    IV = 31,26,26,28,28,30
 #-------------------------------
 [BACKPACKERF,Anouk]
 LoseText = En tout cas, elle semble semée d'embûches...
