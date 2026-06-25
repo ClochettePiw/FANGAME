@@ -1837,12 +1837,12 @@ Pokemon = KROKOROK,34
 Pokemon = DOUBLADE,35
 #-------------------------------
 [REGALIAM,Régalia,49]
-LoseText = ***
+LoseText = J'aurais mieux fait d'avoir peur.
 Pokemon = SCRAGGY,33
 Pokemon = PANGORO,36
 #-------------------------------
 [REGALIAF,Régalia,50]
-LoseText = ***
+LoseText = Des désastres comme celui-ci.
 Pokemon = LOKIX,34
 Pokemon = MURKROW,33
 Pokemon = PAWNIARD,33
@@ -2014,7 +2014,7 @@ LoseText = Quoi ? Ça a commencé ?
 Pokemon = MUSHARNA,37
 #-------------------------------
 [MEDIUM,Eurydice]
-LoseText = ...
+LoseText = Mais oui, bien sûr…
 Pokemon = LITWICK,33
 Pokemon = GOLETT,35
 Pokemon = BASCULEGION,36
@@ -2289,7 +2289,7 @@ Pokemon = PUPITAR,34
 Pokemon = ABSOL,35
 #-------------------------------
 [SKIIER,Preston]
-LoseText = ***
+LoseText = A mon tour de broyer du noir.
 Pokemon = SEALEO,39
 Pokemon = EISCUE,39
 #-------------------------------
@@ -2505,7 +2505,7 @@ Pokemon = LOKIX,52
     IV = 31,31,31,31,31,31
 #-------------------------------
 [REGALIAM,Régalia,75]
-LoseText = ***
+LoseText = On ne sera jamais débarrassés de vous, hein ?...
 Pokemon = MURKROW,43
 Pokemon = LOKIX,44
 Pokemon = COFAGRIGUS,45
