@@ -5780,6 +5780,7 @@ Name = Capsule Vol
 NamePlural = Capsules Vol
 Pocket = 8
 Price = 0
+FieldUse = Direct
 Flags = KeyItem
 Description = Une capsule permettant d'utiliser la CS Vol.
 #-------------------------------
