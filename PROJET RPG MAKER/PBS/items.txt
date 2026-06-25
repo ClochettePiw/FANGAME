@@ -5734,4 +5734,59 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Une baie très rare, aux propriétés curatives.
-
+#-------------------------------
+[CAPSULEROCKSMASH]
+Name = Capsule Éclate-Roc
+NamePlural = Capsules Éclate-Roc
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Une capsule permettant d'utiliser la CS Éclate-Roc.
+#-------------------------------
+[CAPSULECUT]
+Name = Capsule Coupe
+NamePlural = Capsules Coupe
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Une capsule permettant d'utiliser la CS Coupe.
+#-------------------------------
+[CAPSULESURF]
+Name = Capsule Surf
+NamePlural = Capsules Surf
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Une capsule permettant d'utiliser la CS Surf.
+#-------------------------------
+[CAPSULESTRENGTH]
+Name = Capsule Force
+NamePlural = Capsules Force
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Une capsule permettant d'utiliser la CS Force.
+#-------------------------------
+[CAPSULEWHIRLPOOL]
+Name = Capsule Siphon
+NamePlural = Capsules Siphon
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Une capsule permettant d'utiliser la CS Siphon.
+#-------------------------------
+[CAPSULEFLY]
+Name = Capsule Vol
+NamePlural = Capsules Vol
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Une capsule permettant d'utiliser la CS Vol.
+#-------------------------------
+[CAPSULEWATERFALL]
+Name = Capsule Cascade
+NamePlural = Capsules Cascade
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Une capsule permettant d'utiliser la CS Cascade.
