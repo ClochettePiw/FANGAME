@@ -960,13 +960,13 @@ Pokemon = FIDOUGH,20
 #-------------------------------
 [ROUGHNECK,Ryan]
 LoseText = Quoi ? C'était juste un compliment !
-Pokemon = SANDILE,26
-Pokemon = PANCHAM,27
+Pokemon = SANDILE,25
+Pokemon = PANCHAM,26
 #-------------------------------
 [OFFICER,Marcus]
 LoseText = Rien à déclarer...
-Pokemon = HERDIER,27
-Pokemon = FLETCHINDER,27
+Pokemon = HERDIER,25
+Pokemon = FLETCHINDER,25
 #-------------------------------
 [ENGINEER,Eusèbe]
 LoseText = Vous faites obstructions à mes plans !
@@ -974,19 +974,19 @@ Pokemon = CUFANT,28
 #-------------------------------
 [BIKER,Gaspard]
 LoseText = Quoi ? C'est pas comme ça que vous parlez, les jeunes ?
-Pokemon = SALANDIT,26
-Pokemon = WHIRLIPEDE,28
+Pokemon = SALANDIT,25
+Pokemon = WHIRLIPEDE,27
 #-------------------------------
 [WORKER,Niels]
 LoseText = Au temps pour moi...
-Pokemon = BOLDORE,26
-Pokemon = CARKOL,26
-Pokemon = LARVITAR,25
+Pokemon = BOLDORE,25
+Pokemon = CARKOL,25
+Pokemon = LARVITAR,24
 #-------------------------------
 [ENGINEER,Émilien]
 LoseText = Compris. Je retourne travailler...
-Pokemon = DRILBUR,28
-Pokemon = ARON,28
+Pokemon = DRILBUR,27
+Pokemon = ARON,27
 #-------------------------------
 [ROUGHNECK,Marco]
 LoseText = Ouais, non. Oublie ça.
@@ -994,20 +994,20 @@ Pokemon = KROKOROK,29
 #-------------------------------
 [ENGINEER,Kenzy]
 LoseText = Ah, alors tu ne fais pas partie de l'entreprise...
-Pokemon = HELIOPTILE,26
-Pokemon = HELIOPTILE,26
-Pokemon = CUFANT,26
+Pokemon = HELIOPTILE,25
+Pokemon = HELIOPTILE,25
+Pokemon = CUFANT,25
 #-------------------------------
 [ACETRAINERWF,Johanna]
 LoseText = Non, c'est trop dur pour moi !
-Pokemon = SANDSLASH,28
-Pokemon = DRIFBLIM,29
+Pokemon = SANDSLASH,26
+Pokemon = DRIFBLIM,28
 #-------------------------------
 [BATTLEGIRL,Leila]
 LoseText = La tâche est au-delà de mes moyens...
-Pokemon = CLOBBOPUS,26
-Pokemon = CRABRAWLER,27
-Pokemon = PRIMEAPE,28
+Pokemon = CLOBBOPUS,25
+Pokemon = CRABRAWLER,26
+Pokemon = PRIMEAPE,26
 #-------------------------------
 [SURFER,Giulio]
 LoseText = Argh ! Je perds l'équilibre !
@@ -1514,7 +1514,7 @@ Pokemon = TOXEL,27
 [PIRATEF,Soumaya]
 LoseText = Mille sabords…
 Pokemon = MANKEY,26
-Pokemon = CHATOT,29
+Pokemon = CHATOT,27
 #-------------------------------
 [CYCLISTM,Geoffrey]
 LoseText = J'ai été complètement dépassé…
