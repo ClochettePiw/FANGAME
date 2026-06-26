@@ -903,7 +903,7 @@ TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 #-------------------------------
 [104]   # Hardia - QG des Rangers
-Name = Route 17
+Name = Hardia
 #-------------------------------
 [105]   # Elevator
 Name = Route 17
