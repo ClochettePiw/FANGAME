@@ -848,7 +848,7 @@ ShadowSize = 3
 #-------------------------------
 [SALANDIT]
 BackSprite = 0,34
-FrontSprite = -3,25
+FrontSprite = -2,28
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
