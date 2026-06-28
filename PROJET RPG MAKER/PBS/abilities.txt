@@ -1,1072 +1,1072 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [STENCH]
-Name = Stench
-Description = The stench may cause the target to flinch.
+Name = Puanteur
+Description = Peut apeurer la cible lorsqu'une attaque la touche.
 #-------------------------------
 [DRIZZLE]
-Name = Drizzle
-Description = The Pokémon makes it rain if it appears in battle.
+Name = Crachin
+Description = Déclenche la pluie quand le Pokémon entre au combat.
 #-------------------------------
 [SPEEDBOOST]
-Name = Speed Boost
-Description = Its Speed stat is gradually boosted.
+Name = Turbo
+Description = Augmente la Vitesse du Pokémon à chaque tour.
 #-------------------------------
 [BATTLEARMOR]
-Name = Battle Armor
-Description = The Pokémon is protected against critical hits.
+Name = Armurbaston
+Description = Protège le Pokémon des coups critiques.
 #-------------------------------
 [STURDY]
-Name = Sturdy
-Description = It cannot be knocked out with one hit.
+Name = Fermeté
+Description = Empêche le Pokémon d'être mis K.O. en un seul coup.
 #-------------------------------
 [DAMP]
-Name = Damp
-Description = Prevents the use of self-destructing moves.
+Name = Moiteur
+Description = Empêche les capacités autodestructrices d'être utilisées.
 #-------------------------------
 [LIMBER]
-Name = Limber
-Description = The Pokémon is protected from paralysis.
+Name = Échauffement
+Description = Protège le Pokémon contre la paralysie.
 #-------------------------------
 [SANDVEIL]
-Name = Sand Veil
-Description = Boosts the Pokémon's evasion in a sandstorm.
+Name = Voile Sable
+Description = Augmente l'Esquive pendant une tempête de sable.
 #-------------------------------
 [STATIC]
-Name = Static
-Description = Contact with the Pokémon may cause paralysis.
+Name = Statik
+Description = Peut paralyser l'attaquant en cas de contact.
 #-------------------------------
 [VOLTABSORB]
-Name = Volt Absorb
-Description = Restores HP if hit by an Electric-type move.
+Name = Absorb Volt
+Description = Restaure des PV si touché par une capacité Électrik.
 #-------------------------------
 [WATERABSORB]
-Name = Water Absorb
-Description = Restores HP if hit by a Water-type move.
+Name = Absorb Eau
+Description = Restaure des PV si touché par une capacité Eau.
 #-------------------------------
 [OBLIVIOUS]
-Name = Oblivious
-Description = Prevents it from becoming infatuated.
+Name = Benêt
+Description = Empêche le Pokémon de tomber amoureux.
 #-------------------------------
 [CLOUDNINE]
-Name = Cloud Nine
-Description = Eliminates the effects of weather.
+Name = Ciel Gris
+Description = Annule les effets de la météo.
 #-------------------------------
 [COMPOUNDEYES]
-Name = Compound Eyes
-Description = The Pokémon's accuracy is boosted.
+Name = Œil Composé
+Description = Augmente la Précision du Pokémon.
 #-------------------------------
 [INSOMNIA]
 Name = Insomnia
-Description = Prevents the Pokémon from falling asleep.
+Description = Empêche le Pokémon de s'endormir.
 #-------------------------------
 [COLORCHANGE]
-Name = Color Change
-Description = Changes the Pokémon's type to the foe's move.
+Name = Homochromie
+Description = Prend le type de la capacité qui le touche.
 #-------------------------------
 [IMMUNITY]
-Name = Immunity
-Description = Prevents the Pokémon from getting poisoned.
+Name = Immunité
+Description = Empêche le Pokémon d'être empoisonné.
 #-------------------------------
 [FLASHFIRE]
-Name = Flash Fire
-Description = It powers up Fire-type moves if it's hit by one.
+Name = Torche
+Description = Renforce les capacités Feu si touché par l'une d'elles.
 #-------------------------------
 [SHIELDDUST]
-Name = Shield Dust
-Description = Blocks the added effects of attacks taken.
+Name = Écran Poudre
+Description = Annule les effets additionnels des attaques subies.
 #-------------------------------
 [OWNTEMPO]
-Name = Own Tempo
-Description = Prevents the Pokémon from becoming confused.
+Name = Tempo Perso
+Description = Empêche le Pokémon de devenir confus.
 #-------------------------------
 [SUCTIONCUPS]
-Name = Suction Cups
-Description = Negates all moves that force switching out.
+Name = Ventouse
+Description = Empêche le Pokémon d'être forcé au changement.
 #-------------------------------
 [INTIMIDATE]
-Name = Intimidate
-Description = Lowers the foe's Attack stat.
+Name = Intimidation
+Description = Baisse l'Attaque de l'ennemi en entrant au combat.
 #-------------------------------
 [SHADOWTAG]
-Name = Shadow Tag
-Description = Prevents the foe from escaping.
+Name = Marque Ombre
+Description = Empêche l'ennemi de fuir.
 #-------------------------------
 [ROUGHSKIN]
-Name = Rough Skin
-Description = Inflicts damage to the foe on contact.
+Name = Peau Dure
+Description = Blesse l'attaquant en cas de contact.
 #-------------------------------
 [WONDERGUARD]
-Name = Wonder Guard
-Description = Only super-effective moves will hit.
+Name = Garde Mystik
+Description = Seules les attaques super efficaces peuvent le toucher.
 #-------------------------------
 [LEVITATE]
-Name = Levitate
-Description = Gives full immunity to all Ground-type moves.
+Name = Lévitation
+Description = Immunise contre les capacités de type Sol.
 #-------------------------------
 [EFFECTSPORE]
-Name = Effect Spore
-Description = Contact may poison or cause paralysis or sleep.
+Name = Pose Spore
+Description = Peut endormir, paralyser ou empoisonner au contact.
 #-------------------------------
 [SYNCHRONIZE]
-Name = Synchronize
-Description = Passes a burn, poison, or paralysis to the foe.
+Name = Synchro
+Description = Transmet brûlure, poison ou paralysie à l'attaquant.
 #-------------------------------
 [CLEARBODY]
-Name = Clear Body
-Description = Prevents other Pokémon from lowering its stats.
+Name = Corps Sain
+Description = Empêche les ennemis de baisser les statistiques.
 #-------------------------------
 [NATURALCURE]
-Name = Natural Cure
-Description = All status problems heal when it switches out.
+Name = Médic Nature
+Description = Soigne les altérations de statut en quittant le combat.
 #-------------------------------
 [LIGHTNINGROD]
-Name = Lightning Rod
-Description = Draws in all Electric-type moves to up Sp. Attack.
+Name = Paratonnerre
+Description = Attire les capacités Électrik et augmente l'Attaque Spéciale.
 #-------------------------------
 [SERENEGRACE]
-Name = Serene Grace
-Description = Boosts the likelihood of added effects appearing.
+Name = Sérénité
+Description = Augmente les chances d'effets additionnels.
 #-------------------------------
 [SWIFTSWIM]
-Name = Swift Swim
-Description = Boosts the Pokémon's Speed in rain.
+Name = Glissade
+Description = Double la Vitesse sous la pluie.
 #-------------------------------
 [CHLOROPHYLL]
-Name = Chlorophyll
-Description = Boosts the Pokémon's Speed in sunshine.
+Name = Chlorophylle
+Description = Double la Vitesse sous un soleil intense.
 #-------------------------------
 [ILLUMINATE]
-Name = Illuminate
-Description = Raises the likelihood of meeting wild Pokémon.
+Name = Lumiattirance
+Description = Augmente la fréquence des rencontres avec des Pokémon sauvages.
 #-------------------------------
 [TRACE]
-Name = Trace
-Description = The Pokémon copies a foe's Ability.
+Name = Calque
+Description = Copie le talent de l'ennemi.
 #-------------------------------
 [HUGEPOWER]
-Name = Huge Power
-Description = Raises the Pokémon's Attack stat.
+Name = Coloforce
+Description = Double la statistique d'Attaque.
 #-------------------------------
 [POISONPOINT]
-Name = Poison Point
-Description = Contact with the Pokémon may poison the attacker.
+Name = Point Poison
+Description = Peut empoisonner l'attaquant en cas de contact.
 #-------------------------------
 [INNERFOCUS]
-Name = Inner Focus
-Description = The Pokémon is protected from flinching.
+Name = Attention
+Description = Empêche le Pokémon d'avoir peur.
 #-------------------------------
 [MAGMAARMOR]
-Name = Magma Armor
-Description = Prevents the Pokémon from becoming frozen.
+Name = Armumagma
+Description = Empêche le Pokémon d'être gelé.
 Flags = FasterEggHatching
 #-------------------------------
 [WATERVEIL]
-Name = Water Veil
-Description = Prevents the Pokémon from getting a burn.
+Name = Ignifu-Voile
+Description = Empêche le Pokémon d'être brûlé.
 #-------------------------------
 [MAGNETPULL]
-Name = Magnet Pull
-Description = Prevents Steel-type Pokémon from escaping.
+Name = Magnépiège
+Description = Empêche les Pokémon Acier de fuir.
 #-------------------------------
 [SOUNDPROOF]
-Name = Soundproof
-Description = Gives full immunity to all sound-based moves.
+Name = Anti-Bruit
+Description = Immunise contre les capacités sonores.
 #-------------------------------
 [RAINDISH]
-Name = Rain Dish
-Description = The Pokémon gradually regains HP in rain.
+Name = Cuvette
+Description = Restaure progressivement des PV sous la pluie.
 #-------------------------------
 [SANDSTREAM]
-Name = Sand Stream
-Description = The Pokémon summons a sandstorm in battle.
+Name = Sable Volant
+Description = Déclenche une tempête de sable en entrant au combat.
 #-------------------------------
 [PRESSURE]
-Name = Pressure
-Description = The Pokémon raises the foe's PP usage.
+Name = Pression
+Description = Augmente la consommation de PP des capacités adverses.
 #-------------------------------
 [THICKFAT]
-Name = Thick Fat
-Description = Ups resistance to Fire- and Ice-type moves.
+Name = Isograisse
+Description = Réduit les dégâts des capacités Feu et Glace.
 #-------------------------------
 [EARLYBIRD]
-Name = Early Bird
-Description = The Pokémon awakens quickly from sleep.
+Name = Matinal
+Description = Réveille le Pokémon plus rapidement.
 #-------------------------------
 [FLAMEBODY]
-Name = Flame Body
-Description = Contact with the Pokémon may burn the attacker.
+Name = Corps Ardent
+Description = Peut brûler l'attaquant en cas de contact.
 Flags = FasterEggHatching
 #-------------------------------
 [RUNAWAY]
-Name = Run Away
-Description = Enables a sure getaway from wild Pokémon.
+Name = Fuite
+Description = Permet de toujours fuir les Pokémon sauvages.
 #-------------------------------
 [KEENEYE]
-Name = Keen Eye
-Description = Prevents other Pokémon from lowering accuracy.
+Name = Regard Vif
+Description = Empêche la Précision du Pokémon de baisser.
 #-------------------------------
 [HYPERCUTTER]
 Name = Hyper Cutter
-Description = Prevents other Pokémon from lowering Attack stat.
+Description = Empêche l'Attaque du Pokémon de baisser.
 #-------------------------------
 [PICKUP]
-Name = Pickup
-Description = The Pokémon may pick up items.
+Name = Ramassage
+Description = Le Pokémon peut ramasser des objets.
 #-------------------------------
 [TRUANT]
-Name = Truant
-Description = Pokémon can't attack on consecutive turns.
+Name = Absentéisme
+Description = Le Pokémon attaque un tour sur deux.
 #-------------------------------
 [HUSTLE]
-Name = Hustle
-Description = Boosts the Attack stat, but lowers accuracy.
+Name = Agitation
+Description = Augmente l'Attaque mais diminue la Précision.
 #-------------------------------
 [CUTECHARM]
-Name = Cute Charm
-Description = Contact with the Pokémon may cause infatuation.
+Name = Joli Sourire
+Description = Peut rendre amoureux l'attaquant en cas de contact.
 #-------------------------------
 [PLUS]
 Name = Plus
-Description = Ups Sp. Atk if another Pokémon has Plus or Minus.
+Description = Augmente l'Attaque Spéciale avec un allié ayant Plus ou Minus.
 #-------------------------------
 [MINUS]
 Name = Minus
-Description = Ups Sp. Atk if another Pokémon has Plus or Minus.
+Description = Augmente l'Attaque Spéciale avec un allié ayant Plus ou Minus.
 #-------------------------------
 [FORECAST]
-Name = Forecast
-Description = Castform transforms with the weather.
+Name = Météo
+Description = Le Pokémon change de forme selon la météo.
 #-------------------------------
 [STICKYHOLD]
-Name = Sticky Hold
-Description = Protects the Pokémon from item theft.
+Name = Glue
+Description = Empêche le vol ou la perte de l'objet tenu.
 #-------------------------------
 [SHEDSKIN]
-Name = Shed Skin
-Description = The Pokémon may heal its own status problems.
+Name = Mue
+Description = Peut soigner une altération de statut.
 #-------------------------------
 [GUTS]
-Name = Guts
-Description = Boosts Attack if there is a status problem.
+Name = Cran
+Description = Augmente l'Attaque si le Pokémon a un statut.
 #-------------------------------
 [MARVELSCALE]
-Name = Marvel Scale
-Description = Ups Defense if there is a status problem.
+Name = Écaille Spéciale
+Description = Augmente la Défense si le Pokémon a un statut.
 #-------------------------------
 [LIQUIDOOZE]
-Name = Liquid Ooze
-Description = Damages attackers using any draining move.
+Name = Suintement
+Description = Les capacités de drain blessent leur utilisateur.
 #-------------------------------
 [OVERGROW]
-Name = Overgrow
-Description = Powers up Grass-type moves in a pinch.
+Name = Engrais
+Description = Augmente la puissance des capacités Plante en cas de besoin.
 #-------------------------------
 [BLAZE]
-Name = Blaze
-Description = Powers up Fire-type moves in a pinch.
+Name = Brasier
+Description = Augmente la puissance des capacités Feu en cas de besoin.
 #-------------------------------
 [TORRENT]
 Name = Torrent
-Description = Powers up Water-type moves in a pinch.
+Description = Augmente la puissance des capacités Eau en cas de besoin.
 #-------------------------------
 [SWARM]
-Name = Swarm
-Description = Powers up Bug-type moves in a pinch.
+Name = Essaim
+Description = Augmente la puissance des capacités Insecte en cas de besoin.
 #-------------------------------
 [ROCKHEAD]
-Name = Rock Head
-Description = Protects the Pokémon from recoil damage.
+Name = Tête de Roc
+Description = Empêche les dégâts de contrecoup.
 #-------------------------------
 [DROUGHT]
-Name = Drought
-Description = Turns the sunlight harsh if it is in battle.
+Name = Sécheresse
+Description = Déclenche un soleil intense en entrant au combat.
 #-------------------------------
 [ARENATRAP]
-Name = Arena Trap
-Description = Prevents the foe from fleeing.
+Name = Piège
+Description = Empêche l'ennemi de fuir.
 #-------------------------------
 [VITALSPIRIT]
-Name = Vital Spirit
-Description = Prevents the Pokémon from falling asleep.
+Name = Esprit Vital
+Description = Empêche le Pokémon de s'endormir.
 #-------------------------------
 [WHITESMOKE]
-Name = White Smoke
-Description = Prevents other Pokémon from lowering its stats.
+Name = Écran Fumée
+Description = Empêche les ennemis de baisser les statistiques.
 #-------------------------------
 [PUREPOWER]
-Name = Pure Power
-Description = Raises the Pokémon's Attack stat.
+Name = Force Pure
+Description = Double la statistique d'Attaque.
 #-------------------------------
 [SHELLARMOR]
-Name = Shell Armor
-Description = The Pokémon is protected against critical hits.
+Name = Coque Armure
+Description = Protège le Pokémon des coups critiques.
 #-------------------------------
 [AIRLOCK]
 Name = Air Lock
-Description = Eliminates the effects of weather.
+Description = Annule les effets de la météo.
 #-------------------------------
 [TANGLEDFEET]
-Name = Tangled Feet
-Description = Raises evasion if the Pokémon is confused.
+Name = Pied Confus
+Description = Augmente l'Esquive si le Pokémon est confus.
 #-------------------------------
 [MOTORDRIVE]
-Name = Motor Drive
-Description = Raises Speed if hit by an Electric-type move.
+Name = Motorisé
+Description = Augmente la Vitesse si touché par une capacité Électrik.
 #-------------------------------
 [RIVALRY]
-Name = Rivalry
-Description = Deals more damage to a foe of the same gender.
+Name = Rivalité
+Description = Inflige plus de dégâts aux Pokémon du même sexe.
 #-------------------------------
 [STEADFAST]
-Name = Steadfast
-Description = Raises Speed each time the Pokémon flinches.
+Name = Impassible
+Description = Augmente la Vitesse lorsqu'il a peur.
 #-------------------------------
 [SNOWCLOAK]
-Name = Snow Cloak
-Description = Raises evasion in a hailstorm.
+Name = Rideau Neige
+Description = Augmente l'Esquive sous la grêle.
 #-------------------------------
 [GLUTTONY]
-Name = Gluttony
-Description = Encourages the early use of a held Berry.
+Name = Gloutonnerie
+Description = Permet d'utiliser les Baies plus tôt.
 #-------------------------------
 [ANGERPOINT]
-Name = Anger Point
-Description = Maxes Attack after taking a critical hit.
+Name = Colérique
+Description = Maximise l'Attaque après un coup critique.
 #-------------------------------
 [UNBURDEN]
-Name = Unburden
-Description = Raises Speed if a held item is used.
+Name = Délestage
+Description = Augmente la Vitesse après avoir consommé ou perdu son objet.
 #-------------------------------
 [HEATPROOF]
-Name = Heatproof
-Description = Weakens the power of Fire-type moves.
+Name = Torche
+Description = Réduit les dégâts des capacités Feu.
 #-------------------------------
 [SIMPLE]
 Name = Simple
-Description = The Pokémon is prone to wild stat changes.
+Description = Double les variations de statistiques.
 #-------------------------------
 [DRYSKIN]
-Name = Dry Skin
-Description = Reduces HP if it is hot. Water restores HP.
+Name = Peau Sèche
+Description = Perd des PV au soleil, en récupère avec les capacités Eau.
 #-------------------------------
 [DOWNLOAD]
-Name = Download
-Description = Adjusts power according to a foe's defenses.
+Name = Télécharge
+Description = Adapte sa puissance selon les défenses de l'ennemi.
 #-------------------------------
 [IRONFIST]
-Name = Iron Fist
-Description = Boosts the power of punching moves.
+Name = Poing de Fer
+Description = Augmente la puissance des capacités de poing.
 #-------------------------------
 [POISONHEAL]
-Name = Poison Heal
-Description = Restores HP if the Pokémon is poisoned.
+Name = Soin Poison
+Description = Récupère des PV lorsqu'il est empoisonné.
 #-------------------------------
 [ADAPTABILITY]
-Name = Adaptability
-Description = Powers up moves of the same type.
+Name = Adaptabilité
+Description = Augmente le bonus de puissance des capacités de même type.
 #-------------------------------
 [SKILLLINK]
-Name = Skill Link
-Description = Increases the frequency of multi-strike moves.
+Name = Multi-Coups
+Description = Les capacités à coups multiples frappent toujours le maximum de fois.
 #-------------------------------
 [HYDRATION]
-Name = Hydration
-Description = Heals status problems if it is raining.
+Name = Hydratation
+Description = Soigne les altérations de statut sous la pluie.
 #-------------------------------
 [SOLARPOWER]
-Name = Solar Power
-Description = In sunshine, Sp. Atk is boosted but HP decreases.
+Name = Force Soleil
+Description = Augmente l'Attaque Spéciale au soleil mais fait perdre des PV.
 #-------------------------------
 [QUICKFEET]
-Name = Quick Feet
-Description = Boosts Speed if there is a status problem.
+Name = Pied Véloce
+Description = Augmente la Vitesse si le Pokémon a un statut.
 #-------------------------------
 [NORMALIZE]
-Name = Normalize
-Description = All the Pokémon's moves become the Normal type.
+Name = Normalise
+Description = Toutes les capacités deviennent de type Normal.
 #-------------------------------
 [SNIPER]
 Name = Sniper
-Description = Powers up moves if they become critical hits.
+Description = Augmente les dégâts des coups critiques.
 #-------------------------------
 [MAGICGUARD]
-Name = Magic Guard
-Description = The Pokémon only takes damage from attacks.
+Name = Garde Magik
+Description = Seules les attaques infligent des dégâts.
 #-------------------------------
 [NOGUARD]
-Name = No Guard
-Description = Ensures attacks by or against the Pokémon land.
+Name = Annule Garde
+Description = Toutes les attaques lancées par ou contre ce Pokémon touchent.
 #-------------------------------
 [STALL]
-Name = Stall
-Description = The Pokémon moves after all other Pokémon do.
+Name = Frein
+Description = Le Pokémon agit toujours en dernier.
 #-------------------------------
 [TECHNICIAN]
-Name = Technician
-Description = Powers up the Pokémon's weaker moves.
+Name = Technicien
+Description = Augmente la puissance des capacités les plus faibles.
 #-------------------------------
 [LEAFGUARD]
-Name = Leaf Guard
-Description = Prevents problems with status in sunny weather.
+Name = Feuille Garde
+Description = Empêche les altérations de statut sous un soleil intense.
 #-------------------------------
 [KLUTZ]
-Name = Klutz
-Description = The Pokémon can't use any held items.
+Name = Maladresse
+Description = Empêche le Pokémon d'utiliser son objet tenu.
 #-------------------------------
 [MOLDBREAKER]
-Name = Mold Breaker
-Description = Moves can be used regardless of Abilities.
+Name = Brise Moule
+Description = Permet d'ignorer les talents adverses.
 #-------------------------------
 [SUPERLUCK]
-Name = Super Luck
-Description = Heightens the critical-hit ratios of moves.
+Name = Chanceux
+Description = Augmente le taux de coups critiques.
 #-------------------------------
 [AFTERMATH]
-Name = Aftermath
-Description = Damages the attacker landing the finishing hit.
+Name = Boom Final
+Description = Blesse l'attaquant qui met le Pokémon K.O.
 #-------------------------------
 [ANTICIPATION]
 Name = Anticipation
-Description = Senses a foe's dangerous moves.
+Description = Détecte les capacités dangereuses de l'ennemi.
 #-------------------------------
 [FOREWARN]
-Name = Forewarn
-Description = Determines what moves a foe has.
+Name = Prédiction
+Description = Révèle une capacité de l'ennemi.
 #-------------------------------
 [UNAWARE]
-Name = Unaware
-Description = Ignores any stat changes in the Pokémon.
+Name = Inconscient
+Description = Ignore les changements de statistiques de l'ennemi.
 #-------------------------------
 [TINTEDLENS]
-Name = Tinted Lens
-Description = Powers up "not very effective" moves.
+Name = Lentiteintée
+Description = Renforce les capacités peu efficaces.
 #-------------------------------
 [FILTER]
-Name = Filter
-Description = Reduces damage from super-effective attacks.
+Name = Filtre
+Description = Réduit les dégâts des capacités super efficaces.
 #-------------------------------
 [SLOWSTART]
-Name = Slow Start
-Description = Temporarily halves Attack and Speed.
+Name = Début Calme
+Description = Réduit temporairement l'Attaque et la Vitesse.
 #-------------------------------
 [SCRAPPY]
-Name = Scrappy
-Description = Enables moves to hit Ghost-type Pokémon.
+Name = Querelleur
+Description = Permet de toucher les Pokémon de type Spectre.
 #-------------------------------
 [STORMDRAIN]
-Name = Storm Drain
-Description = Draws in all Water-type moves to up Sp. Attack.
+Name = Lavabo
+Description = Attire les capacités Eau et augmente l'Attaque Spéciale.
 #-------------------------------
 [ICEBODY]
-Name = Ice Body
-Description = The Pokémon gradually regains HP in a hailstorm.
+Name = Corps Gel
+Description = Restaure progressivement des PV sous la grêle.
 #-------------------------------
 [SOLIDROCK]
-Name = Solid Rock
-Description = Reduces damage from super-effective attacks.
+Name = Solide Roc
+Description = Réduit les dégâts des capacités super efficaces.
 #-------------------------------
 [SNOWWARNING]
-Name = Snow Warning
-Description = The Pokémon summons a hailstorm in battle.
+Name = Alerte Neige
+Description = Déclenche la grêle en entrant au combat.
 #-------------------------------
 [HONEYGATHER]
-Name = Honey Gather
-Description = The Pokémon may gather Honey from somewhere.
+Name = Cherche Miel
+Description = Le Pokémon peut trouver du Miel.
 #-------------------------------
 [FRISK]
-Name = Frisk
-Description = The Pokémon can check a foe's held item.
+Name = Fouille
+Description = Permet de connaître l'objet tenu par l'ennemi.
 #-------------------------------
 [RECKLESS]
-Name = Reckless
-Description = Powers up moves that have recoil damage.
+Name = Téméraire
+Description = Augmente la puissance des capacités à contrecoup.
 #-------------------------------
 [MULTITYPE]
 Name = Multitype
-Description = Changes type to match the held Plate.
+Description = Change de type selon la Plaque tenue.
 #-------------------------------
 [FLOWERGIFT]
-Name = Flower Gift
-Description = Powers up party Pokémon when it is sunny.
+Name = Don Floral
+Description = Renforce les alliés sous un soleil intense.
 #-------------------------------
 [BADDREAMS]
-Name = Bad Dreams
-Description = Reduces a sleeping foe's HP.
+Name = Mauvais Rêve
+Description = Fait perdre des PV aux Pokémon endormis.
 #-------------------------------
 [PICKPOCKET]
 Name = Pickpocket
-Description = Steals an item when hit by another Pokémon.
+Description = Vole l'objet de l'attaquant en cas de contact.
 #-------------------------------
 [SHEERFORCE]
-Name = Sheer Force
-Description = Removes added effects to increase move damage.
+Name = Sans Limite
+Description = Sacrifie les effets additionnels pour augmenter la puissance.
 #-------------------------------
 [CONTRARY]
-Name = Contrary
-Description = Makes stat changes have an opposite effect.
+Name = Contestation
+Description = Inverse les variations de statistiques.
 #-------------------------------
 [UNNERVE]
-Name = Unnerve
-Description = Makes the foe nervous and unable to eat Berries.
+Name = Tension
+Description = Empêche les ennemis de manger leurs Baies.
 #-------------------------------
 [DEFIANT]
-Name = Defiant
-Description = When its stats are lowered its Attack increases.
+Name = Acharné
+Description = Augmente fortement l'Attaque si une statistique baisse.
 #-------------------------------
 [DEFEATIST]
-Name = Defeatist
-Description = Lowers stats when HP becomes half or less.
+Name = Défaitiste
+Description = Réduit l'Attaque et l'Attaque Spéciale à mi-PV.
 #-------------------------------
 [CURSEDBODY]
-Name = Cursed Body
-Description = May disable a move used on the Pokémon.
+Name = Corps Maudit
+Description = Peut bloquer la dernière capacité utilisée sur lui.
 #-------------------------------
 [HEALER]
-Name = Healer
-Description = May heal an ally's status conditions.
+Name = Cœur Soin
+Description = Peut soigner les altérations de statut d'un allié.
 #-------------------------------
 [FRIENDGUARD]
-Name = Friend Guard
-Description = Reduces damage done to allies.
+Name = Garde Amie
+Description = Réduit les dégâts subis par les alliés.
 #-------------------------------
 [WEAKARMOR]
-Name = Weak Armor
-Description = Physical attacks lower Defense and raise Speed.
+Name = Armurouillée
+Description = Les attaques physiques baissent la Défense mais augmentent la Vitesse.
 #-------------------------------
 [HEAVYMETAL]
 Name = Heavy Metal
-Description = Doubles the Pokémon's weight.
+Description = Double le poids du Pokémon.
 #-------------------------------
 [LIGHTMETAL]
 Name = Light Metal
-Description = Halves the Pokémon's weight.
+Description = Divise le poids du Pokémon par deux.
 #-------------------------------
 [MULTISCALE]
-Name = Multiscale
-Description = Reduces damage when HP is full.
+Name = Multiécaille
+Description = Réduit les dégâts lorsque les PV sont au maximum.
 #-------------------------------
 [TOXICBOOST]
-Name = Toxic Boost
-Description = Powers up physical attacks when poisoned.
+Name = Rage Poison
+Description = Augmente la puissance des capacités physiques si le Pokémon est empoisonné.
 #-------------------------------
 [FLAREBOOST]
-Name = Flare Boost
-Description = Powers up special attacks when burned.
+Name = Boost Chimère
+Description = Augmente la puissance des capacités spéciales si le Pokémon est brûlé.
 #-------------------------------
 [HARVEST]
-Name = Harvest
-Description = May create another Berry after one is used.
+Name = Récolte
+Description = Peut régénérer une Baie consommée.
 #-------------------------------
 [TELEPATHY]
-Name = Telepathy
-Description = Anticipates an ally's attack and dodges it.
+Name = Télépathe
+Description = Esquive les capacités de ses alliés.
 #-------------------------------
 [MOODY]
-Name = Moody
-Description = Raises one stat and lowers another.
+Name = Lunatique
+Description = Augmente fortement une statistique et en baisse une autre à chaque tour.
 #-------------------------------
 [OVERCOAT]
-Name = Overcoat
-Description = Protects the Pokémon from damage from weather.
+Name = Envelocape
+Description = Protège des dégâts de la météo et des capacités à base de poudre.
 #-------------------------------
 [POISONTOUCH]
-Name = Poison Touch
-Description = May poison targets when a Pokémon makes contact.
+Name = Toxitouche
+Description = Peut empoisonner la cible lors d'un contact.
 #-------------------------------
 [REGENERATOR]
-Name = Regenerator
-Description = Restores a little HP when withdrawn from battle.
+Name = Régé-Force
+Description = Restaure des PV en quittant le combat.
 #-------------------------------
 [BIGPECKS]
-Name = Big Pecks
-Description = Protects from Defense-lowering attacks.
+Name = Cœur de Coq
+Description = Empêche la Défense de baisser.
 #-------------------------------
 [SANDRUSH]
-Name = Sand Rush
-Description = Boosts the Pokémon's Speed in a sandstorm.
+Name = Baigne Sable
+Description = Double la Vitesse pendant une tempête de sable.
 #-------------------------------
 [WONDERSKIN]
-Name = Wonder Skin
-Description = Makes status-changing moves more likely to miss.
+Name = Peau Miracle
+Description = Les capacités de statut ont plus de chances d'échouer.
 #-------------------------------
 [ANALYTIC]
-Name = Analytic
-Description = Boosts move power when the Pokémon moves last.
+Name = Analyse
+Description = Augmente la puissance si le Pokémon attaque en dernier.
 #-------------------------------
 [ILLUSION]
 Name = Illusion
-Description = Comes out disguised as the Pokémon in back.
+Description = Prend l'apparence du dernier Pokémon de l'équipe.
 #-------------------------------
 [IMPOSTER]
-Name = Imposter
-Description = It transforms itself into the Pokémon it is facing.
+Name = Imposteur
+Description = Se transforme en l'ennemi dès son entrée au combat.
 #-------------------------------
 [INFILTRATOR]
-Name = Infiltrator
-Description = Passes through the foe's barrier and strikes.
+Name = Infiltration
+Description = Ignore les protections comme Clonage et les murs.
 #-------------------------------
 [MUMMY]
-Name = Mummy
-Description = Contact with this Pokémon spreads this Ability.
+Name = Momie
+Description = Transmet ce talent aux Pokémon qui le touchent.
 #-------------------------------
 [MOXIE]
-Name = Moxie
-Description = Boosts Attack after knocking out any Pokémon.
+Name = Impudence
+Description = Augmente l'Attaque après avoir mis un Pokémon K.O.
 #-------------------------------
 [JUSTIFIED]
-Name = Justified
-Description = Raises Attack when hit by a Dark-type move.
+Name = Cœur Noble
+Description = Augmente l'Attaque si touché par une capacité Ténèbres.
 #-------------------------------
 [RATTLED]
-Name = Rattled
-Description = Some move types scare it and boost its Speed.
+Name = Phobique
+Description = Augmente la Vitesse si touché par une capacité Insecte, Spectre ou Ténèbres.
 #-------------------------------
 [MAGICBOUNCE]
-Name = Magic Bounce
-Description = Reflects status-changing moves.
+Name = Miroir Magik
+Description = Renvoie les capacités de statut à leur lanceur.
 #-------------------------------
 [SAPSIPPER]
-Name = Sap Sipper
-Description = Boosts Attack when hit by a Grass-type move.
+Name = Herbivore
+Description = Immunise contre les capacités Plante et augmente l'Attaque.
 #-------------------------------
 [PRANKSTER]
-Name = Prankster
-Description = Gives priority to a status move.
+Name = Farceur
+Description = Donne la priorité aux capacités de statut.
 #-------------------------------
 [SANDFORCE]
-Name = Sand Force
-Description = Boosts certain moves' power in a sandstorm.
+Name = Force Sable
+Description = Augmente la puissance de certaines capacités pendant une tempête de sable.
 #-------------------------------
 [IRONBARBS]
-Name = Iron Barbs
-Description = Inflicts damage to the Pokémon on contact.
+Name = Épine de Fer
+Description = Blesse l'attaquant en cas de contact.
 #-------------------------------
 [ZENMODE]
-Name = Zen Mode
-Description = Changes the Pokémon's shape when HP is halved.
+Name = Mode Transe
+Description = Change de forme lorsque les PV tombent à la moitié.
 #-------------------------------
 [VICTORYSTAR]
-Name = Victory Star
-Description = Boosts the accuracy of its allies and itself.
+Name = Victorieux
+Description = Augmente la Précision du Pokémon et de ses alliés.
 #-------------------------------
 [TURBOBLAZE]
-Name = Turboblaze
-Description = Moves can be used regardless of Abilities.
+Name = Turbobrasier
+Description = Les capacités ignorent les talents adverses.
 #-------------------------------
 [TERAVOLT]
-Name = Teravolt
-Description = Moves can be used regardless of Abilities.
+Name = Téra-Voltage
+Description = Les capacités ignorent les talents adverses.
 #-------------------------------
 [AROMAVEIL]
-Name = Aroma Veil
-Description = Protects against attacks that limit move choices.
+Name = Aroma-Voile
+Description = Protège contre les effets empêchant de choisir une capacité.
 #-------------------------------
 [FLOWERVEIL]
-Name = Flower Veil
-Description = Protects Grass-type allies from stat/status effects.
+Name = Flora-Voile
+Description = Protège les alliés de type Plante des baisses de stats et des altérations de statut.
 #-------------------------------
 [CHEEKPOUCH]
-Name = Cheek Pouch
-Description = Restores HP as well when the Pokémon eats a Berry.
+Name = Bajoues
+Description = Restaure des PV en plus de l'effet de la Baie consommée.
 #-------------------------------
 [PROTEAN]
-Name = Protean
-Description = It changes type to that of the move it's about to use.
+Name = Protéen
+Description = Prend le type de la capacité qu'il va utiliser.
 #-------------------------------
 [FURCOAT]
-Name = Fur Coat
-Description = Halves the damage from physical moves.
+Name = Toison Épaisse
+Description = Divise par deux les dégâts des capacités physiques.
 #-------------------------------
 [MAGICIAN]
-Name = Magician
-Description = Steals the held item of a Pokémon it hits.
+Name = Magicien
+Description = Vole l'objet de la cible lorsqu'il la touche.
 #-------------------------------
 [BULLETPROOF]
-Name = Bulletproof
-Description = Protects the Pokémon from some ball and bomb moves.
+Name = Pare-Balles
+Description = Protège de certaines capacités de type bombe ou balle.
 #-------------------------------
 [COMPETITIVE]
-Name = Competitive
-Description = Sharply boosts Sp. Atk when a stat is lowered.
+Name = Battant
+Description = Augmente fortement l'Attaque Spéciale lorsqu'une statistique baisse.
 #-------------------------------
 [STRONGJAW]
-Name = Strong Jaw
-Description = Boosts the power of biting moves.
+Name = Prognathe
+Description = Augmente la puissance des capacités à base de morsure.
 #-------------------------------
 [REFRIGERATE]
-Name = Refrigerate
-Description = Normal-type moves become Ice-type and powered up.
+Name = Peau Gelée
+Description = Les capacités Normal deviennent Glace et sont renforcées.
 #-------------------------------
 [SWEETVEIL]
-Name = Sweet Veil
-Description = Prevents itself and allies from falling asleep.
+Name = Gluco-Voile
+Description = Empêche le Pokémon et ses alliés de s'endormir.
 #-------------------------------
 [STANCECHANGE]
-Name = Stance Change
-Description = Changes between Blade and Shield Forme with attacks.
+Name = Déclic Tactique
+Description = Alterne entre les Formes Bouclier et Assaut selon la capacité utilisée.
 #-------------------------------
 [GALEWINGS]
-Name = Gale Wings
-Description = Flying-type moves gain priority when its HP is full.
+Name = Ailes Bourrasque
+Description = Donne la priorité aux capacités Vol lorsque les PV sont au maximum.
 #-------------------------------
 [MEGALAUNCHER]
-Name = Mega Launcher
-Description = Powers up aura and pulse moves.
+Name = Méga Blaster
+Description = Augmente la puissance des capacités à base d'onde ou d'aura.
 #-------------------------------
 [GRASSPELT]
-Name = Grass Pelt
-Description = Boosts the Defense stat on Grassy Terrain.
+Name = Toison Herbue
+Description = Augmente la Défense sur un Champ Herbu.
 #-------------------------------
 [SYMBIOSIS]
-Name = Symbiosis
-Description = Passes its held item to an ally that has used theirs.
+Name = Symbiose
+Description = Donne son objet à un allié ayant consommé le sien.
 #-------------------------------
 [TOUGHCLAWS]
-Name = Tough Claws
-Description = Powers up moves that make direct contact.
+Name = Griffe Dure
+Description = Augmente la puissance des capacités de contact.
 #-------------------------------
 [PIXILATE]
-Name = Pixilate
-Description = Normal-type moves become Fairy-type and powered up.
+Name = Peau Féérique
+Description = Les capacités Normal deviennent Fée et sont renforcées.
 #-------------------------------
 [GOOEY]
-Name = Gooey
-Description = Contact with it lowers the attacker's Speed stat.
+Name = Poisseux
+Description = Réduit la Vitesse de l'attaquant en cas de contact.
 #-------------------------------
 [AERILATE]
-Name = Aerilate
-Description = Normal-type moves become Flying-type and power up.
+Name = Peau Céleste
+Description = Les capacités Normal deviennent Vol et sont renforcées.
 #-------------------------------
 [PARENTALBOND]
-Name = Parental Bond
-Description = Parent and child each attacks.
+Name = Amour Filial
+Description = Le parent et son petit attaquent ensemble.
 #-------------------------------
 [DARKAURA]
-Name = Dark Aura
-Description = Powers up each Pokémon's Dark-type moves.
+Name = Aura Ténébreuse
+Description = Augmente la puissance des capacités Ténèbres de tous les Pokémon.
 #-------------------------------
 [FAIRYAURA]
-Name = Fairy Aura
-Description = Powers up each Pokémon's Fairy-type moves.
+Name = Aura Féérique
+Description = Augmente la puissance des capacités Fée de tous les Pokémon.
 #-------------------------------
 [AURABREAK]
-Name = Aura Break
-Description = Reverses "Aura" Abilities to weaken affected moves.
+Name = Aura Inversée
+Description = Inverse les effets des talents Aura.
 #-------------------------------
 [PRIMORDIALSEA]
-Name = Primordial Sea
-Description = Changes the weather to nullify Fire-type moves.
+Name = Mer Primordiale
+Description = Déclenche une pluie qui neutralise les capacités Feu.
 #-------------------------------
 [DESOLATELAND]
-Name = Desolate Land
-Description = Changes the weather to nullify Water-type moves.
+Name = Terre Finale
+Description = Déclenche un soleil qui neutralise les capacités Eau.
 #-------------------------------
 [DELTASTREAM]
-Name = Delta Stream
-Description = Alters weather to remove Flying-type's weaknesses.
+Name = Souffle Delta
+Description = Supprime les faiblesses du type Vol grâce à un climat mystérieux.
 #-------------------------------
 [STAMINA]
-Name = Stamina
-Description = Boosts Defense when hit by an attack.
+Name = Endurance
+Description = Augmente la Défense du Pokémon lorsqu'il subit une attaque.
 #-------------------------------
 [WIMPOUT]
-Name = Wimp Out
-Description = Cowardly switches out if its HP becomes half or less.
+Name = Escampette
+Description = Prend la fuite lorsque les PV tombent à la moitié.
 #-------------------------------
 [EMERGENCYEXIT]
-Name = Emergency Exit
-Description = Switches out if its HP becomes half or less.
+Name = Système Alpha
+Description = Change de Pokémon lorsque les PV tombent à la moitié.
 #-------------------------------
 [WATERCOMPACTION]
-Name = Water Compaction
-Description = Sharply ups Defense when hit by a Water-type move.
+Name = Tassement
+Description = Augmente fortement la Défense lorsqu'il est touché par une capacité Eau.
 #-------------------------------
 [MERCILESS]
-Name = Merciless
-Description = Its attacks are critical hits when it is poisoned.
+Name = Cruauté
+Description = Les attaques deviennent des coups critiques contre les cibles empoisonnées.
 #-------------------------------
 [SHIELDSDOWN]
-Name = Shields Down
-Description = Its shell breaks if its HP becomes half or less.
+Name = Bouclier-Carcan
+Description = Change de forme lorsque les PV tombent à la moitié.
 #-------------------------------
 [STAKEOUT]
-Name = Stakeout
-Description = Deals doubles damage to a target's replacement.
+Name = Filature
+Description = Double les dégâts infligés à un Pokémon entrant au combat.
 #-------------------------------
 [WATERBUBBLE]
-Name = Water Bubble
-Description = Weakens incoming Fire-type moves and prevents burns.
+Name = Aquabulle
+Description = Réduit les dégâts des capacités Feu et empêche les brûlures.
 #-------------------------------
 [STEELWORKER]
-Name = Steelworker
-Description = Powers up Steel-type moves.
+Name = Expert Acier
+Description = Augmente la puissance des capacités Acier.
 #-------------------------------
 [BERSERK]
-Name = Berserk
-Description = Ups Sp. Atk if a hit makes its HP half or less.
+Name = Dracolère
+Description = Augmente l'Attaque Spéciale lorsque les PV tombent à la moitié.
 #-------------------------------
 [SLUSHRUSH]
-Name = Slush Rush
-Description = Boosts the Pokémon's Speed stat in a hailstorm.
+Name = Chasse-Neige
+Description = Double la Vitesse sous la grêle.
 #-------------------------------
 [LONGREACH]
-Name = Long Reach
-Description = Uses moves without making contact with the target.
+Name = Longue Portée
+Description = Les capacités utilisées ne provoquent pas de contact.
 #-------------------------------
 [LIQUIDVOICE]
-Name = Liquid Voice
-Description = Its sound-based moves become Water-type.
+Name = Hydrata-Son
+Description = Les capacités sonores deviennent de type Eau.
 #-------------------------------
 [TRIAGE]
-Name = Triage
-Description = Gives priority to a healing move.
+Name = Prioguérison
+Description = Donne la priorité aux capacités de soin.
 #-------------------------------
 [GALVANIZE]
-Name = Galvanize
-Description = Normal-type moves become Electric-type and powered.
+Name = Peau Électrique
+Description = Les capacités Normal deviennent Électrik et sont renforcées.
 #-------------------------------
 [SURGESURFER]
-Name = Surge Surfer
-Description = Doubles Speed on Electric Terrain.
+Name = Surf Caudal
+Description = Double la Vitesse sur un Champ Électrifié.
 #-------------------------------
 [SCHOOLING]
-Name = Schooling
-Description = Forms a powerful school while it has a lot of HP.
+Name = Banc
+Description = Prend sa forme Banc tant qu'il possède suffisamment de PV.
 #-------------------------------
 [DISGUISE]
-Name = Disguise
-Description = Its shroud protects it from an attack just once.
+Name = Fantômasque
+Description = Annule les dégâts de la première attaque subie.
 #-------------------------------
 [BATTLEBOND]
-Name = Battle Bond
-Description = Defeating a foe lets it become Ash-Greninja.
+Name = Synergie
+Description = Devient Sachanobi après avoir mis un ennemi K.O.
 #-------------------------------
 [POWERCONSTRUCT]
-Name = Power Construct
-Description = Changes with other Cells if HP becomes half or less.
+Name = Rassemblement
+Description = Prend sa Forme Parfaite lorsque ses PV tombent à la moitié.
 #-------------------------------
 [CORROSION]
 Name = Corrosion
-Description = It can poison Steel- and Poison-type targets.
+Description = Permet d'empoisonner même les Pokémon Acier et Poison.
 #-------------------------------
 [COMATOSE]
-Name = Comatose
-Description = It's always drowsing, and attacks without waking.
+Name = Hypersommeil
+Description = Le Pokémon est constamment considéré comme endormi.
 #-------------------------------
 [QUEENLYMAJESTY]
-Name = Queenly Majesty
-Description = Makes foes unable to use priority attacks.
+Name = Majesté
+Description = Empêche les adversaires d'utiliser des capacités prioritaires.
 #-------------------------------
 [INNARDSOUT]
-Name = Innards Out
-Description = Damages an attacker that lands the finishing hit.
+Name = Expuls'Organes
+Description = Inflige à l'attaquant des dégâts égaux aux PV restants du Pokémon mis K.O.
 #-------------------------------
 [DANCER]
-Name = Dancer
-Description = Repeats another Pokémon's dance move immediately.
+Name = Danseuse
+Description = Copie immédiatement les capacités dansantes utilisées par un autre Pokémon.
 #-------------------------------
 [BATTERY]
-Name = Battery
-Description = Powers up ally Pokémon's special moves.
+Name = Batterie
+Description = Augmente la puissance des capacités spéciales des alliés.
 #-------------------------------
 [FLUFFY]
-Name = Fluffy
-Description = Resists contact damage but weaker to Fire-type.
+Name = Boule de Poils
+Description = Réduit les dégâts des capacités de contact, mais augmente ceux des capacités Feu.
 #-------------------------------
 [DAZZLING]
-Name = Dazzling
-Description = Makes foes unable to use priority attacks.
+Name = Corps Coloré
+Description = Empêche les adversaires d'utiliser des capacités prioritaires.
 #-------------------------------
 [SOULHEART]
-Name = Soul-Heart
-Description = Boosts Sp. Atk each time a Pokémon faints.
+Name = Animacœur
+Description = Augmente l'Attaque Spéciale chaque fois qu'un Pokémon est mis K.O.
 #-------------------------------
 [TANGLINGHAIR]
-Name = Tangling Hair
-Description = Contact with it lowers the attacker's Speed.
+Name = Mèche Rebelle
+Description = Diminue la Vitesse de l'attaquant en cas de contact.
 #-------------------------------
 [RECEIVER]
-Name = Receiver
-Description = Copies the Ability of a defeated ally.
+Name = Receveur
+Description = Hérite du talent d'un allié mis K.O.
 #-------------------------------
 [POWEROFALCHEMY]
-Name = Power of Alchemy
-Description = Copies the Ability of a defeated ally.
+Name = Osmose
+Description = Hérite du talent d'un allié mis K.O.
 #-------------------------------
 [BEASTBOOST]
-Name = Beast Boost
-Description = Boosts its best stat each time it deals a KO.
+Name = Boost Chimère
+Description = Augmente la meilleure statistique après avoir mis un Pokémon K.O.
 #-------------------------------
 [RKSSYSTEM]
-Name = RKS System
-Description = Its type matches the memory disc it holds.
+Name = Système Alpha
+Description = Change de type selon le Module tenu.
 #-------------------------------
 [ELECTRICSURGE]
-Name = Electric Surge
-Description = Turns the ground into Electric Terrain.
+Name = Créa-Élec
+Description = Déploie un Champ Électrifié en entrant au combat.
 #-------------------------------
 [PSYCHICSURGE]
-Name = Psychic Surge
-Description = Turns the ground into Psychic Terrain.
+Name = Créa-Psy
+Description = Déploie un Champ Psychique en entrant au combat.
 #-------------------------------
 [MISTYSURGE]
-Name = Misty Surge
-Description = Turns the ground into Misty Terrain.
+Name = Créa-Brume
+Description = Déploie un Champ Brumeux en entrant au combat.
 #-------------------------------
 [GRASSYSURGE]
-Name = Grassy Surge
-Description = Turns the ground into Grassy Terrain.
+Name = Créa-Herbe
+Description = Déploie un Champ Herbu en entrant au combat.
 #-------------------------------
 [FULLMETALBODY]
-Name = Full Metal Body
-Description = Prevents other Pokémon from lowering its stats.
+Name = Métallo-Garde
+Description = Empêche les ennemis de baisser les statistiques.
 #-------------------------------
 [SHADOWSHIELD]
-Name = Shadow Shield
-Description = Resists damage while its HP is full.
+Name = Spectro-Bouclier
+Description = Réduit les dégâts lorsque les PV sont au maximum.
 #-------------------------------
 [PRISMARMOR]
-Name = Prism Armor
-Description = Reduces damage from super-effective attacks.
+Name = Prism-Armure
+Description = Réduit les dégâts des capacités super efficaces.
 #-------------------------------
 [NEUROFORCE]
-Name = Neuroforce
-Description = Powers up moves that are super-effective.
+Name = Cérébro-Force
+Description = Augmente la puissance des capacités super efficaces.
 #-------------------------------
 [INTREPIDSWORD]
-Name = Intrepid Sword
-Description = Boosts Attack when entering a battle.
+Name = Lame Indomptable
+Description = Augmente l'Attaque en entrant au combat.
 #-------------------------------
 [DAUNTLESSSHIELD]
-Name = Dauntless Shield
-Description = Boosts Defense when entering a battle.
+Name = Bouclier Indomptable
+Description = Augmente la Défense en entrant au combat.
 #-------------------------------
 [LIBERO]
-Name = Libero
-Description = It changes type to that of the move it's about to use.
+Name = Libéro
+Description = Prend le type de la capacité qu'il va utiliser.
 #-------------------------------
 [BALLFETCH]
-Name = Ball Fetch
-Description = Retrieves the first thrown Poké Ball if it failed.
+Name = Ramasse Ball
+Description = Récupère la première Poké Ball lancée si elle échoue.
 #-------------------------------
 [COTTONDOWN]
-Name = Cotton Down
-Description = Scatters Speed-lowering cotton fluff when hit.
+Name = Duvet
+Description = Répand du coton qui baisse la Vitesse lorsqu'il est touché.
 #-------------------------------
 [PROPELLERTAIL]
-Name = Propeller Tail
-Description = This Pokémon's moves cannot be redirected.
+Name = Hélice
+Description = Les capacités de ce Pokémon ne peuvent pas être redirigées.
 #-------------------------------
 [MIRRORARMOR]
-Name = Mirror Armor
-Description = Bounces back stat-lowering effects.
+Name = Armure Miroir
+Description = Renvoie les effets qui baissent les statistiques.
 #-------------------------------
 [GULPMISSILE]
-Name = Gulp Missile
-Description = Catches prey via Surf or Dive, spits it out when hit.
+Name = Dégobage
+Description = Avale une proie avec Surf ou Plongée, puis la recrache lorsqu'il est touché.
 #-------------------------------
 [STALWART]
-Name = Stalwart
-Description = This Pokémon's moves cannot be redirected.
+Name = Fermeté
+Description = Les capacités de ce Pokémon ne peuvent pas être redirigées.
 #-------------------------------
 [STEAMENGINE]
-Name = Steam Engine
-Description = Boosts Speed drastically if hit by a Fire or Water move.
+Name = Machine à Vapeur
+Description = Augmente fortement la Vitesse si touché par une capacité Feu ou Eau.
 Flags = FasterEggHatching
 #-------------------------------
 [PUNKROCK]
 Name = Punk Rock
-Description = Powers up own sound moves. Resists other sound moves.
+Description = Augmente la puissance des capacités sonores et réduit les dégâts qu'elles infligent.
 #-------------------------------
 [SANDSPIT]
-Name = Sand Spit
-Description = Creates a sandstorm when hit by an attack.
+Name = Sable Ardent
+Description = Déclenche une tempête de sable lorsqu'il est touché.
 #-------------------------------
 [ICESCALES]
-Name = Ice Scales
-Description = Halves the damage taken from special moves.
+Name = Écailles Glacées
+Description = Réduit de moitié les dégâts des capacités spéciales.
 #-------------------------------
 [RIPEN]
-Name = Ripen
-Description = Ripens Berries and doubles their effect.
+Name = Mûrissement
+Description = Double les effets des Baies consommées.
 #-------------------------------
 [ICEFACE]
-Name = Ice Face
-Description = Blocks a physical hit, but the ice head breaks.
+Name = Tête de Gel
+Description = Bloque une attaque physique, puis la tête de glace se brise.
 #-------------------------------
 [POWERSPOT]
-Name = Power Spot
-Description = Just being next to the Pokémon powers up moves.
+Name = Générateur
+Description = Augmente la puissance des capacités des alliés proches.
 #-------------------------------
 [MIMICRY]
-Name = Mimicry
-Description = Changes type depending on the terrain.
+Name = Mimétisme
+Description = Change de type selon le terrain actif.
 #-------------------------------
 [SCREENCLEANER]
-Name = Screen Cleaner
-Description = On entering battle, clears effects of Reflect, etc.
+Name = Brise Écran
+Description = Supprime les effets de Mur Lumière, Protection et autres écrans en entrant au combat.
 #-------------------------------
 [STEELYSPIRIT]
-Name = Steely Spirit
-Description = Powers up ally Pokémon's Steel-type moves.
+Name = Âme d'Acier
+Description = Augmente la puissance des capacités Acier des alliés.
 #-------------------------------
 [PERISHBODY]
-Name = Perish Body
-Description = Both Pokémon faint 3 turns after taking a contact hit.
+Name = Corps Condamné
+Description = Après un contact, les deux Pokémon sont condamnés au bout de trois tours.
 #-------------------------------
 [WANDERINGSPIRIT]
-Name = Wandering Spirit
-Description = Swaps Abilities with contact-making Pokémon.
+Name = Âme Vagabonde
+Description = Échange son talent avec un Pokémon qui le touche.
 #-------------------------------
 [GORILLATACTICS]
-Name = Gorilla Tactics
-Description = Boosts Attack, but allows only one move to be used.
+Name = Tactique Gorille
+Description = Augmente l'Attaque mais n'autorise qu'une seule capacité.
 #-------------------------------
 [NEUTRALIZINGGAS]
-Name = Neutralizing Gas
-Description = Nullifies the effects of all other Abilities.
+Name = Gaz Inhibiteur
+Description = Neutralise les talents de tous les autres Pokémon.
 #-------------------------------
 [PASTELVEIL]
-Name = Pastel Veil
-Description = Protects the Pokémon and its allies from poisoning.
+Name = Voile Pastel
+Description = Protège le Pokémon et ses alliés contre l'empoisonnement.
 #-------------------------------
 [HUNGERSWITCH]
-Name = Hunger Switch
-Description = Changes between Full Belly and Hangry Mode each turn.
+Name = Déclic Fringale
+Description = Alterne entre les Formes Rassasiée et Affamée à chaque tour.
 #-------------------------------
 [QUICKDRAW]
-Name = Quick Draw
-Description = Enables the Pokémon to move first occasionally.
+Name = Tir Vif
+Description = Permet parfois d'agir en premier.
 #-------------------------------
 [UNSEENFIST]
-Name = Unseen Fist
-Description = The Pokémon's contact moves ignore protections.
+Name = Poing Invisible
+Description = Les capacités de contact traversent Abri et capacités similaires.
 #-------------------------------
 [CURIOUSMEDICINE]
-Name = Curious Medicine
-Description = Removes all allies' stat changes on joining battle.
+Name = Breuvage Suspect
+Description = Annule les changements de statistiques des alliés en entrant au combat.
 #-------------------------------
 [TRANSISTOR]
 Name = Transistor
-Description = Powers up Electric-type moves.
+Description = Augmente la puissance des capacités Électrik.
 #-------------------------------
 [DRAGONSMAW]
-Name = Dragon's Maw
-Description = Powers up Dragon-type moves.
+Name = Dent de Dragon
+Description = Augmente la puissance des capacités Dragon.
 #-------------------------------
 [CHILLINGNEIGH]
-Name = Chilling Neigh
-Description = When knocking out a target, raises Attack.
+Name = Blanche Ruade
+Description = Augmente l'Attaque après avoir mis un Pokémon K.O.
 #-------------------------------
 [GRIMNEIGH]
-Name = Grim Neigh
-Description = When knocking out a target, raises Sp. Atk.
+Name = Sombre Ruade
+Description = Augmente l'Attaque Spéciale après avoir mis un Pokémon K.O.
 #-------------------------------
 [ASONECHILLINGNEIGH]
-Name = As One
-Description = Combines Unnerve and Chilling Neigh Abilities.
+Name = Union
+Description = Combine les talents Tension et Blanchiment.
 #-------------------------------
 [ASONEGRIMNEIGH]
-Name = As One
-Description = Combines Unnerve and Grim Neigh Abilities.
+Name = Osmose Équine
+Description = Combine les talents Tension et Sombre Ruade.

@@ -1,173 +1,174 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [ANGERSHELL]
-Name = Anger Shell
-Description = Gets a powerful boost if a hit makes its HP half or less.
+Name = Courroupace
+Description = Augmente fortement les statistiques si une attaque fait tomber les PV à la moitié ou moins.
 #-------------------------------
 [ARMORTAIL]
-Name = Armor Tail
-Description = Prevents opposing Pokémon from using priority moves.
+Name = Armure Caudale
+Description = Empêche les Pokémon adverses d’utiliser des attaques à priorité.
 #-------------------------------
 [BEADSOFRUIN]
-Name = Beads of Ruin
-Description = Lowers the Sp. Def of all Pokémon except the user.
+Name = Perles du Fléau
+Description = Baisse la Défense Spéciale de tous les Pokémon sauf le lanceur.
 #-------------------------------
 [COMMANDER]
-Name = Commander
-Description = Pairs up and commands with an active Dondozo.
+Name = Commandant
+Description = Permet de former un duo et de commander avec un Dondozo actif.
 #-------------------------------
 [COSTAR]
-Name = Costar
-Description = Copies an ally's stat changes upon entry to battle.
+Name = Collab
+Description = Copie les changements de statistiques d’un allié à son entrée au combat.
 #-------------------------------
 [CUDCHEW]
-Name = Cud Chew
-Description = Reuses an eaten Berry at the end of the next turn.
+Name = Ruminant
+Description = Réutilise une Baie consommée à la fin du tour suivant.
 #-------------------------------
 [EARTHEATER]
-Name = Earth Eater
-Description = Restores HP if hit by a Ground-type move.
+Name = Absorbe-Terre
+Description = Régénère des PV lorsqu’il est touché par une attaque de type Sol.
 #-------------------------------
 [ELECTROMORPHOSIS]
-Name = Electromorphosis
-Description = The Pokémon becomes charged upon taking damage.
+Name = Grecharge
+Description = Le Pokémon devient chargé lorsqu’il subit des dégâts.
 #-------------------------------
 [GOODASGOLD]
-Name = Good as Gold
-Description = The Pokémon becomes immune to status moves.
+Name = Corps en Or
+Description = Immunise contre les capacités de statut.
 #-------------------------------
 [GUARDDOG]
-Name = Guard Dog
-Description = Boosts Atk if intimidated and immune to being forced out.
+Name = Esprit canin
+Description = Augmente l’Attaque lorsqu’il est intimidé et empêche d’être forcé à quitter le combat.
 #-------------------------------
 [HADRONENGINE]
-Name = Hadron Engine
-Description = Turns the ground into Electric Terrain and boosts Sp. Atk.
+Name = Moteur à hadrons
+Description = Transforme le sol en Champ électrifié et augmente l’Attaque Spéciale.
 #-------------------------------
 [LINGERINGAROMA]
-Name = Lingering Aroma
-Description = Contact with this Pokémon spreads this Ability.
+Name = Arôme tenace
+Description = Le contact avec ce Pokémon transmet ce talent.
 #-------------------------------
 [MYCELIUMMIGHT]
-Name = Mycelium Might
-Description = Status moves are unimpeded by this Ability but slower to use.
+Name = Force Fongique
+Description = Les capacités de statut sont plus lentes à utiliser mais ne peuvent pas être bloquées.
 #-------------------------------
 [OPPORTUNIST]
-Name = Opportunist
-Description = Copies an opponent's stat boost during a turn.
+Name = Opportuniste
+Description = Copie les augmentations de statistiques de l’adversaire durant le tour.
 #-------------------------------
 [ORICHALCUMPULSE]
-Name = Orichalcum Pulse
-Description = Turns the sunlight harsh while boosing Attack.
+Name = Pouls d’orichalque
+Description = Intensifie le soleil et augmente l’Attaque.
 #-------------------------------
 [PROTOSYNTHESIS]
-Name = Protosynthesis
-Description = Boosts its best stat in harsh sunlight.
+Name = Paléosynthèse
+Description = Augmente la meilleure statistique sous un soleil intense.
 #-------------------------------
 [PURIFYINGSALT]
-Name = Purifying Salt
-Description = Gains protection from status effects and Ghost-type moves.
+Name = Sel purificateur
+Description = Protège des altérations de statut et des attaques de type Spectre.
 #-------------------------------
 [QUARKDRIVE]
-Name = Quark Drive
-Description = Boosts its best stat in Electric Terrain.
+Name = Moteur à quarks
+Description = Augmente la meilleure statistique sous Champ électrifié.
 #-------------------------------
 [ROCKYPAYLOAD]
-Name = Rocky Payload
-Description = Powers up Rock-type moves.
+Name = Charge rocheuse
+Description = Augmente la puissance des attaques de type Roche.
 #-------------------------------
 [SEEDSOWER]
-Name = Seed Sower
-Description = Turns the ground into Grassy Terrain upon taking damage.
+Name = Semencier
+Description = Transforme le sol en Champ Herbu lorsqu’il subit des dégâts.
 #-------------------------------
 [SHARPNESS]
-Name = Sharpness
-Description = Powers up slicing moves.
+Name = Incisif
+Description = Augmente la puissance des attaques tranchantes.
 #-------------------------------
 [SUPREMEOVERLORD]
-Name = Supreme Overlord
-Description = Boosts the power of its moves with every fainted ally.
+Name = Général Suprême
+Description = Augmente la puissance des attaques pour chaque allié K.O.
 #-------------------------------
 [SWORDOFRUIN]
-Name = Sword of Ruin
-Description = Lowers the Defense of all Pokémon except the user.
+Name = Épée du Fléau
+Description = Baisse la Défense de tous les Pokémon sauf le lanceur.
 #-------------------------------
 [TABLETSOFRUIN]
-Name = Tablets of Ruin
-Description = Lowers the Attack of all Pokémon except the user.
+Name = Tablettes du Fléau
+Description = Baisse l’Attaque de tous les Pokémon sauf le lanceur.
 #-------------------------------
 [THERMALEXCHANGE]
-Name = Thermal Exchange
-Description = Boosts Atk when hit by a Fire-type move and prevents burns.
+Name = Thermodynamique
+Description = Augmente l’Attaque lorsqu’il est touché par une attaque Feu et empêche les brûlures.
 #-------------------------------
 [TOXICDEBRIS]
-Name = Toxic Debris
-Description = Scatters poison spikes when hit by physical moves.
+Name = Débris Toxiques
+Description = Déploie des Picots toxiques lorsqu’il subit une attaque physique.
 #-------------------------------
 [VESSELOFRUIN]
-Name = Vessel of Ruin
-Description = Lowers the Sp. Atk of all Pokémon except the user.
+Name = Vase du Fléau
+Description = Baisse l’Attaque Spéciale de tous les Pokémon sauf le lanceur.
 #-------------------------------
 [WELLBAKEDBODY]
-Name = Well-Baked Body
-Description = Fire-type moves deal no damage and sharply boost Defense.
+Name = Bien Cuit
+Description = Immunise contre les attaques Feu et augmente fortement la Défense.
 #-------------------------------
 [WINDPOWER]
-Name = Wind Power
-Description = The Pokémon becomes charged from taking wind damage.
+Name = Turbine Éolienne
+Description = Le Pokémon se charge lorsqu’il subit des attaques de vent.
 #-------------------------------
 [WINDRIDER]
-Name = Wind Rider
-Description = Boosts Attack in Tailwind or when attacked by wind moves.
+Name = Cavalier du vent
+Description = Augmente l’Attaque sous Vent Arrière ou lorsqu’il est touché par des attaques de vent.
 #-------------------------------
 [ZEROTOHERO]
-Name = Zero to Hero
-Description = Transforms into its Hero Form when it switches out.
+Name = Supermutation
+Description = Le Pokémon se transforme en forme Héros lorsqu’il quitte le terrain.
 #-------------------------------
 [SUPERSWEETSYRUP]
-Name = Supersweet Syrup
-Description = Lowers the foe's evasion once per battle.
+Name = Sirop sucré
+Description = Baisse l’esquive de l’adversaire une fois par combat.
 #-------------------------------
 [HOSPITALITY]
-Name = Hospitality
-Description = Restores ally's HP a little when entering battle.
+Name = Aux Petits Soins
+Description = Restaure légèrement les PV d’un allié en entrant au combat.
 #-------------------------------
 [TOXICCHAIN]
-Name = Toxic Chain
-Description = May badly poison targets when the user attacks.
+Name = Chaîne toxique
+Description = Peut fortement empoisonner la cible lors d’une attaque.
 #-------------------------------
 [MINDSEYE]
-Name = Mind's Eye
-Description = Prevents accuracy loss. Ignores Ghost immunities.
+Name = 	Résist. ↓Précision
+Description = Ignore les baisses de précision et permet de toucher les Pokémon de type Spectre.
 #-------------------------------
 [EMBODYASPECT]
-Name = Embody Aspect
-Description = The user's shining mask raises its Speed stat.
+Name = Force Mémorielle
+Description = Le masque brillant augmente la Vitesse du Pokémon.
 #-------------------------------
 [EMBODYASPECT_1]
-Name = Embody Aspect
-Description = The user's shining mask raises its Sp. Def stat.
+Name = Force Mémorielle
+Description = Le masque brillant augmente la Défense Spéciale du Pokémon.
 #-------------------------------
 [EMBODYASPECT_2]
-Name = Embody Aspect
-Description = The user's shining mask raises its Attack stat.
+Name = Force Mémorielle
+Description = Le masque brillant augmente l’Attaque du Pokémon.
 #-------------------------------
 [EMBODYASPECT_3]
-Name = Embody Aspect
-Description = The user's shining mask raises its Defense stat.
+Name = Force Mémorielle
+Description = Le masque brillant augmente la Défense du Pokémon.
 #-------------------------------
 [POISONPUPPETEER]
-Name = Poison Puppeteer
-Description = Moves that inflict poison also cause confusion.
+Name = Marionnettiste toxique
+Description = Les attaques qui empoisonnent provoquent aussi la confusion.
 #-------------------------------
 [TERASHIFT]
-Name = Tera Shift
-Description = Enters Terastal Form when sent out.
+Name = Téra-Projection
+Description = Le Pokémon passe en forme Téracristal à l’entrée au combat.
 #-------------------------------
 [TERASHELL]
-Name = Tera Shell
-Description = Resists all types when HP is full.
+Name = Téra-Carapace
+Description = Résiste à tous les types lorsque les PV sont au maximum.
 #-------------------------------
 [TERAFORMZERO]
-Name = Teraform Zero
-Description = Eliminates all weather and terrain.
+Name = Zéro absolu
+Description = Supprime tous les effets de météo et de terrain.
+#-------------------------------
