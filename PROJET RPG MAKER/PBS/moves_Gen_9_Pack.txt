@@ -39,7 +39,7 @@ Flags = CanProtect,CanMirrorMove,CannotMetronome
 Description = The user rampages around spewing flames for two to three turns. The user then becomes confused.
 #-------------------------------
 [WAVECRASH]
-Name = Wave Crash
+Name = Aquatacle
 Type = WATER
 Category = Physical
 Power = 120
@@ -49,7 +49,7 @@ Target = NearOther
 FunctionCode = RecoilThirdOfDamageDealt
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = The user shrouds itself in water and slams into the target. This also damages the user.
+Description = Le lanceur se recouvre entièrement d'eau avant de charger sa cible. Cela blesse aussi gravement le lanceur.
 #-------------------------------
 [CHLOROBLAST]
 Name = Chloroblast
@@ -77,7 +77,7 @@ EffectChance = 30
 Description = The user hurls giant chunks of ice at the target. This may also make the target flinch.
 #-------------------------------
 [HEADLONGRUSH]
-Name = Headlong Rush
+Name = Assaut Frontal
 Type = GROUND
 Category = Physical
 Power = 120
@@ -86,7 +86,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = LowerUserDefSpDef1
 Flags = Contact,Punching,CanProtect,CanMirrorMove
-Description = The user rams into the target in a full-body tackle. This lowers the user’s Defense and Sp. Def stats.
+Description = Le lanceur charge la cible de toutes ses forces, ce qui baisse la Défense et la Défense Spéciale du lanceur.
 #-------------------------------
 [BARBBARRAGE]
 Name = Barb Barrage
@@ -373,7 +373,7 @@ EffectChance = 30
 Description = This move is only used by a Starmobile. It may leave the target with a burn.
 #-------------------------------
 [CHILLINGWATER]
-Name = Chilling Water
+Name = Douche Froide
 Type = WATER
 Category = Special
 Power = 50
@@ -383,7 +383,7 @@ Target = NearOther
 FunctionCode = LowerTargetAttack1
 Flags = CanProtect,CanMirrorMove,CannotMetronome
 EffectChance = 100
-Description = The user showers the target with frigid water. This also lowers the target's Attack stat.
+Description = Le lanceur attaque la cible en l'arrosant d'une eau froide. Baisse l'Attaque de la cible.
 #-------------------------------
 [CHILLYRECEPTION]
 Name = Chilly Reception
@@ -434,7 +434,7 @@ Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
 Description = The user retaliates with much greater force against the opponent that last inflicted damage on it.
 #-------------------------------
 [DOODLE]
-Name = Doodle
+Name = Décalquage
 Type = NORMAL
 Category = Status
 Accuracy = 100
@@ -442,7 +442,7 @@ TotalPP = 10
 Target = NearFoe
 FunctionCode = SetUserAlliesAbilityToTargetAbility
 Flags = CannotMetronome
-Description = The user captures a quick sketch, changing the Abilities of the user and its allies to the target's.
+Description = Décalque la cible. Le talent du lanceur et de ses alliés devient identique à celui de la cible.
 #-------------------------------
 [DOUBLESHOCK]
 Name = Double Shock
@@ -540,7 +540,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Le lanceur heurte la cible en tournant sur lui-même. Ses rotations détruisent le champ actif sur le terrain.
 #-------------------------------
 [JETPUNCH]
-Name = Jet Punch
+Name = Poing Sonique
 Type = WATER
 Category = Physical
 Power = 60
@@ -550,7 +550,7 @@ Target = NearOther
 Priority = 1
 FunctionCode = None
 Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome,Punching
-Description = The user summons a torrent around its fist and punches at blinding speed. Always goes first.
+Description = Le lanceur enveloppe son poing d'un torrent furieux. Frappe en priorité.
 #-------------------------------
 [KOWTOWCLEAVE]
 Name = Génusection
@@ -562,7 +562,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = None
 Flags = Slicing,Contact,CanProtect,CanMirrorMove
-Description = Le lanceur se prosterne devant la cible et profite de cette distraction pour l'attaquer avec une lame. N'échoue jamais.
+Description = Le lanceur se prosterne devant la cible et profite de cette distraction pour l'attaquer. N'échoue jamais.
 #-------------------------------
 [LASTRESPECTS]
 Name = Last Respects
@@ -688,7 +688,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = IncreasePowerEachTimeHit
 Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome,Punching
-Description = Le lanceur transforme sa colère en énergie pour attaquer. Plus il a subi d'attaques, plus la puissance de cette capacité augmente.
+Description = Le lanceur transforme sa colère en énergie pour attaquer. Plus il a subi d'attaques, plus la puissance augmente.
 #-------------------------------
 [RAGINGBULL]
 Name = Raging Bull
@@ -770,7 +770,7 @@ TotalPP = 10
 Target = BothSides
 FunctionCode = StartHailWeather
 Flags = CannotMetronome
-Description = Le lanceur invoque une tempête de neige qui dure cinq tours, ce qui augmente la Défense des Pokémon de type Glace.
+Description = Le lanceur invoque une tempête de neige qui dure cinq tours, ce qui augmente la Défense des Pokémons de type Glace.
 #-------------------------------
 [SPICYEXTRACT]
 Name = Habanerage
@@ -831,7 +831,7 @@ Target = NearOther
 FunctionCode = RaiseUserSpeed1
 Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
 EffectChance = 100
-Description = Le lanceur surgit des hautes herbes pour attaquer la cible. Les mouvements agiles du lanceur augmentent sa Vitesse.
+Description = Le lanceur surgit des hautes herbes pour attaquer la cible, et augmente sa Vitesse.
 #-------------------------------
 [TRIPLEDIVE]
 Name = Triple Dive
@@ -1052,7 +1052,7 @@ FunctionCode = RaiseAlliesCriticalHitRate1DragonTypes2
 Description = The user raises its allies’ critical hit ratio with a draconic cry. This rouses Dragon types more.
 #-------------------------------
 [ALLURINGVOICE]
-Name = Alluring Voice
+Name = Voix Envoûtante
 Type = FAIRY
 Category = Special
 Power = 80
@@ -1062,10 +1062,10 @@ Target = NearOther
 FunctionCode = ConfuseTargetIfTargetStatsRaisedThisTurn
 Flags = Sound,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = Attacks using an angelic voice. This confuses the target if its stats have been raised this turn.
+Description = Le lanceur attaque la cible avec sa voix angélique. Rend la cible confuse si ses stats ont augmenté pendant ce tour.
 #-------------------------------
 [TEMPERFLARE]
-Name = Temper Flare
+Name = Indignition
 Type = FIRE
 Category = Physical
 Power = 75
@@ -1074,10 +1074,10 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = DoublePowerIfUserLastMoveFailed
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user attacks driven by frustration. Power increases if the user's previous move failed.
+Description = Le lanceur utilise la force de son dépit. Si sa dernière capacité a échoué, la puissance est doublée.
 #-------------------------------
 [SUPERCELLSLAM]
-Name = Supercell Slam
+Name = Volt Assaut
 Type = ELECTRIC
 Category = Physical
 Power = 100
@@ -1086,10 +1086,10 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = CrashDamageIfFails
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user drops onto the target with its electrified body. If it misses, the user is hurt instead.
+Description = Le lanceur se charge en électricité et fond sur la cible. S'il échoue, le lanceur se blesse.
 #-------------------------------
 [PSYCHICNOISE]
-Name = Psychic Noise
+Name = Dissonance Psy
 Type = PSYCHIC
 Category = Special
 Power = 75
@@ -1099,10 +1099,10 @@ Target = NearOther
 FunctionCode = DisableTargetHealingMoves2Turns
 Flags = Sound,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = Attacks the target with unpleasant sound waves. Prevents the target from healing for two turns.
+Description = Le lanceur attaque avec des ondes sonores dissonantes. Empêche la cible de se soigner pendant 2 tours.
 #-------------------------------
 [UPPERHAND]
-Name = Upper Hand
+Name = Prio-Parade
 Type = FIGHTING
 Category = Physical
 Power = 65
@@ -1113,7 +1113,7 @@ Priority = 3
 FunctionCode = FlinchTargetFailsIfTargetNotUsingPriorityMove
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = An attack that hits first and makes the target flinch. Fails if the target isn't using a high priority move.
+Description = Le lanceur réagit instinctivement et apeure la cible. Échoue si elle n'a pas utilisé une attaque prioritaire.
 #-------------------------------
 [MALIGNANTCHAIN]
 Name = Malignant Chain
