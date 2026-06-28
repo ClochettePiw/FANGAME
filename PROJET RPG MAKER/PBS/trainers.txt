@@ -2358,7 +2358,7 @@ Pokemon = JELLICENT,44
 #-------------------------------
 [GYMLEADER7,Émilie]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = …
+LoseText = Tu es vraiment devenu un prodige…
 Pokemon = VANILLUXE,47
     Moves = BLIZZARD,FLASHCANNON,HYPERBEAM,AURORAVEIL
     AbilityIndex = 1

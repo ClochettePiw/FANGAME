@@ -331,7 +331,7 @@ Battle::AbilityEffects::OnSwitchIn.add(:ZEROTOHERO,
     next if !battler.isSpecies?(:PALAFIN)
     next if battler.form == 0 || battler.ability_triggered?
     battle.pbShowAbilitySplash(battler)
-    battle.pbDisplay(_INTL("{1} underwent a heroic transformation!", battler.pbThis))
+    battle.pbDisplay(_INTL("{1} procède à une transformation héroïque !", battler.pbThis))
     battle.pbHideAbilitySplash(battler)
     battle.pbSetAbilityTrigger(battler)
   }
@@ -362,7 +362,7 @@ Battle::AbilityEffects::OnSwitchIn.add(:COMMANDER,
       next if defined?(b.dynamax?) && b.dynamax?
       battle.pbShowAbilitySplash(battler)
       battle.pbClearChoice(battler.index)
-      battle.pbDisplay(_INTL("{1} goes inside the mouth of {2}!", battler.pbThis, b.pbThis(true)))
+      battle.pbDisplay(_INTL("{1} se jette dans la bouche de {2} !", battler.pbThis, b.pbThis(true)))
       battle.scene.sprites["pokemon_#{battler.index}"].visible = false
       battle.scene.sprites["shadow_#{battler.index}"].visible = false
       b.effects[PBEffects::Commander] = [battler.index, battler.form]
@@ -382,7 +382,7 @@ Battle::AbilityEffects::OnSwitchIn.add(:COMMANDER,
 Battle::AbilityEffects::MoveImmunity.add(:COMMANDER,
   proc { |ability, user, target, move, type, battle, show_message|
     next false if !target.isCommander?
-    battle.pbDisplay(_INTL("{1} avoided the attack!", target.pbThis)) if show_message
+    battle.pbDisplay(_INTL("{1} évite l'attaque !", target.pbThis)) if show_message
     next true
   }
 )
@@ -399,7 +399,7 @@ Battle::AbilityEffects::OnSwitchIn.add(:TABLETSOFRUIN,
     when :BEADSOFRUIN   then stat_name = GameData::Stat.get(:SPECIAL_DEFENSE).name
     end
     battle.pbShowAbilitySplash(battler)
-    battle.pbDisplay(_INTL("{1}'s {2} weakened the {3} of all surrounding Pokémon!", battler.pbThis, battler.abilityName, stat_name))
+    battle.pbDisplay(_INTL("{1} de {2} réduit {3} de tous les Pokémons au combat !", battler.abilityName, battler.pbThis, stat_name))
     battle.pbHideAbilitySplash(battler)
   }
 )
