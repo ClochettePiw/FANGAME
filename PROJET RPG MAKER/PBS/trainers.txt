@@ -2959,7 +2959,7 @@ Pokemon = SERPERIOR,52
 #-------------------------------
 [ACETRAINERWF,Debra]
 LoseText = Tu sembles en état de poursuivre.
-Pokemon = GRAFAIAI,54
+Pokemon = AVALUGG,54
 Pokemon = GLISCOR,54
 #-------------------------------
 [SWIMMERM,Charles]
