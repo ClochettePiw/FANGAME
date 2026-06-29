@@ -2588,7 +2588,7 @@ Pokemon = ZWEILOUS,50
 #-------------------------------
 [ACETRAINERCM,Lio]
 LoseText = Courage… Tu y es presque !
-Pokemon = DRAGALGE,48
+Pokemon = DEINO,48
 Pokemon = FLAPPLE,48
 #-------------------------------
 [ACETRAINERCF,Freya]
