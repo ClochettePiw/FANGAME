@@ -1040,7 +1040,7 @@ ShadowSize = 1
 #-------------------------------
 [KOMMOO]
 BackSprite = 0,30
-FrontSprite = 7,11
+FrontSprite = 0,12
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
@@ -1076,7 +1076,7 @@ ShadowSize = 1
 #-------------------------------
 [TURTONATOR]
 BackSprite = 0,24
-FrontSprite = 2,20
+FrontSprite = 3,20
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
