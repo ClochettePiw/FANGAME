@@ -3359,8 +3359,8 @@ Move = ICEBEAM
 Description = Un rayon de glace frappe l'ennemi. Peut aussi le geler.
 #-------------------------------
 [TM07]
-Name = TM07
-NamePlural = TM07s
+Name = CT07
+NamePlural = CT07s
 Pocket = 4
 Price = 5500
 BPPrice = 32
@@ -3381,8 +3381,8 @@ Move = LIGHTSCREEN
 Description = Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités spéciales pendant cinq tours.
 #-------------------------------
 [TM03]
-Name = TM03
-NamePlural = TM03s
+Name = CT03
+NamePlural = CT03s
 Pocket = 4
 Price = 2000
 BPPrice = 32
@@ -3414,8 +3414,8 @@ Move = DRAININGKISS
 Description = Aspire la force vitale de l'ennemi par un baiser. Rend au lanceur un nombre de PV supérieur ou égal à la moitié des dégâts infligés.
 #-------------------------------
 [TM05]
-Name = TM05
-NamePlural = TM05s
+Name = CT05
+NamePlural = CT05s
 Pocket = 4
 Price = 3000
 BPPrice = 32
@@ -3522,17 +3522,6 @@ FieldUse = TM
 Flags = Fling_10
 Move = REFLECT
 Description = Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités physiques pendant cinq tours.
-#-------------------------------
-[TM34]
-Name = TM34
-NamePlural = TM34s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_60
-Move = SHOCKWAVE
-Description = The user strikes the target with a quick jolt of electricity. This attack never misses.
 #-------------------------------
 [TM36]
 Name = CT36
@@ -3754,8 +3743,8 @@ Move = SWORDSDANCE
 Description = Une danse frénétique qui exalte l'esprit combatif. Augmente beaucoup l'Attaque du lanceur.
 #-------------------------------
 [TM04]
-Name = TM04
-NamePlural = TM04s
+Name = CT04
+NamePlural = CT04s
 Pocket = 4
 Price = 2000
 BPPrice = 32
@@ -3820,8 +3809,8 @@ Move = FLASHCANNON
 Description = Le lanceur concentre son énergie lumineuse et la fait exploser. Peut aussi baisser la Défense Spéciale de l'ennemi.
 #-------------------------------
 [TM01]
-Name = TM01
-NamePlural = TM01s
+Name = CT01
+NamePlural = CT01s
 Pocket = 4
 Price = 2000
 BPPrice = 32
@@ -3831,8 +3820,8 @@ Move = FOCUSENERGY
 Description = Le lanceur prend une profonde inspiration et se concentre pour augmenter son taux de critiques.
 #-------------------------------
 [TM02]
-Name = TM02
-NamePlural = TM02s
+Name = CT02
+NamePlural = CT02s
 Pocket = 4
 Price = 2000
 BPPrice = 32
@@ -3842,8 +3831,8 @@ Move = ACROBATICS
 Description = Attaque agile. Si le lanceur ne tient pas d'objet, l'attaque inflige davantage de dégâts.
 #-------------------------------
 [TM06]
-Name = TM106
-NamePlural = TM106s
+Name = CT06
+NamePlural = CT06s
 Pocket = 4
 Price = 2000
 BPPrice = 32
