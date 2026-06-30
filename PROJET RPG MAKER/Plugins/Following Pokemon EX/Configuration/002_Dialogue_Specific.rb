@@ -53,9 +53,9 @@ EventHandlers.add(:following_pkmn_talk, :pokemon_lab, proc { |pkmn, _random_val|
     FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ELIPSES)
     pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
     messages = [
-      _INTL("{1} is touching some kind of switch."),
-      _INTL("{1} has a cord in its mouth!"),
-      _INTL("{1} seems to want to touch the machinery.")
+	_INTL("{1} touche une sorte d'interrupteur."),
+	_INTL("{1} a un câble dans la bouche !"),
+	_INTL("{1} semble vouloir toucher la machinerie."),
     ]
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
     next true
@@ -70,9 +70,9 @@ EventHandlers.add(:following_pkmn_talk, :player_house, proc { |pkmn, _random_val
     FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_HAPPY)
     pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
     messages = [
-      _INTL("{1} is sniffing around the room."),
-      _INTL("{1} noticed {2}'s mom is nearby."),
-      _INTL("{1} seems to want to settle down at home.")
+	_INTL("{1} renifle partout dans la pièce."),
+	_INTL("{1} a remarqué que l'oncler de {2} est à proximité."),
+	_INTL("{1} semble vouloir se poser à la maison."),
     ]
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
     next true
@@ -86,15 +86,15 @@ EventHandlers.add(:following_pkmn_talk, :pokemon_center, proc { |pkmn, _random_v
     FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_HAPPY)
     pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
     messages = [
-      _INTL("{1} looks happy to see the nurse."),
-      _INTL("{1} looks a little better just being in the Pokémon Center."),
-      _INTL("{1} seems fascinated by the healing machinery."),
-      _INTL("{1} looks like it wants to take a nap."),
-      _INTL("{1} chirped a greeting at the nurse."),
-      _INTL("{1} is watching {2} with a playful gaze."),
-      _INTL("{1} seems to be completely at ease."),
-      _INTL("{1} is making itself comfortable."),
-      _INTL("There's a content expression on {1}'s face.")
+      _INTL("{1} semble heureux de voir l'infirmière."),
+      _INTL("{1} a l'air d'aller un peu mieux rien qu'en étant au Centre Pokémon."),
+      _INTL("{1} semble fasciné par les machines de soin."),
+      _INTL("{1} a l'air de vouloir faire une sieste."),
+      _INTL("{1} a lancé un petit cri de salut à l'infirmière."),
+      _INTL("{1} observe {2} d'un regard espiègle."),
+      _INTL("{1} semble parfaitement à l'aise."),
+      _INTL("{1} s'est installé confortablement."),
+      _INTL("{1} affiche une expression satisfaite."),
     ]
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
     next true
@@ -108,16 +108,16 @@ EventHandlers.add(:following_pkmn_talk, :gym, proc { |pkmn, _random_val|
     FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ANGRY)
     pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
     messages = [
-      _INTL("{1} looks eager to battle!"),
-      _INTL("{1} is looking at {2} with a determined gleam in its' eye."),
-      _INTL("{1} is trying to intimidate the other trainers."),
-      _INTL("{1} trusts {2} to come up with a winning strategy."),
-      _INTL("{1} is keeping an eye on the gym leader."),
-      _INTL("{1} is ready to pick a fight with someone."),
-      _INTL("{1} looks like it might be preparing for a big showdown!"),
-      _INTL("{1} wants to show off how strong it is!"),
-      _INTL("{1} is...doing warm-up exercises?"),
-      _INTL("{1} is growling quietly in contemplation...")
+      _INTL("{1} a hâte de combattre !"),
+      _INTL("{1} regarde {2} avec une lueur de détermination dans les yeux."),
+      _INTL("{1} essaie d'intimider les autres Dresseurs."),
+      _INTL("{1} fait confiance à {2} pour élaborer une stratégie gagnante."),
+      _INTL("{1} garde un œil sur le Champion d'Arène."),
+      _INTL("{1} semble prêt à chercher la bagarre."),
+      _INTL("{1} semble se préparer pour un grand affrontement !"),
+      _INTL("{1} veut montrer à quel point il est fort !"),
+      _INTL("{1} est en train de... s'échauffer ?"),
+      _INTL("{1} grogne doucement, perdu dans ses pensées..."),
     ]
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
     next true
@@ -133,23 +133,23 @@ EventHandlers.add(:following_pkmn_talk, :storm_weather, proc { |pkmn, _random_va
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_HAPPY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is staring up at the sky."),
-        _INTL("The storm seems to be making {1} excited."),
-        _INTL("{1} looked up at the sky and shouted loudly!"),
-        _INTL("The storm only seems to be energizing {1}!"),
-        _INTL("{1} is happily zapping and jumping in circles!"),
-        _INTL("The lightning doesn't bother {1} at all.")
+        _INTL("{1} fixe le ciel."),
+        _INTL("L'orage semble rendre {1} enthousiaste."),
+        _INTL("{1} a levé les yeux vers le ciel et a poussé un grand cri !"),
+        _INTL("L'orage semble seulement donner encore plus d'énergie à {1} !"),
+        _INTL("{1} lance joyeusement des décharges électriques en sautillant en rond !"),
+        _INTL("La foudre ne dérange absolument pas {1}.")
       ]
     else
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ELIPSES)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is staring up at the sky."),
-        _INTL("The storm seems to be making {1} a bit nervous."),
-        _INTL("The lightning startled {1}!"),
-        _INTL("The rain doesn't seem to bother {1} much."),
-        _INTL("The weather seems to be putting {1} on edge."),
-        _INTL("{1} was startled by the lightning and snuggled up to {2}!")
+        _INTL("{1} fixe le ciel."),
+        _INTL("L'orage semble rendre {1} un peu nerveux."),
+        _INTL("La foudre a effrayé {1} !"),
+        _INTL("La pluie ne semble pas vraiment déranger {1}."),
+        _INTL("Le mauvais temps semble mettre {1} mal à l'aise."),
+        _INTL("{1} a été effrayé par la foudre et s'est blotti contre {2} !"),
       ]
     end
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
@@ -166,22 +166,21 @@ EventHandlers.add(:following_pkmn_talk, :snow_weather, proc { |pkmn, _random_val
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_HAPPY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is watching the snow fall."),
-        _INTL("{1} is thrilled by the snow!"),
-        _INTL("{1} is staring up at the sky with a smile."),
-        _INTL("The snow seems to have put {1} in a good mood."),
-        _INTL("{1} is cheerful because of the cold!")
+        _INTL("{1} regarde la neige tomber."),
+        _INTL("{1} est ravi par la neige !"),
+        _INTL("{1} contemple le ciel avec le sourire."),
+        _INTL("La neige semble mettre {1} de bonne humeur."),
+        _INTL("{1} est joyeux grâce au froid !")
       ]
     else
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ELIPSES)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is watching the snow fall."),
-        _INTL("{1} is nipping at the falling snowflakes."),
-        _INTL("{1} wants to catch a snowflake in its' mouth."),
-        _INTL("{1} is fascinated by the snow."),
-        _INTL("{1}'s teeth are chattering!"),
-        _INTL("{1} made its body slightly smaller because of the cold...")
+        _INTL("{1} essaie d'attraper les flocons de neige qui tombent."),
+        _INTL("{1} veut attraper un flocon dans sa bouche."),
+        _INTL("{1} semble fasciné par la neige."),
+        _INTL("{1} claque des dents !"),
+        _INTL("{1} se recroqueville légèrement à cause du froid...")
       ]
     end
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
@@ -198,21 +197,21 @@ EventHandlers.add(:following_pkmn_talk, :blizzard_weather, proc { |pkmn, _random
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_HAPPY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is watching the hail fall."),
-        _INTL("{1} isn't bothered at all by the hail."),
-        _INTL("{1} is staring up at the sky with a smile."),
-        _INTL("The hail seems to have put {1} in a good mood."),
-        _INTL("{1} is gnawing on a piece of hailstone.")
+        _INTL("{1} regarde la grêle tomber."),
+        _INTL("{1} n'est pas du tout dérangé par la grêle."),
+        _INTL("{1} contemple le ciel avec le sourire."),
+        _INTL("La grêle semble mettre {1} de bonne humeur."),
+        _INTL("{1} grignote un morceau de grêlon.")
       ]
     else
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ANGRY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is getting pelted by hail!"),
-        _INTL("{1} wants to avoid the hail."),
-        _INTL("The hail is hitting {1} painfully."),
-        _INTL("{1} looks unhappy."),
-        _INTL("{1} is shaking like a leaf!")
+        _INTL("{1} se fait bombarder par la grêle !"),
+        _INTL("{1} veut éviter la grêle."),
+        _INTL("La grêle frappe douloureusement {1}."),
+        _INTL("{1} n'a pas l'air content."),
+        _INTL("{1} tremble comme une feuille !")
       ]
     end
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
@@ -229,28 +228,28 @@ EventHandlers.add(:following_pkmn_talk, :sandstorm_weather, proc { |pkmn, _rando
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_HAPPY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is coated in sand."),
-        _INTL("The weather doesn't seem to bother {1} at all!"),
-        _INTL("The sand can't slow {1} down!"),
-        _INTL("{1} is enjoying the weather.")
+        _INTL("{1} est recouvert de sable."),
+        _INTL("Le temps ne semble pas du tout déranger {1} !"),
+        _INTL("Le sable ne peut pas ralentir {1} !"),
+        _INTL("{1} apprécie ce temps.")
       ]
     elsif pkmn.hasType?(:STEEL)
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ELIPSES)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is coated in sand, but doesn't seem to mind."),
-        _INTL("{1} seems unbothered by the sandstorm."),
-        _INTL("The sand doesn't slow {1} down."),
-        _INTL("{1} doesn't seem to mind the weather.")
+        _INTL("{1} est recouvert de sable, mais cela ne semble pas le déranger."),
+        _INTL("{1} ne semble pas gêné par la tempête de sable."),
+        _INTL("Le sable ne ralentit pas {1}."),
+        _INTL("{1} ne semble pas gêné par ce temps.")
       ]
     else
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ANGRY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is covered in sand..."),
-        _INTL("{1} spat out a mouthful of sand!"),
-        _INTL("{1} is squinting through the sandstorm."),
-        _INTL("The sand seems to be bothering {1}.")
+        _INTL("{1} est couvert de sable..."),
+        _INTL("{1} recrache une bouchée de sable !"),
+        _INTL("{1} plisse les yeux à travers la tempête de sable."),
+        _INTL("Le sable semble déranger {1}.")
       ]
     end
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
@@ -266,25 +265,25 @@ EventHandlers.add(:following_pkmn_talk, :forest_map, proc { |pkmn, _random_val|
     pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
     if [:BUG, :GRASS].any? { |type| pkmn.hasType?(type) }
       messages = [
-        _INTL("{1} seems highly interested in the trees."),
-        _INTL("{1} seems to enjoy the buzzing of the bug Pokémon."),
-        _INTL("{1} is jumping around restlessly in the forest.")
+        _INTL("{1} semble très intéressé par les arbres."),
+        _INTL("{1} semble apprécier le bourdonnement des Pokémon Insecte."),
+        _INTL("{1} sautille avec agitation dans la forêt.")
       ]
     else
       messages = [
-        _INTL("{1} seems highly interested in the trees."),
-        _INTL("{1} seems to enjoy the buzzing of the bug Pokémon."),
-        _INTL("{1} is jumping around restlessly in the forest."),
-        _INTL("{1} is wandering around and listening to the different sounds."),
-        _INTL("{1} is munching at the grass."),
-        _INTL("{1} is wandering around and enjoying the forest scenery."),
-        _INTL("{1} is playing around, plucking bits of grass."),
-        _INTL("{1} is staring at the light coming through the trees."),
-        _INTL("{1} is playing around with a leaf!"),
-        _INTL("{1} seems to be listening to the sound of rustling leaves."),
-        _INTL("{1} is standing perfectly still and might be imitating a tree..."),
-        _INTL("{1} got tangled in the branches and almost fell down!"),
-        _INTL("{1} was surprised when it got hit by a branch!")
+        _INTL("{1} semble très intéressé par les arbres."),
+        _INTL("{1} semble apprécier le bourdonnement des Pokémon Insecte."),
+        _INTL("{1} sautille avec agitation dans la forêt."),
+        _INTL("{1} se promène en écoutant les différents sons."),
+        _INTL("{1} grignote l'herbe."),
+        _INTL("{1} se promène en profitant du paysage forestier."),
+        _INTL("{1} s'amuse à arracher des brins d'herbe."),
+        _INTL("{1} contemple la lumière qui filtre à travers les arbres."),
+        _INTL("{1} joue avec une feuille !"),
+        _INTL("{1} semble écouter le bruissement des feuilles."),
+        _INTL("{1} reste parfaitement immobile, comme s'il imitait un arbre..."),
+        _INTL("{1} s'est emmêlé dans les branches et a failli tomber !"),
+        _INTL("{1} a été surpris lorsqu'une branche l'a frappé !")
       ]
     end
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
@@ -301,36 +300,36 @@ EventHandlers.add(:following_pkmn_talk, :rainy_weather, proc { |pkmn, _random_va
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ANGRY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} seems very upset the weather."),
-        _INTL("{1} is shivering..."),
-        _INTL("{1} doesn't seem to like being all wet..."),
-        _INTL("{1} keeps trying to shake itself dry..."),
-        _INTL("{1} moved closer to {2} for comfort."),
-        _INTL("{1} is looking up at the sky and scowling."),
-        _INTL("{1} seems to be having difficulty moving its body.")
+        _INTL("{1} semble très contrarié par le temps."),
+        _INTL("{1} frissonne..."),
+        _INTL("{1} ne semble pas apprécier d'être complètement trempé..."),
+        _INTL("{1} essaie sans cesse de se sécher en se secouant."),
+        _INTL("{1} s'est rapproché de {2} pour se réconforter."),
+        _INTL("{1} lève les yeux vers le ciel en faisant la grimace."),
+        _INTL("{1} semble avoir du mal à bouger.")
       ]
     elsif pkmn.hasType?(:WATER) || pkmn.hasType?(:GRASS)
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_HAPPY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} seems to be enjoying the weather."),
-        _INTL("{1} seems to be happy about the rain!"),
-        _INTL("{1} seems to be very surprised that it's raining!"),
-        _INTL("{1} beamed happily at {2}!"),
-        _INTL("{1} is gazing up at the rainclouds."),
-        _INTL("Raindrops keep falling on {1}."),
-        _INTL("{1} is looking up with its mouth gaping open.")
+        _INTL("{1} semble apprécier ce temps."),
+        _INTL("{1} semble heureux qu'il pleuve !"),
+        _INTL("{1} semble très surpris qu'il pleuve !"),
+        _INTL("{1} a adressé un grand sourire à {2} !"),
+        _INTL("{1} contemple les nuages de pluie."),
+        _INTL("Les gouttes de pluie tombent sur {1}."),
+        _INTL("{1} regarde le ciel, la bouche grande ouverte.")
       ]
     else
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ELIPSES)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is staring up at the sky."),
-        _INTL("{1} looks a bit surprised to see rain."),
-        _INTL("{1} keeps trying to shake itself dry."),
-        _INTL("The rain doesn't seem to bother {1} much."),
-        _INTL("{1} is playing in a puddle!"),
-        _INTL("{1} is slipping in the water and almost fell over!")
+        _INTL("{1} fixe le ciel."),
+        _INTL("{1} semble un peu surpris de voir la pluie."),
+        _INTL("{1} essaie sans cesse de se secouer pour se sécher."),
+        _INTL("La pluie ne semble pas vraiment déranger {1}."),
+        _INTL("{1} joue dans une flaque d'eau !"),
+        _INTL("{1} a glissé dans l'eau et a failli tomber !")
       ]
     end
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
@@ -345,17 +344,17 @@ EventHandlers.add(:following_pkmn_talk, :beach_map, proc { |pkmn, _random_val|
     FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_HAPPY)
     pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
     messages = [
-      _INTL("{1} seems to be enjoying the scenery."),
-      _INTL("{1} seems to enjoy the sound of the waves moving the sand."),
-      _INTL("{1} looks like it wants to swim!"),
-      _INTL("{1} can barely look away from the ocean."),
-      _INTL("{1} is staring longingly at the water."),
-      _INTL("{1} keeps trying to shove {2} towards the water."),
-      _INTL("{1} is excited to be looking at the sea!"),
-      _INTL("{1} is happily watching the waves!"),
-      _INTL("{1} is playing on the sand!"),
-      _INTL("{1} is staring at {2}'s footprints in the sand."),
-      _INTL("{1} is rolling around in the sand.")
+      _INTL("{1} semble apprécier le paysage."),
+      _INTL("{1} semble aimer le son des vagues qui déplacent le sable."),
+      _INTL("{1} a envie de nager !"),
+      _INTL("{1} n'arrive presque pas à détourner le regard de l'océan."),
+      _INTL("{1} contemple l'eau avec nostalgie."),
+      _INTL("{1} essaie sans cesse de pousser {2} vers l'eau."),
+      _INTL("{1} est excité à l'idée de voir la mer !"),
+      _INTL("{1} regarde les vagues avec joie !"),
+      _INTL("{1} joue dans le sable !"),
+      _INTL("{1} observe les empreintes de pas de {2} dans le sable."),
+      _INTL("{1} se roule dans le sable.")
     ]
     pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
     next true
@@ -371,48 +370,47 @@ EventHandlers.add(:following_pkmn_talk, :sunny_weather, proc { |pkmn, _random_va
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_HAPPY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} seems pleased to be out in the sunshine."),
-        _INTL("{1} is soaking up the sunshine."),
-        _INTL("The bright sunlight doesn't seem to bother {1} at all."),
-        _INTL("{1} sent a ring-shaped cloud of spores into the air!"),
-        _INTL("{1} is stretched out its body and is relaxing in the sunshine."),
-        _INTL("{1} is giving off a floral scent.")
+        _INTL("{1} semble heureux d'être dehors sous le soleil."),
+        _INTL("{1} profite des rayons du soleil."),
+        _INTL("La lumière du soleil ne semble pas du tout déranger {1}."),
+        _INTL("{1} a envoyé un nuage de spores en forme d'anneau dans les airs !"),
+        _INTL("{1} étire son corps et se détend au soleil."),
+        _INTL("{1} dégage un parfum floral.")
       ]
     elsif pkmn.hasType?(:FIRE)
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_HAPPY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} seems to be happy about the great weather!"),
-        _INTL("The bright sunlight doesn't seem to bother {1} at all."),
-        _INTL("{1} looks thrilled by the sunshine!"),
-        _INTL("{1} blew out a fireball."),
-        _INTL("{1} is breathing out fire!"),
-        _INTL("{1} is hot and cheerful!")
+        _INTL("{1} semble heureux de ce beau temps !"),
+        _INTL("La lumière du soleil ne semble pas du tout déranger {1}."),
+        _INTL("{1} semble ravi par le soleil !"),
+        _INTL("{1} a soufflé une boule de feu."),
+        _INTL("{1} crache du feu !"),
+        _INTL("{1} est brûlant et joyeux !")
       ]
     elsif pkmn.hasType?(:DARK)
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ANGRY)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is glaring up at the sky."),
-        _INTL("{1} seems personally offended by the sunshine."),
-        _INTL("The bright sunshine seems to bothering {1}."),
-        _INTL("{1} looks upset for some reason."),
-        _INTL("{1} is trying to stay in {2}'s shadow."),
-        _INTL("{1} keeps looking for shelter from the sunlight.")
+        _INTL("{1} lance un regard noir vers le ciel."),
+        _INTL("{1} semble personnellement offensé par le soleil."),
+        _INTL("La lumière du soleil semble déranger {1}."),
+        _INTL("{1} a l'air contrarié pour une raison inconnue."),
+        _INTL("{1} essaie de rester dans l'ombre de {2}."),
+        _INTL("{1} cherche constamment un abri contre le soleil.")
       ]
     else
       FollowingPkmn.animation(FollowingPkmn::ANIMATION_EMOTE_ELIPSES)
       pbMoveRoute($game_player, [PBMoveRoute::WAIT, 20])
       messages = [
-        _INTL("{1} is squinting in the bright sunshine."),
-        _INTL("{1} is starting to sweat."),
-        _INTL("{1} seems a little uncomfortable in this weather."),
-        _INTL("{1} looks a little overheated."),
-        _INTL("{1} seems very hot..."),
-        _INTL("{1} shielded its vision against the sparkling light!")
+        _INTL("{1} plisse les yeux sous le soleil éclatant."),
+        _INTL("{1} commence à transpirer."),
+        _INTL("{1} semble un peu mal à l'aise par ce temps."),
+        _INTL("{1} a l'air un peu surchauffé."),
+        _INTL("{1} semble avoir très chaud..."),
+        _INTL("{1} a protégé sa vue de la lumière étincelante !")
       ]
-    end
-    pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
+    end    pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
     next true
   end
 })
