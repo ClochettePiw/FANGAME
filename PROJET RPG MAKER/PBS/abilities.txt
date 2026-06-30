@@ -775,7 +775,7 @@ Name = Escampette
 Description = Prend la fuite lorsque les PV tombent à la moitié.
 #-------------------------------
 [EMERGENCYEXIT]
-Name = Système Alpha
+Name = Repli Tactique
 Description = Change de Pokémon lorsque les PV tombent à la moitié.
 #-------------------------------
 [WATERCOMPACTION]
