@@ -124,11 +124,11 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
-Flags = HideFollowingPkmn
+Flags = HideFollowingPkmn,GymMap
 #-------------------------------
 [013]   # Emos - centre Pokémon
 Name = Emos
-Flags = HideFollowingPkmn
+Flags = HideFollowingPkmn,PokeCenter
 #-------------------------------
 [014]   # Perchoir de Naïven
 Name = Perchoir de Naïven
@@ -176,9 +176,11 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 Environment = Rock
+Flags = GymMap
 #-------------------------------
 [018]   # Jovalia - centre Pokémon
 Name = Jovalia
+Flags = PokeCenter
 #-------------------------------
 [020]   # Route 5 north
 Name = Route 5
@@ -199,6 +201,7 @@ Flags = ShowFollowingPkmn
 #-------------------------------
 [021]   # Naïven - centre Pokémon
 Name = Perchoir de Naïven
+Flags = PokeCenter
 #-------------------------------
 [022]   # Naïven - bâtiments
 Name = Perchoir de Naïven
@@ -252,9 +255,11 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+Flags = GymMap
 #-------------------------------
 [028]   # Prudan - centre Pokémon
 Name = Prudan
+Flags = PokeCenter
 #-------------------------------
 [029]   # Prudan -  égouts
 Name = Égouts de Prudan
@@ -358,6 +363,7 @@ Flags = ShowFollowingPkmn
 #-------------------------------
 [041]   # Persever - centre Pokémon
 Name = Persever
+Flags = PokeCenter
 #-------------------------------
 [042]   # Persever - magasin
 Name = Persever
@@ -371,7 +377,7 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 Environment = Volcano
-Flags = HideFollowingPkmn
+Flags = HideFollowingPkmn,GymMap
 #-------------------------------
 [044]   # Gare secrète
 Name = Gare secrète
@@ -483,6 +489,7 @@ Flags = ShowFollowingPkmn
 #-------------------------------
 [057]   # Hardia - centre Pokémon
 Name = Hardia
+Flags = PokeCenter
 #-------------------------------
 [058]   # Hardia - bâtiments
 Name = Hardia
@@ -613,7 +620,7 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
-Flags = ShowFollowingPkmn
+Flags = ShowFollowingPkmn,GymMap
 #-------------------------------
 [070]   # Portail Piste cyclable
 Name = Portail
@@ -662,7 +669,7 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 2,1011
-Flags = ShowFollowingPkmn
+Flags = ShowFollowingPkmn,Beach
 #-------------------------------
 [076]   # Route 14
 Name = Route 14
@@ -702,6 +709,7 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+Flags = GymMap
 #-------------------------------
 [079]   # Autel de la peur - tour centrale
 Name = Autel de la peur
@@ -736,7 +744,7 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 2,101011
-Flags = ShowFollowingPkmn
+Flags = ShowFollowingPkmn,Beach
 #-------------------------------
 [082]   # Route 15
 Name = Route 15
@@ -1011,6 +1019,7 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+Flags = GymMap
 #-------------------------------
 [117]   # Hardia - magasins
 Name = Hardia
@@ -1040,12 +1049,14 @@ Name = Portail
 #-------------------------------
 [124]   # Plassidio - centre Pokémon
 Name = Plassidio
+Flags = PokeCenter
 #-------------------------------
 [125]   # Plassidio - magasin
 Name = Plassidio
 #-------------------------------
 [126]   # Rankor - centre Pokémon
 Name = Rankor
+Flags = PokeCenter
 #-------------------------------
 [127]   # Rankor - magasin
 Name = Rankor
@@ -1055,6 +1066,7 @@ Name = Rankor
 #-------------------------------
 [129]   # Stalno - centre Pokémon
 Name = Stalno
+Flags = PokeCenter
 #-------------------------------
 [130]   # Stalno - magasin
 Name = Stalno
@@ -1151,6 +1163,7 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+Flags = GymMap
 #-------------------------------
 [141]   # Tantrum - arène fond
 Name = Retraite de Tantrum
@@ -1188,6 +1201,7 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 3,111
+Flags = Beach
 #-------------------------------
 [151]   # Route 21
 Name = Route 21
