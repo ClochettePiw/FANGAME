@@ -52,18 +52,18 @@ class Battle
   #-----------------------------------------------------------------------------
   def pbWeatherStartMessage
     case @field.weather
-    when :Sun         then pbDisplay(_INTL("The sunlight is strong."))
-    when :Rain        then pbDisplay(_INTL("It is raining."))
-    when :Sandstorm   then pbDisplay(_INTL("A sandstorm is raging."))
+    when :Sun         then pbDisplay(_INTL("Les rayons du soleil brillent."))
+    when :Rain        then pbDisplay(_INTL("Il pleut."))
+    when :Sandstorm   then pbDisplay(_INTL("La tempête de sable fait rage."))
     when :HarshSun    then pbDisplay(_INTL("The sunlight is extremely harsh."))
-    when :HeavyRain   then pbDisplay(_INTL("It is raining heavily."))
+    when :HeavyRain   then pbDisplay(_INTL("Il pleut à verse."))
     when :StrongWinds then pbDisplay(_INTL("The wind is strong."))
     when :ShadowSky   then pbDisplay(_INTL("The sky is shadowy."))
     when :Hail
       if Settings::HAIL_WEATHER_TYPE == 1
-        pbDisplay(_INTL("Snow is falling."))
+        pbDisplay(_INTL("La neige tombe."))
       else
-        pbDisplay(_INTL("Hail is falling."))
+        pbDisplay(_INTL("La grêle tombe."))
       end
     end
   end
@@ -73,10 +73,10 @@ class Battle
   #-----------------------------------------------------------------------------
   def pbTerrainStartMessage
     case @field.terrain
-    when :Electric then pbDisplay(_INTL("An electric current runs across the battlefield!"))
-    when :Grassy   then pbDisplay(_INTL("Grass is covering the battlefield!"))
-    when :Misty    then pbDisplay(_INTL("Mist swirls about the battlefield!"))
-    when :Psychic  then pbDisplay(_INTL("The battlefield is weird!"))
+    when :Electric then pbDisplay(_INTL("Un courant électrique traverse le terrain !"))
+    when :Grassy   then pbDisplay(_INTL("Une herbe épaisse recouvre le terrain !"))
+    when :Misty    then pbDisplay(_INTL("Une brume opaque recouvre le terrain !"))
+    when :Psychic  then pbDisplay(_INTL("Des ondes étranges traversent le terrain !"))
     end
   end
   
@@ -115,9 +115,9 @@ class Battle
       pbCommonAnimation(weather_data.animation) if showAnim && weather_data
       pbHideAbilitySplash(user) if user
       if Settings::HAIL_WEATHER_TYPE == 2
-        pbDisplay(_INTL("A harsh hailstorm bellows!"))
+        pbDisplay(_INTL("La grêle tombe du ciel !"))
       else
-        pbDisplay(_INTL("It started to snow!"))
+        pbDisplay(_INTL("Il commence à neiger !"))
       end
       allBattlers.each { |b| b.pbCheckFormOnWeatherChange }
       pbEndPrimordialWeather
@@ -135,9 +135,9 @@ class Battle
       @field.weatherDuration -= 1 if @field.weatherDuration > 0
       if @field.weatherDuration == 0
         if Settings::HAIL_WEATHER_TYPE == 2
-          pbDisplay(_INTL("The hailstorm ended."))
+          pbDisplay(_INTL("La grêle s'arrête de tomber."))
         else
-          pbDisplay(_INTL("The snow stopped."))
+          pbDisplay(_INTL("La neige s'arrête de tomber."))
         end
         @field.weather = :None
         allBattlers.each { |battler| battler.pbCheckFormOnWeatherChange }
@@ -146,7 +146,7 @@ class Battle
       end
       weather_data = GameData::BattleWeather.try_get(@field.weather)
       pbCommonAnimation(weather_data.animation) if weather_data && !@weather
-      pbDisplay(_INTL("The hail is crashing down.")) if Settings::HAIL_WEATHER_TYPE == 2
+      pbDisplay(_INTL("La grêle tombe violemment.")) if Settings::HAIL_WEATHER_TYPE == 2
       priority.each do |battler|
         if battler.abilityActive?
           Battle::AbilityEffects.triggerEndOfRoundWeather(battler.ability, battler.effectiveWeather, battler, self)
@@ -362,7 +362,7 @@ class Battle::Battler
       #-------------------------------------------------------------------------
       if pbOwnSide.effects[PBEffects::Safeguard] > 0 && !selfInflicted && move &&
          !(user && user.hasActiveAbility?(:INFILTRATOR))
-        @battle.pbDisplay(_INTL("{1}'s team is protected by Safeguard!", pbThis)) if showMessages
+        @battle.pbDisplay(_INTL("{1} est protégée par Garde Large !", pbThis)) if showMessages
         return false
       end
       return true
@@ -464,16 +464,16 @@ class Battle::Battler
     yield if block_given?
     case self.status
     when :SLEEP
-      @battle.pbDisplay(_INTL("{1} is fast asleep.", pbThis))
+      @battle.pbDisplay(_INTL("{1} dort profondément.", pbThis))
 	  PBDebug.log("[Status continues] #{pbThis}'s sleep count is #{@statusCount}")
     when :POISON
-      @battle.pbDisplay(_INTL("{1} was hurt by poison!", pbThis))
+      @battle.pbDisplay(_INTL("{1} souffre du poison !", pbThis))
     when :BURN
-      @battle.pbDisplay(_INTL("{1} was hurt by its burn!", pbThis))
+      @battle.pbDisplay(_INTL("{1} souffre de sa brûlure !", pbThis))
     when :PARALYSIS
-      @battle.pbDisplay(_INTL("{1} is paralyzed! It can't move!", pbThis))
+      @battle.pbDisplay(_INTL("{1} est paralysé ! Il ne peut pas agir !", pbThis))
     when :FROZEN
-      @battle.pbDisplay(_INTL("{1} is frozen solid!", pbThis))
+      @battle.pbDisplay(_INTL("{1} est gelé !", pbThis))
     when :DROWSY
       @battle.pbDisplay(_INTL("{1} is too drowsy to move!", pbThis))
 	  PBDebug.log("[Status continues] #{pbThis}'s drowsy count is #{@statusCount}")

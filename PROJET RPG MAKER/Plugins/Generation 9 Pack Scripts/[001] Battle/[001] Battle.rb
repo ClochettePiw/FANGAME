@@ -68,7 +68,7 @@ class Battle
   def pbCanSwitch?(idxBattler, idxParty = -1, partyScene = nil)
     ret = paldea_pbCanSwitch?(idxBattler, idxParty, partyScene)
     if ret && @battlers[idxBattler].effects[PBEffects::Commander]
-      partyScene&.pbDisplay(_INTL("{1} can't be switched out!", @battlers[idxBattler].pbThis))
+      partyScene&.pbDisplay(_INTL("{1} ne peut pas être échangé !", @battlers[idxBattler].pbThis))
       return false
     end
     return ret

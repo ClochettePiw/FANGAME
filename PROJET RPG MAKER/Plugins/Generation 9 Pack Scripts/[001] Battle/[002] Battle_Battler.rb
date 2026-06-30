@@ -304,7 +304,7 @@ class Battle::Battler
       if hasActiveItem?(:ABILITYSHIELD) # Trace failed by its own Ability Shield
         if onSwitchIn
           @battle.pbShowAbilitySplash(self)
-          @battle.pbDisplay(_INTL("{1}'s Ability is protected by the effects of its Ability Shield!", pbThis))
+          @battle.pbDisplay(_INTL("Le talent de {1} est protégé grâce à son Garde-Talent !", pbThis))
           @battle.pbHideAbilitySplash(self)
         end
       else
@@ -315,7 +315,7 @@ class Battle::Battler
           choice = choices[@battle.pbRandom(choices.length)]
           @battle.pbShowAbilitySplash(self)
           self.ability = choice.ability
-          @battle.pbDisplay(_INTL("{1} traced {2}'s {3}!", pbThis, choice.pbThis(true), choice.abilityName))
+          @battle.pbDisplay(_INTL("{1} détecte {2} de {3} !", pbThis, choice.abilityName, choice.pbThis(true)))
           @battle.pbHideAbilitySplash(self)
           if !onSwitchIn && (unstoppableAbility? || abilityActive?)
             Battle::AbilityEffects.triggerOnSwitchIn(self.ability, self, @battle)
@@ -386,10 +386,10 @@ class Battle::Battler
       pairedBattler = @battle.battlers[@effects[PBEffects::Commander][0]]
       if pairedBattler&.effects[PBEffects::Commander]
         if isCommander?
-          commanderMsg = _INTL("{1} comes out of {2}'s mouth!", pbThis, pairedBattler.pbThis(true))
+          commanderMsg = _INTL("{1} sort de la bouche de {2} !", pbThis, pairedBattler.pbThis(true))
           commanderIdx = @index
         else
-          commanderMsg = _INTL("{1} comes out of {2}'s mouth!", pairedBattler.pbThis, pbThis(true))
+          commanderMsg = _INTL("{1} sort de la bouche de {2} !", pairedBattler.pbThis, pbThis(true))
           commanderIdx = pairedBattler.index
           pairedBattler.effects[PBEffects::Commander] = nil
         end
@@ -471,11 +471,11 @@ class Battle::Battler
     if move.damagingMove?
       if move.electrocuteUser? && user.status == :DROWSY
         user.pbCureStatus(false)
-        @battle.pbDisplay(_INTL("{1} was shocked wide awake!", user.pbThis))
+        @battle.pbDisplay(_INTL("{1} n'est plus fatigué !", user.pbThis))
       end
       if user.status == :FROSTBITE && move.thawsUser?
         user.pbCureStatus(false)
-        @battle.pbDisplay(_INTL("{1} warmed up!", user.pbThis))
+        @battle.pbDisplay(_INTL("{1} est dégelé !", user.pbThis))
       end
       targets.each do |b|
         next if b.damageState.unaffected || b.damageState.substitute
@@ -521,7 +521,7 @@ class Battle::Battler
     if !@effects[PBEffects::Instructed] && @lastMoveUsed == move.id &&
 	    @effects[PBEffects::SuccessiveMove] == move.id
       if showMessages
-        msg = _INTL("{1} can't be used twice in a row!", move.name)
+        msg = _INTL("{1} ne peut pas être utilisé deux fois d'affilée !", move.name)
         (commandPhase) ? @battle.pbDisplayPaused(msg) : @battle.pbDisplay(msg)
       end
       return false
@@ -543,7 +543,7 @@ class Battle::Battler
         if target.effects[PBEffects::SilkTrap] && move.damagingMove?
           if move.pbShowFailMessages?(targets)
             @battle.pbCommonAnimation("SilkTrap", target)
-            @battle.pbDisplay(_INTL("{1} protected itself!", target.pbThis))
+            @battle.pbDisplay(_INTL("{1} se protège !", target.pbThis))
           end
           target.damageState.protected = true
           @battle.successStates[user.index].protected = true
