@@ -410,7 +410,8 @@ EventHandlers.add(:following_pkmn_talk, :sunny_weather, proc { |pkmn, _random_va
         _INTL("{1} semble avoir très chaud..."),
         _INTL("{1} a protégé sa vue de la lumière étincelante !")
       ]
-    end    pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
+    end    
+    pbMessage(_INTL(messages.sample, pkmn.name, $player.name))
     next true
   end
 })
