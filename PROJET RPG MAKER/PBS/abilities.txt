@@ -38,11 +38,11 @@ Description = Peut paralyser l'attaquant en cas de contact.
 #-------------------------------
 [VOLTABSORB]
 Name = Absorb Volt
-Description = Restaure des PV si touché par une capacité Électrik.
+Description = Restaure des PVs si touché par une capacité Électrik.
 #-------------------------------
 [WATERABSORB]
 Name = Absorb Eau
-Description = Restaure des PV si touché par une capacité Eau.
+Description = Restaure des PVs si touché par une capacité Eau.
 #-------------------------------
 [OBLIVIOUS]
 Name = Benêt
@@ -175,7 +175,7 @@ Description = Immunise contre les capacités sonores.
 #-------------------------------
 [RAINDISH]
 Name = Cuvette
-Description = Restaure progressivement des PV sous la pluie.
+Description = Restaure progressivement des PVs sous la pluie.
 #-------------------------------
 [SANDSTREAM]
 Name = Sable Volant
@@ -348,7 +348,7 @@ Description = Double les variations de statistiques.
 #-------------------------------
 [DRYSKIN]
 Name = Peau Sèche
-Description = Perd des PV au soleil, en récupère avec les capacités Eau.
+Description = Perd des PVs au soleil, en récupère avec les capacités Eau.
 #-------------------------------
 [DOWNLOAD]
 Name = Télécharge
@@ -360,7 +360,7 @@ Description = Augmente la puissance des capacités de poing.
 #-------------------------------
 [POISONHEAL]
 Name = Soin Poison
-Description = Récupère des PV lorsqu'il est empoisonné.
+Description = Récupère des PVs lorsqu'il est empoisonné.
 #-------------------------------
 [ADAPTABILITY]
 Name = Adaptabilité
@@ -376,7 +376,7 @@ Description = Soigne les altérations de statut sous la pluie.
 #-------------------------------
 [SOLARPOWER]
 Name = Force Soleil
-Description = Augmente l'Attaque Spéciale au soleil mais fait perdre des PV.
+Description = Augmente l'Attaque Spéciale au soleil mais fait perdre des PVs.
 #-------------------------------
 [QUICKFEET]
 Name = Pied Véloce
@@ -460,7 +460,7 @@ Description = Attire les capacités Eau et augmente l'Attaque Spéciale.
 #-------------------------------
 [ICEBODY]
 Name = Corps Gel
-Description = Restaure progressivement des PV sous la grêle.
+Description = Restaure progressivement des PVs sous la grêle.
 #-------------------------------
 [SOLIDROCK]
 Name = Solide Roc
@@ -492,7 +492,7 @@ Description = Renforce les alliés sous un soleil intense.
 #-------------------------------
 [BADDREAMS]
 Name = Mauvais Rêve
-Description = Fait perdre des PV aux Pokémon endormis.
+Description = Fait perdre des PVs aux Pokémon endormis.
 #-------------------------------
 [PICKPOCKET]
 Name = Pickpocket
@@ -516,7 +516,7 @@ Description = Augmente fortement l'Attaque si une statistique baisse.
 #-------------------------------
 [DEFEATIST]
 Name = Défaitiste
-Description = Réduit l'Attaque et l'Attaque Spéciale à mi-PV.
+Description = Réduit l'Attaque et l'Attaque Spéciale à mi-PVs.
 #-------------------------------
 [CURSEDBODY]
 Name = Corps Maudit
@@ -544,7 +544,7 @@ Description = Divise le poids du Pokémon par deux.
 #-------------------------------
 [MULTISCALE]
 Name = Multiécaille
-Description = Réduit les dégâts lorsque les PV sont au maximum.
+Description = Réduit les dégâts lorsque les PVs sont au maximum.
 #-------------------------------
 [TOXICBOOST]
 Name = Rage Poison
@@ -576,7 +576,7 @@ Description = Peut empoisonner la cible lors d'un contact.
 #-------------------------------
 [REGENERATOR]
 Name = Régé-Force
-Description = Restaure des PV en quittant le combat.
+Description = Restaure des PVs en quittant le combat.
 #-------------------------------
 [BIGPECKS]
 Name = Cœur de Coq
@@ -644,7 +644,7 @@ Description = Blesse l'attaquant en cas de contact.
 #-------------------------------
 [ZENMODE]
 Name = Mode Transe
-Description = Change de forme lorsque les PV tombent à la moitié.
+Description = Change de forme lorsque les PVs tombent à la moitié.
 #-------------------------------
 [VICTORYSTAR]
 Name = Victorieux
@@ -668,7 +668,7 @@ Description = Protège les alliés de type Plante des baisses de stats et des al
 #-------------------------------
 [CHEEKPOUCH]
 Name = Bajoues
-Description = Restaure des PV en plus de l'effet de la Baie consommée.
+Description = Restaure des PVs en plus de l'effet de la Baie consommée.
 #-------------------------------
 [PROTEAN]
 Name = Protéen
@@ -708,7 +708,7 @@ Description = Alterne entre les Formes Bouclier et Assaut selon la capacité uti
 #-------------------------------
 [GALEWINGS]
 Name = Ailes Bourrasque
-Description = Donne la priorité aux capacités Vol lorsque les PV sont au maximum.
+Description = Donne la priorité aux capacités Vol lorsque les PVs sont au maximum.
 #-------------------------------
 [MEGALAUNCHER]
 Name = Méga Blaster
@@ -772,11 +772,11 @@ Description = Augmente la Défense du Pokémon lorsqu'il subit une attaque.
 #-------------------------------
 [WIMPOUT]
 Name = Escampette
-Description = Prend la fuite lorsque les PV tombent à la moitié.
+Description = Prend la fuite lorsque les PVs tombent à la moitié.
 #-------------------------------
 [EMERGENCYEXIT]
 Name = Repli Tactique
-Description = Change de Pokémon lorsque les PV tombent à la moitié.
+Description = Change de Pokémon lorsque les PVs tombent à la moitié.
 #-------------------------------
 [WATERCOMPACTION]
 Name = Tassement
@@ -788,7 +788,7 @@ Description = Les attaques deviennent des coups critiques contre les cibles empo
 #-------------------------------
 [SHIELDSDOWN]
 Name = Bouclier-Carcan
-Description = Change de forme lorsque les PV tombent à la moitié.
+Description = Change de forme lorsque les PVs tombent à la moitié.
 #-------------------------------
 [STAKEOUT]
 Name = Filature
@@ -804,7 +804,7 @@ Description = Augmente la puissance des capacités Acier.
 #-------------------------------
 [BERSERK]
 Name = Dracolère
-Description = Augmente l'Attaque Spéciale lorsque les PV tombent à la moitié.
+Description = Augmente l'Attaque Spéciale lorsque les PVs tombent à la moitié.
 #-------------------------------
 [SLUSHRUSH]
 Name = Chasse-Neige
@@ -832,7 +832,7 @@ Description = Double la Vitesse sur un Champ Électrifié.
 #-------------------------------
 [SCHOOLING]
 Name = Banc
-Description = Prend sa forme Banc tant qu'il possède suffisamment de PV.
+Description = Prend sa forme Banc tant qu'il possède suffisamment de PVs.
 #-------------------------------
 [DISGUISE]
 Name = Fantômasque
@@ -844,7 +844,7 @@ Description = Devient Sachanobi après avoir mis un ennemi K.O.
 #-------------------------------
 [POWERCONSTRUCT]
 Name = Rassemblement
-Description = Prend sa Forme Parfaite lorsque ses PV tombent à la moitié.
+Description = Prend sa Forme Parfaite lorsque ses PVs tombent à la moitié.
 #-------------------------------
 [CORROSION]
 Name = Corrosion
@@ -860,7 +860,7 @@ Description = Empêche les adversaires d'utiliser des capacités prioritaires.
 #-------------------------------
 [INNARDSOUT]
 Name = Expuls'Organes
-Description = Inflige à l'attaquant des dégâts égaux aux PV restants du Pokémon mis K.O.
+Description = Inflige à l'attaquant des dégâts égaux aux PVs restants du Pokémon mis K.O.
 #-------------------------------
 [DANCER]
 Name = Danseuse
@@ -924,7 +924,7 @@ Description = Empêche les ennemis de baisser les statistiques.
 #-------------------------------
 [SHADOWSHIELD]
 Name = Spectro-Bouclier
-Description = Réduit les dégâts lorsque les PV sont au maximum.
+Description = Réduit les dégâts lorsque les PVs sont au maximum.
 #-------------------------------
 [PRISMARMOR]
 Name = Prism-Armure
