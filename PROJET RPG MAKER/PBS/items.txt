@@ -2080,15 +2080,15 @@ BPPrice = 5
 Flags = Fling_30
 Description = Objet à tenir. Une pierre merveilleuse empêchant l'évolution.
 #-------------------------------
-[LINKSTONE]
-Name = Pierre Lien
-NamePlural = Pierres Lien
+[LINKINGCORD]
+Name = Fil de Liaison
+NamePlural = Fils de Liaison
 Pocket = 1
 Price = 3000
 BPPrice = 5
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_30
-Description = Une pierre merveilleuse permettant à certains Pokémons d'évoluer. Elle est imprégnée du pouvoir du partage.
+Description = Un fil qui semble abriter une énergie capable de nouer des liens entre les êtres. Il est apprécié de certains Pokémon.
 #-------------------------------
 [PROTECTOR]
 Name = Protecteur

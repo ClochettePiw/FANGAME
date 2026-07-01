@@ -693,7 +693,7 @@ Pokedex = Because its energy was too great to be contained, the energy leaked an
 Generation = 5
 WildItemCommon = EVERSTONE
 WildItemUncommon = HARDSTONE
-Evolutions = GIGALITH,Item,LINKSTONE
+Evolutions = GIGALITH,Item,LINKINGCORD
 #-------------------------------
 [GIGALITH]
 Name = Gigalithe
@@ -5167,7 +5167,7 @@ Shape = HeadArms
 Category = Stump
 Pokedex = These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.
 Generation = 6
-Evolutions = TREVENANT,Item,LINKSTONE
+Evolutions = TREVENANT,Item,LINKINGCORD
 #-------------------------------
 [TREVENANT]
 Name = Desséliande
