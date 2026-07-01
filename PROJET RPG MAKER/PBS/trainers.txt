@@ -775,6 +775,7 @@ Pokemon = HONEDGE,27
 [REGALIAF,Régalia,9]
 LoseText = A votre place, je retournerai d'où je suis venue.
 Pokemon = SILICOBRA,28
+    AbilityIndex = 1
 #-------------------------------
 [REGALIAM,Régalia,10]
 LoseText = Vous arrivez trop tard, une fois de plus.
@@ -799,7 +800,7 @@ Pokemon = SNORUNT,27
 [REGALIAM,Régalia,14]
 LoseText = C'est déjà fini ?
 Pokemon = SANDILE,27
-Pokemon = PAWNIARD,26
+Pokemon = LARVITAR,26
 #-------------------------------
 [REGALIAF,Régalia,15]
 LoseText = Je n'en reviens pas !
@@ -813,7 +814,7 @@ Pokemon = KROKOROK,29
 #-------------------------------
 [REGALIAF,Régalia,17]
 LoseText = J'ai failli à mon devoir...
-Pokemon = INKAY,26
+Pokemon = MURKROW,26
 Pokemon = PRIMEAPE,27
 #-------------------------------
 [REGALIAM,Régalia,18]
@@ -836,7 +837,7 @@ Pokemon = INKAY,27
 LoseText = Quoi ?!
 Pokemon = INKAY,24
 Pokemon = SCRAGGY,25
-Pokemon = HONEDGE,25
+Pokemon = HONEDGE,26
 #-------------------------------
 [REGALIAPRINCE,Alistair,1]
 Items = HYPERPOTION
