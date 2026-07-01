@@ -633,6 +633,7 @@ Pokemon = ARON,22
 [ACETRAINERWM,Sullivan]
 LoseText = Tu as sûrement tes chances dans l'arène.
 Pokemon = GLIGAR,24
+    Moves = FURYCUTTER,KNOCKOFF,POISONTAIL,FIREFANG
 Pokemon = SERVINE,24
 #-------------------------------
 [MINERO,Patrice]
@@ -1151,6 +1152,7 @@ Pokemon = SALANDIT,30
 [REGALIAM,Régalia,24]
 LoseText = Quel échec...
 Pokemon = PAWNIARD,28
+    AbilityIndex = 1
 Pokemon = LOKIX,30
 #-------------------------------
 [REGALIAM,Régalia,25]
@@ -1161,6 +1163,7 @@ Pokemon = PRIMEAPE,29
 [REGALIAM,Régalia,26]
 LoseText = Vous savez précisément où vous allez, hein ?
 Pokemon = INKAY,27
+    AbilityIndex = 1
 Pokemon = SKRELP,27
 Pokemon = GOLETT,29
 #-------------------------------
@@ -1182,7 +1185,9 @@ Pokemon = KROKOROK,29
 LoseText = En tout cas, vous m'avez fait ma fête...
 Pokemon = HONEDGE,29
 Pokemon = PAWNIARD,30
+    AbilityIndex = 0
 Pokemon = PAWNIARD,30
+    AbilityIndex = 0
 #-------------------------------
 [REGALIAF,Régalia,31]
 LoseText = Mais… Vous n'êtes pas sur la liste des invités !
@@ -1193,6 +1198,7 @@ Pokemon = LOKIX,30
 LoseText = En tout cas, vous ne manquez pas de classe quand il s'agit de combattre...
 Pokemon = SALANDIT,28
 Pokemon = INKAY,28
+    AbilityIndex = 0
 Pokemon = YAMASK,31
 #-------------------------------
 [REGALIAM,Régalia,33]
@@ -1390,6 +1396,7 @@ Pokemon = HEATMOR,28
 [SKYTRAINERF,Ava]
 LoseText = Je me suis pris un coup de vent...
 Pokemon = GLIGAR,30
+    Moves = THUNDERFANG,ICEFANG,SLASH,FURYCUTTER
 #-------------------------------
 [BREEDERM,Ange]
 LoseText = Il faut bien que jeunesse se fasse...
@@ -1406,8 +1413,11 @@ Pokemon = BARRASKEWDA,28
 [SKYTRAINERM,Mason]
 LoseText = Allez, prenons un peu de recul… Et de hauteur…
 Pokemon = GLIGAR,27
+    Moves = SLASH,THUNDERFANG,QUICKATTACK
 Pokemon = GLIGAR,27
+    Moves = SLASH,ICEFANG,QUICKATTACK
 Pokemon = GLISCOR,27
+    Moves = SLASH,SCARYFACE,ROCKTOMB,METALCLAW
 #-------------------------------
 [BACKPACKERF,Shanon]
 LoseText = C'est… à cause des briques, sigh…
