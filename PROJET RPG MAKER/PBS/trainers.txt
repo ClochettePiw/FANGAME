@@ -1192,6 +1192,7 @@ Pokemon = PAWNIARD,30
 [REGALIAF,Régalia,31]
 LoseText = Mais… Vous n'êtes pas sur la liste des invités !
 Pokemon = SILICOBRA,30
+    AbilityIndex = 1
 Pokemon = LOKIX,30
 #-------------------------------
 [REGALIAF,Régalia,32]
