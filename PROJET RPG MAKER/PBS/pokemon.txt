@@ -1129,8 +1129,8 @@ Weight = 2.0
 Color = Blue
 Shape = HeadLegs
 Habitat = WatersEdge
-Category = Polka Dot
-Pokedex = Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.
+Category = Point Polka
+Pokedex = Sa queue est une véritable balle rebondissante. Il s'en sert comme d'une massue lorsqu'il affronte des adversaires de taille imposante.
 Generation = 3
 Evolutions = MARILL,Happiness,
 #-------------------------------
@@ -1156,8 +1156,8 @@ Weight = 8.5
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Aqua Mouse
-Pokedex = Its body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water's resistance.
+Category = Aquasouris
+Pokedex = Sa fourrure est hydrophobe, si bien qu'elle sèche en un instant. Il n'a donc jamais froid, même lorsqu'il sort d'une mer glaciale.
 Generation = 2
 Evolutions = AZUMARILL,Level,18
 #-------------------------------
@@ -1182,8 +1182,8 @@ Weight = 28.5
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Aqua Rabbit
-Pokedex = It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.
+Category = Aqualapin
+Pokedex = Il peuple les rivières et les lacs. Sous l'eau, ses motifs et ses couleurs trompent les yeux de l'ennemi.
 Generation = 2
 #-------------------------------
 [SNORUNT]
@@ -1208,8 +1208,8 @@ Weight = 16.8
 Color = Gray
 Shape = Bipedal
 Habitat = Cave
-Category = Snow Hat
-Pokedex = They tend to move about in groups of around five Snorunt. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.
+Category = Capuche
+Pokedex = D'après une légende des régions enneigées, il apporte la prospérité aux habitants des demeures dans lesquelles il s'installe.
 Generation = 3
 WildItemUncommon = BABIRIBERRY
 Evolutions = GLALIE,Level,42,FROSLASS,ItemFemale,DAWNSTONE
@@ -1236,7 +1236,7 @@ Color = Gray
 Shape = Head
 Habitat = Cave
 Category = Face
-Pokedex = A Glalie has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.
+Pokedex = Il a le pouvoir de geler l'humidité ambiante en un instant et peut ainsi immobiliser ses proies.
 Generation = 3
 WildItemUncommon = BABIRIBERRY
 #-------------------------------
@@ -1260,8 +1260,8 @@ Height = 1.3
 Weight = 26.6
 Color = White
 Shape = HeadArms
-Category = Snow Land
-Pokedex = It freezes foes with an icy breath nearly -60 degrees F. What seems to be its body is actually hollow.
+Category = Enneigement
+Pokedex = Il congèle les êtres humains et les Pokémon qui lui plaisent. Il les emmène ensuite dans sa tanière pour les admirer à loisir.
 Generation = 4
 WildItemUncommon = BABIRIBERRY
 #-------------------------------
@@ -1286,8 +1286,8 @@ Height = 0.3
 Weight = 14.5
 Color = Red
 Shape = Insectoid
-Category = Rock Inn
-Pokedex = It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.
+Category = Lithicole
+Pokedex = Quand il trouve un caillou qui lui plaît, il y creuse un trou et s'en sert comme d'une maison. C'est l'ennemi juré des Nodulithe et des Charbi.
 Generation = 5
 WildItemUncommon = HARDSTONE
 Evolutions = CRUSTLE,Level,34
@@ -1312,8 +1312,8 @@ Height = 1.4
 Weight = 200.0
 Color = Red
 Shape = Insectoid
-Category = Stone Home
-Pokedex = It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.
+Category = Lapidicole
+Pokedex = Entre eux, les querelles de territoire sont fréquentes et violentes. Celui qui se fait briser son rocher a perdu.
 Generation = 5
 WildItemUncommon = HARDSTONE
 #-------------------------------
@@ -1339,8 +1339,8 @@ Weight = 71.2
 Color = Brown
 Shape = Quadruped
 Habitat = Forest
-Category = Big Horn
-Pokedex = Stantler's magnificent antlers were once traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction.
+Category = Maxi Corne
+Pokedex = Ses bois ont le pouvoir de troubler ceux qui les contemplent. Les boules noires peuvent être réduites en poudre pour traiter les insomnies.
 Generation = 2
 Evolutions = WYRDEER,HasMove,PSYSHIELDBASH
 #-------------------------------
@@ -1365,8 +1365,8 @@ Weight = 95.1
 Color = Gray
 Shape = Quadruped
 Habitat = Grassland
-Category = Big Horn
-Pokedex = The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing
+Category = Maxi Corne
+Pokedex = Ses boules noires émettent une inquiétante lueur lorsqu'il érige des barrières invisibles.
 Generation = 8
 #-------------------------------
 [MAGIKARP]
@@ -1390,8 +1390,8 @@ Weight = 10.0
 Color = Red
 Shape = Finned
 Habitat = WatersEdge
-Category = Fish
-Pokedex = Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.
+Category = Poisson
+Pokedex = Ce Pokémon est si faible que, dans les eaux à forts courants, il se contente de se laisser porter lamentablement.
 Generation = 1
 Evolutions = GYARADOS,Level,20
 #-------------------------------
@@ -1416,8 +1416,8 @@ Weight = 235.0
 Color = Blue
 Shape = Serpentine
 Habitat = WatersEdge
-Category = Atrocious
-Pokedex = It is an extremely vicious and violent Pokémon. When humans begin to fight, it will appear and burn everything to the ground with intensely hot flames.
+Category = Terrifiant
+Pokedex = Quand il se laisse emporter par la rage, même la plus violente des tempêtes ne peut l'empêcher de détruire tout ce qui l'entoure.
 Generation = 1
 #-------------------------------
 [GLIGAR]
@@ -1442,8 +1442,8 @@ Weight = 64.8
 Color = Purple
 Shape = Winged
 Habitat = Mountain
-Category = FlyScorpion
-Pokedex = It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.
+Category = Scorpivol
+Pokedex = Il construit son nid sur des falaises escarpées. Quand il a fini de planer, il y retourne en sautillant.
 Generation = 2
 Evolutions = GLISCOR,NightHoldItem,RAZORFANG
 #-------------------------------
@@ -1467,8 +1467,8 @@ Height = 2.0
 Weight = 42.5
 Color = Purple
 Shape = Winged
-Category = Fang Scorp
-Pokedex = It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!
+Category = Scorpicroc
+Pokedex = Il vole sans un bruit, et capture ses proies avec sa queue pour leur infliger une morsure critique.
 Generation = 4
 #-------------------------------
 [VULPIX]
@@ -1493,8 +1493,8 @@ Weight = 9.9
 Color = Brown
 Shape = Quadruped
 Habitat = Grassland
-Category = Fox
-Pokedex = It can freely control fire, making fiery orbs fly like will-o'-the-wisps. Just before evolution, its six tails grow hot as if on fire.
+Category = Renard
+Pokedex = Quand il est jeune, ce Pokémon a six queues magnifiques. De nouvelles queues apparaissent tout au long de sa croissance.
 Generation = 1
 WildItemCommon = RAWSTBERRY
 WildItemUncommon = RAWSTBERRY
@@ -1522,8 +1522,8 @@ Weight = 19.9
 Color = Yellow
 Shape = Quadruped
 Habitat = Grassland
-Category = Fox
-Pokedex = It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.
+Category = Renard
+Pokedex = Son superbe pelage brille d'une lueur dorée. Ses neufs longues queues renfermeraient un pouvoir sacral lui octroyant une vie de mille ans.
 Generation = 1
 WildItemCommon = RAWSTBERRY
 WildItemUncommon = RAWSTBERRY
@@ -1551,8 +1551,8 @@ Weight = 28.0
 Color = Brown
 Shape = BipedalTail
 Habitat = Mountain
-Category = Pig Monkey
-Pokedex = When it starts shaking and its nasal breathing turns rough, it's a sure sign of anger. However, since this happens instantly, there is no time to flee.
+Category = Porsinge
+Pokedex = Ces Pokémon sont toujours en colère. Quand ils repèrent une proie adéquate, ils forment un groupe pour l'attaquer.
 Generation = 1
 WildItemUncommon = PAYAPABERRY
 Evolutions = PRIMEAPE,Level,28
@@ -1578,8 +1578,8 @@ Weight = 32.0
 Color = Brown
 Shape = BipedalTail
 Habitat = Mountain
-Category = Pig Monkey
-Pokedex = When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.
+Category = Porsinge
+Pokedex = Il devient fou furieux s'il se sent observé et pourchasse tout être qui croise son regard.
 Generation = 1
 WildItemUncommon = PAYAPABERRY
 Evolutions = ANNIHILAPE,Level,43
@@ -1605,8 +1605,8 @@ Weight = 56.0
 Color = Gray
 Shape = BipedalTail
 Habitat = Mountain
-Category = Rage Monkey
-Pokedex = When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.
+Category = Singe Furax
+Pokedex = Quand sa colère a franchi un seuil critique, il a acquis une puissance qui l'a émancipé des limites de son corps.
 Generation = 9
 #-------------------------------
 [DRIFLOON]
@@ -1630,8 +1630,8 @@ Height = 0.4
 Weight = 1.2
 Color = Purple
 Shape = HeadArms
-Category = Balloon
-Pokedex = A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.
+Category = Bouboule
+Pokedex = Pour se faire des amis, il s'approche des enfants, mais ces derniers le malmènent souvent, ce qui le pousse à s'enfuir.
 Generation = 4
 Evolutions = DRIFBLIM,Level,28
 #-------------------------------
@@ -1655,8 +1655,8 @@ Height = 1.2
 Weight = 15.0
 Color = Purple
 Shape = HeadArms
-Category = Blimp
-Pokedex = It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.
+Category = Ballon
+Pokedex = Il aime servir de moyen de transport. Le seul inconvénient est qu'il ne va que dans la direction du vent.
 Generation = 4
 WildItemRare = AIRBALLOON
 #-------------------------------
@@ -1683,7 +1683,7 @@ Color = Gray
 Shape = Finned
 Habitat = Sea
 Category = Jet
-Pokedex = A Remoraid uses its abdominal muscles to forcefully expel swallowed water, then shoot down flying prey. When evolution approaches, it travels down rivers.
+Pokedex = Son puissant jet d'eau ne manque jamais sa cible, même à 100 m de distance.
 Generation = 2
 Evolutions = OCTILLERY,Level,25
 #-------------------------------
@@ -1709,7 +1709,7 @@ Color = Red
 Shape = Multiped
 Habitat = Sea
 Category = Jet
-Pokedex = It ensnares its foe with its suction- cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.
+Pokedex = Il aveugle l'ennemi en crachant un nuage d'encre opaque et creuse sa tanière à l'ombre des rochers.
 Generation = 2
 #-------------------------------
 [WINGULL]
@@ -1734,8 +1734,8 @@ Weight = 9.5
 Color = White
 Shape = Winged
 Habitat = Sea
-Category = Seagull
-Pokedex = It makes its nest on a sheer cliff at the edge of the sea. It has trouble keeping its wings flapping in flight. Instead, it soars on updrafts.
+Category = Mouette
+Pokedex = Il utilise les vents marins comme un planeur. En hiver, il cache de la nourriture autour de son nid.
 Generation = 3
 Evolutions = PELIPPER,Level,25
 #-------------------------------
@@ -1760,8 +1760,8 @@ Weight = 28.0
 Color = Yellow
 Shape = Winged
 Habitat = Sea
-Category = Water Bird
-Pokedex = It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.
+Category = Oiseaudo
+Pokedex = Il protège ses petits en les abritant dans son bec. Quand la mer est calme, il se repose sur l'eau.
 Generation = 3
 #-------------------------------
 [HONEDGE]
@@ -1784,8 +1784,8 @@ Height = 0.8
 Weight = 2.0
 Color = Brown
 Shape = HeadBase
-Category = Sword
-Pokedex = Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.
+Category = Glaive
+Pokedex = L'œil bleu sur la garde de la lame est le véritable corps de Monorpale. Il aspire l'énergie vitale des gens avec son étoffe usée par le temps.
 Generation = 6
 Evolutions = DOUBLADE,Level,35
 #-------------------------------
@@ -1808,8 +1808,8 @@ Height = 0.8
 Weight = 4.5
 Color = Brown
 Shape = MultiBody
-Category = Sword
-Pokedex = The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.
+Category = Glaive
+Pokedex = Il s'est dédoublé en évoluant. Il intimide ses ennemis à grands coups de bruits métalliques en entrechoquant ses deux lames.
 Generation = 6
 Evolutions = AEGISLASH,Item,DUSKSTONE
 #-------------------------------
@@ -1833,8 +1833,8 @@ Height = 1.7
 Weight = 53.0
 Color = Brown
 Shape = HeadBase
-Category = Royal Sword
-Pokedex = Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.
+Category = Noble Lame
+Pokedex = Il peut déceler les qualités fédératrices de son dresseur. Au combat, il change de forme pour asséner ou parer les coups.
 Generation = 6
 #-------------------------------
 [VANILLITE]
