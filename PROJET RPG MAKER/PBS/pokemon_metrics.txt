@@ -560,7 +560,7 @@ ShadowSize = 1
 #-------------------------------
 [MALAMAR]
 BackSprite = 0,30
-FrontSprite = -5,8
+FrontSprite = -6,7
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
