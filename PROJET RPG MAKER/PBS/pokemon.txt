@@ -3211,8 +3211,8 @@ Weight = 115.0
 Color = Gray
 Shape = Quadruped
 Habitat = RoughTerrain
-Category = Spikes
-Pokedex = Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.
+Category = Piquant
+Pokedex = Il ne peut se souvenir que d'une chose à la fois. S'il se met à courir, il en oublie tout de suite la raison.
 Generation = 1
 Evolutions = RHYDON,Level,42
 #-------------------------------
@@ -3237,8 +3237,8 @@ Weight = 120.0
 Color = Gray
 Shape = BipedalTail
 Habitat = RoughTerrain
-Category = Drill
-Pokedex = Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.
+Category = Perceur
+Pokedex = Il frappe sa corne contre celle de ses congénères afin de la renforcer. Celle-ci est assez robuste pour briser un diamant à l'état brut.
 Generation = 1
 Evolutions = RHYPERIOR,TradeItem,PROTECTOR
 #-------------------------------
@@ -3262,8 +3262,8 @@ Height = 2.4
 Weight = 282.8
 Color = Gray
 Shape = BipedalTail
-Category = Drill
-Pokedex = It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.
+Category = Perceur
+Pokedex = Il se protège des éruptions volcaniques à l'aide de ses plaques solides et tire des rochers ronds à travers les trous de ses mains.
 Generation = 4
 #-------------------------------
 [CHINCHOU]
@@ -3288,8 +3288,8 @@ Weight = 12.0
 Color = Blue
 Shape = Finned
 Habitat = Sea
-Category = Angler
-Pokedex = When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.
+Category = Poisson
+Pokedex = Ce Pokémon vit dans les profondeurs marines que le soleil n’atteint pas. Il communique avec ses congénères à l’aide de ses antennes lumineuses.
 Generation = 2
 Evolutions = LANTURN,Level,27
 #-------------------------------
@@ -3314,8 +3314,8 @@ Weight = 22.5
 Color = Blue
 Shape = Finned
 Habitat = Sea
-Category = Light
-Pokedex = The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This Pokémon illuminates the inky darkness of deep seas.
+Category = Lumière
+Pokedex = Les organes lumineux de ce Pokémon résultent de la mutation d’une partie de sa nageoire dorsale. Il s’en sert pour attirer ses proies.
 Generation = 2
 #-------------------------------
 [DRILBUR]
@@ -3339,8 +3339,8 @@ Height = 0.3
 Weight = 8.5
 Color = Gray
 Shape = BipedalTail
-Category = Mole
-Pokedex = It makes its way swiftly through the soil by putting both claws together and rotating at high speed.
+Category = Taupe
+Pokedex = Il se propulse à grande vitesse sous la terre en joignant ses griffes et en tourbillonnant sur lui-même.
 Generation = 5
 Evolutions = EXCADRILL,Level,31
 #-------------------------------
@@ -3364,8 +3364,8 @@ Height = 0.7
 Weight = 40.4
 Color = Gray
 Shape = Bipedal
-Category = Subterrene
-Pokedex = More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.
+Category = Souterrain
+Pokedex = Ses vrilles en acier peuvent transpercer des poutres en fer. Il est très employé dans la construction de tunnels.
 Generation = 5
 #-------------------------------
 [ROLYCOLY]
@@ -3389,8 +3389,8 @@ Height = 0.3
 Weight = 12.0
 Color = Black
 Shape = Head
-Category = Coal
-Pokedex = Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.
+Category = Charbon
+Pokedex = Il parcourt sans difficulté les sentiers rocheux accidentés à la manière d’un monocycle. Il a besoin de brûler du charbon pour vivre.
 Generation = 8
 Evolutions = CARKOL,Level,18
 #-------------------------------
@@ -3414,8 +3414,8 @@ Height = 1.1
 Weight = 78.0
 Color = Black
 Shape = HeadLegs
-Category = Coal
-Pokedex = By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,000 degrees Celsius.
+Category = Charbon
+Pokedex = Lorsqu’il est en proie à d’intenses émotions, sa température augmente et il se met à courir frénétiquement en crachant des flammes.
 Generation = 8
 Evolutions = COALOSSAL,Level,34
 #-------------------------------
@@ -3439,8 +3439,8 @@ Height = 2.8
 Weight = 310.5
 Color = Black
 Shape = Bipedal
-Category = Coal
-Pokedex = While it's engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.
+Category = Charbon
+Pokedex = Il balance vigoureusement son corps, ce qui lui permet de disséminer le charbon brûlant de son dos et d’intimider ses adversaires.
 Generation = 8
 #-------------------------------
 [ARON]
@@ -3465,8 +3465,8 @@ Weight = 60.0
 Color = Gray
 Shape = Quadruped
 Habitat = Mountain
-Category = Iron Armor
-Pokedex = A Pokémon that is clad in steel armor. A new suit of armor is made when it evolves. The old, discarded armor is salvaged as metal for making iron products.
+Category = Armurfer
+Pokedex = Il vit habituellement au cœur des montagnes. Affamé, il dévore parfois des rails et des voitures.
 Generation = 3
 WildItemUncommon = HARDSTONE
 Evolutions = LAIRON,Level,32
@@ -3492,8 +3492,8 @@ Weight = 120.0
 Color = Gray
 Shape = Quadruped
 Habitat = Mountain
-Category = Iron Armor
-Pokedex = When two Lairon meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.
+Category = Armurfer
+Pokedex = Il raffole du minerai de fer. Il défend son territoire en chargeant avec son corps d'acier.
 Generation = 3
 WildItemUncommon = HARDSTONE
 Evolutions = AGGRON,Level,42
@@ -3519,8 +3519,8 @@ Weight = 360.0
 Color = Gray
 Shape = BipedalTail
 Habitat = Mountain
-Category = Iron Armor
-Pokedex = Its iron horns grow longer a little at a time. They are used to determine the Aggron's age. The gouges in its armor are worn with pride as mementos from battles.
+Category = Armurfer
+Pokedex = La longueur de ses cornes d'acier indique son âge. Son territoire équivaut à une montagne entière.
 Generation = 3
 WildItemUncommon = HARDSTONE
 #-------------------------------
@@ -3546,8 +3546,8 @@ Weight = 8.9
 Color = Pink
 Shape = Bipedal
 Habitat = RoughTerrain
-Category = Metalsmith
-Pokedex = It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.
+Category = Forge
+Pokedex = Il se défend en brandissant un marteau qu’il a créé lui-même, mais les Pokémon qui se nourrissent de métaux ont tendance à le lui voler.
 Generation = 9
 Evolutions = TINKATUFF,Level,24
 #-------------------------------
@@ -3572,8 +3572,8 @@ Weight = 59.1
 Color = Pink
 Shape = Bipedal
 Habitat = RoughTerrain
-Category = Hammer
-Pokedex = This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.
+Category = Marteau
+Pokedex = Ce Pokémon vit dans des tas de ferraille. Pour tester la force de ses marteaux, il les cogne contre ceux de ses congénères.
 Generation = 9
 Evolutions = TINKATON,Level,38
 #-------------------------------
@@ -3598,8 +3598,8 @@ Weight = 112.8
 Color = Pink
 Shape = Bipedal
 Habitat = RoughTerrain
-Category = Hammer
-Pokedex = This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.
+Category = Marteau
+Pokedex = Ce Pokémon s’empare de tout ce qu’il convoite en maniant sans effort son marteau de plus de 100 kg et ramène son butin chez lui.
 Generation = 9
 #-------------------------------
 [CARBINK]
@@ -3622,8 +3622,8 @@ Height = 0.3
 Weight = 5.7
 Color = Gray
 Shape = Head
-Category = Jewel
-Pokedex = Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body.
+Category = Joyau
+Pokedex = Les Strassie sont nés sous la terre, à de hautes pressions et températures. Ils se défendent en lançant des lasers depuis leurs cristaux.
 Generation = 6
 #-------------------------------
 [MAREANIE]
@@ -3647,8 +3647,8 @@ Height = 0.4
 Weight = 8.0
 Color = Blue
 Shape = HeadBase
-Category = Brutal Star
-Pokedex = It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.
+Category = Cruel
+Pokedex = Sa capacité à se régénérer est impressionnante. L’amertume et l’âpreté de ses tentacules coupés les rendent impropres à la consommation.
 Generation = 7
 WildItemUncommon = POISONBARB
 Evolutions = TOXAPEX,Level,38
@@ -3673,8 +3673,8 @@ Height = 0.7
 Weight = 14.5
 Color = Blue
 Shape = Multiped
-Category = Brutal Star
-Pokedex = Those attacked by Toxapex's poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.
+Category = Cruel
+Pokedex = Avec ses douze pattes, il crée un dôme protecteur qui lui permet de ne pas subir l’influence des marées.
 Generation = 7
 WildItemUncommon = POISONBARB
 #-------------------------------
@@ -3699,8 +3699,8 @@ Height = 0.6
 Weight = 4.8
 Color = Black
 Shape = Quadruped
-Category = Toxic Lizard
-Pokedex = It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.
+Category = Toxilézard
+Pokedex = La femelle domine le mâle, qui ne peut évoluer en raison de carences nutritionnelles. Il lui offre en effet presque toutes ses proies en tribut.
 Generation = 7
 WildItemUncommon = SMOKEBALL
 Evolutions = SALAZZLE,LevelFemale,33
@@ -3725,8 +3725,8 @@ Height = 1.2
 Weight = 22.2
 Color = Black
 Shape = Quadruped
-Category = Toxic Lizard
-Pokedex = Filled with pheromones, its poisonous gas can be diluted to use in the production of luscious perfumes.
+Category = Toxilézard
+Pokedex = Ce Pokémon habite au fin fond des cavernes. Il se fait servir par des Tritox envoûtés par ses phéromones.
 Generation = 7
 WildItemUncommon = SMOKEBALL
 #-------------------------------
@@ -3750,8 +3750,8 @@ Height = 1.0
 Weight = 92.0
 Color = Green
 Shape = Bipedal
-Category = Automaton
-Pokedex = These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.
+Category = Golem Ancien
+Pokedex = Les anciens, désirant avoir un serviteur, l’auraient façonné avec de l’argile. En revanche, on ignore toujours d’où provient son énergie.
 Generation = 5
 WildItemUncommon = LIGHTCLAY
 Evolutions = GOLURK,Level,43
@@ -3776,8 +3776,8 @@ Height = 2.8
 Weight = 330.0
 Color = Green
 Shape = Bipedal
-Category = Automaton
-Pokedex = It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.
+Category = Golem Ancien
+Pokedex = Il vole à la vitesse du son. Si le sceau sur sa poitrine est retiré, il perd tout contrôle de lui-même.
 Generation = 5
 WildItemUncommon = LIGHTCLAY
 #-------------------------------
@@ -3802,8 +3802,8 @@ Height = 0.5
 Weight = 10.2
 Color = Red
 Shape = Bipedal
-Category = Sharp Blade
-Pokedex = They fight at Bisharp's command. They cling to their prey and inflict damage by sinking their blades into it.
+Category = Coupant
+Pokedex = Tout son corps est fait de lames. Si une lame s’émousse, il va l’aiguiser contre une pierre au bord d’une rivière.
 Generation = 5
 Evolutions = BISHARP,Level,52
 #-------------------------------
@@ -3827,8 +3827,8 @@ Height = 1.6
 Weight = 70.0
 Color = Red
 Shape = Bipedal
-Category = Sword Blade
-Pokedex = Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.
+Category = Tranchant
+Pokedex = Il dirige des cohortes de Scalpion. Il garde constamment ses sous-fifres à l’œil pour parer à toute velléité de mutinerie.
 Generation = 5
 Evolutions = KINGAMBIT,HoldItem,KINGSROCK
 #-------------------------------
@@ -3853,8 +3853,8 @@ Weight = 120.0
 Color = Black
 Shape = Bipedal
 Habitat = RoughTerrain
-Category = Big Blade
-Pokedex = Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.
+Category = Pourfendant
+Pokedex = Ce Pokémon commande une grande armée, mais c’est un piètre stratège. Il s’obstine donc à recourir à la force brute.
 Generation = 9
 #-------------------------------
 [YAMASK]
@@ -3877,8 +3877,8 @@ Height = 0.5
 Weight = 1.5
 Color = Black
 Shape = HeadArms
-Category = Spirit
-Pokedex = These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life.
+Category = Âme
+Pokedex = Il passe ses nuits à errer dans les ruines. On raconte que le masque qu’il porte représente son visage quand il était humain.
 Generation = 5
 WildItemUncommon = SPELLTAG
 Evolutions = COFAGRIGUS,Level,34
@@ -3902,8 +3902,8 @@ Height = 1.7
 Weight = 76.5
 Color = Yellow
 Shape = HeadBase
-Category = Coffin
-Pokedex = They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold.
+Category = Cercueil
+Pokedex = On le voit souvent représenté sur les murs des vieilles sépultures des rois en tant que symbole de leur richesse.
 Generation = 5
 WildItemUncommon = SPELLTAG
 #-------------------------------
@@ -3926,8 +3926,8 @@ Height = 3.9
 Weight = 210.0
 Color = Green
 Shape = HeadBase
-Category = Sea Creeper
-Pokedex = The soul of seaweed adrift in the waves became reborn as this Pokémon. It maintains itself with new infusions of seabed detritus and seaweed.
+Category = Varech
+Pokedex = Ce Pokémon Spectre naît lorsque les algues dérivant au fond de l’océan se fixent sur des morceaux d’épaves de navire.
 Generation = 7
 #-------------------------------
 [SPHEAL]
@@ -3952,8 +3952,8 @@ Weight = 39.5
 Color = Blue
 Shape = Finned
 Habitat = Sea
-Category = Clap
-Pokedex = It is completely covered with plushy fur. As a result, it never feels the cold even when it is rolling about on ice floes or diving in the sea.
+Category = Clap Clap
+Pokedex = Il traverse les mers en roulant sur les blocs de glace. Sa douce fourrure le protège du froid.
 Generation = 3
 Evolutions = SEALEO,Level,32
 #-------------------------------
@@ -3978,8 +3978,8 @@ Weight = 87.6
 Color = Blue
 Shape = Finned
 Habitat = Sea
-Category = Ball Roll
-Pokedex = Sealeo live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.
+Category = Roule Boule
+Pokedex = Il utilise son museau hypersensible pour toucher et comprendre tout ce qu'il voit pour la première fois.
 Generation = 3
 Evolutions = WALREIN,Level,44
 #-------------------------------
@@ -4004,8 +4004,8 @@ Weight = 150.6
 Color = Blue
 Shape = Quadruped
 Habitat = Sea
-Category = Ice Break
-Pokedex = To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.
+Category = Brise Glace
+Pokedex = Il brise de gros morceaux de glace à l’aide de ses défenses. Sa graisse épaisse le protège à la fois du froid et des attaques ennemies.
 Generation = 3
 #-------------------------------
 [CRABRAWLER]
@@ -4029,8 +4029,8 @@ Height = 0.6
 Weight = 7.0
 Color = Purple
 Shape = Insectoid
-Category = Boxing
-Pokedex = It punches so much, its pincers often come off from overuse, but they grow back quickly. What little meat they contain is rich and delicious.
+Category = Boxeur
+Pokedex = Il grimpe parfois sur un Noadkoko qu’il a pris pour un cocotier. Il se fait alors éjecter puis piétiner par le Noadkoko courroucé.
 Generation = 7
 WildItemUncommon = ASPEARBERRY
 Evolutions = CRABOMINABLE,Item,ICESTONE
@@ -4055,8 +4055,8 @@ Height = 1.7
 Weight = 180.0
 Color = White
 Shape = Insectoid
-Category = Woolly Crab
-Pokedex = It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.
+Category = Crabe Velu
+Pokedex = Il rêvait d’atteindre le sommet d’un pic enneigé, mais s’est égaré en chemin. Il a dû évoluer pour survivre au froid et a acquis un pelage fourni.
 Generation = 7
 WildItemUncommon = CHERIBERRY
 #-------------------------------
@@ -4081,8 +4081,8 @@ Height = 0.5
 Weight = 6.0
 Color = Yellow
 Shape = BipedalTail
-Category = Generator
-Pokedex = They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.
+Category = Générateur
+Pokedex = Il peut générer de l’électricité grâce au soleil. Si on le dérange en pleine production d’énergie, cela le stresse et l’affaiblit.
 Generation = 6
 Evolutions = HELIOLISK,Item,SUNSTONE
 #-------------------------------
@@ -4106,8 +4106,8 @@ Height = 1.0
 Weight = 21.0
 Color = Yellow
 Shape = BipedalTail
-Category = Generator
-Pokedex = They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.
+Category = Générateur
+Pokedex = Lorsqu’il déploie sa collerette pour emmagasiner la lumière du soleil, il génère à lui seul assez d’électricité pour alimenter une grande ville.
 Generation = 6
 #-------------------------------
 [FINIZEN]
@@ -4131,8 +4131,8 @@ Weight = 60.2
 Color = Blue
 Shape = Finned
 Habitat = Sea
-Category = Dolphin
-Pokedex = It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.
+Category = Dauphin
+Pokedex = Il a confectionné l’anneau autour de sa queue à partir d’eau de mer et du liquide collant que son évent sécrète.
 Generation = 9
 Evolutions = PALAFIN,Level,38
 #-------------------------------
@@ -4157,8 +4157,8 @@ Weight = 60.2
 Color = Blue
 Shape = Finned
 Habitat = Sea
-Category = Dolphin
-Pokedex = This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.
+Category = Dauphin
+Pokedex = Il change de forme dès qu’il entend les cris de détresse de ses congénères, mais il ne laissera jamais personne assister à sa transformation.
 Generation = 9
 #-------------------------------
 [FRILLISH]
@@ -4182,8 +4182,8 @@ Height = 1.2
 Weight = 33.0
 Color = White
 Shape = Multiped
-Category = Floating
-Pokedex = They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.
+Category = Flottaison
+Pokedex = Il enroule ses membres en forme de voiles autour de ses proies, puis les entraîne dans les abysses.
 Generation = 5
 Evolutions = JELLICENT,Level,40
 #-------------------------------
@@ -4207,8 +4207,8 @@ Height = 2.2
 Weight = 135.0
 Color = White
 Shape = Multiped
-Category = Floating
-Pokedex = They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.
+Category = Flottaison
+Pokedex = Il est presque entièrement fait d’eau de mer. On dit qu’il vit dans un palais fait des épaves des bateaux qu’il a coulés.
 Generation = 5
 #-------------------------------
 [STARYU]
@@ -4232,8 +4232,8 @@ Weight = 34.5
 Color = Brown
 Shape = HeadBase
 Habitat = Sea
-Category = Star Shape
-Pokedex = It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.
+Category = Étoile
+Pokedex = Si l’on en croit une légende populaire, il serait né d’une pluie de poussière d’étoiles tombée dans la mer.
 Generation = 1
 WildItemCommon = STARDUST
 WildItemUncommon = STARPIECE
@@ -4260,8 +4260,8 @@ Weight = 80.0
 Color = Purple
 Shape = HeadBase
 Habitat = Sea
-Category = Mysterious
-Pokedex = People in ancient times imagined that Starmie were transformed from the reflections of stars that twinkled on gentle waves at night.
+Category = Mystérieux
+Pokedex = On dit que si le centre de son corps, appelé le coeur, brille de sept couleurs, c'est parce qu'il est en train de communiquer.
 Generation = 1
 WildItemCommon = STARDUST
 WildItemUncommon = STARPIECE
@@ -4288,8 +4288,8 @@ Weight = 72.0
 Color = Green
 Shape = BipedalTail
 Habitat = Mountain
-Category = Rock Skin
-Pokedex = A Larvitar is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.
+Category = Peaupierre
+Pokedex = Il vit très profond sous terre. Il n’en sort pour évoluer qu’après avoir dévoré tout ce qui l’entourait.
 Generation = 2
 Evolutions = PUPITAR,Level,30
 #-------------------------------
@@ -4313,8 +4313,8 @@ Weight = 152.0
 Color = Gray
 Shape = Serpentine
 Habitat = Mountain
-Category = Hard Shell
-Pokedex = A Pupitar creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel.
+Category = Carapadure
+Pokedex = Cette chrysalide est très dangereuse. À l’intérieur de cette carapace solide comme le roc, son nouveau corps se développe.
 Generation = 2
 Evolutions = TYRANITAR,Level,55
 #-------------------------------
@@ -4339,8 +4339,8 @@ Weight = 202.0
 Color = Green
 Shape = BipedalTail
 Habitat = Mountain
-Category = Armor
-Pokedex = A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.
+Category = Armure
+Pokedex = Ce Pokémon est si fort qu'il est capable de modifier la topographie d'un lieu. Il ne se préoccupe pas des autres.
 Generation = 2
 #-------------------------------
 [CUFANT]
@@ -4364,8 +4364,8 @@ Height = 1.2
 Weight = 100.0
 Color = Yellow
 Shape = Quadruped
-Category = Copperderm
-Pokedex = It digs up the ground with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all.
+Category = Pachycuivre
+Pokedex = L’extrémité pointue de sa trompe lui permet de casser les roches dont il se nourrit. Très docile, il aide les êtres humains dans les travaux pénibles.
 Generation = 8
 WildItemUncommon = LAGGINGTAIL
 Evolutions = COPPERAJAH,Level,34
@@ -4390,8 +4390,8 @@ Height = 3.0
 Weight = 650.0
 Color = Green
 Shape = Quadruped
-Category = Copperderm
-Pokedex = These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.
+Category = Pachycuivre
+Pokedex = Ces Pokémon vivent en troupeau. L’étreinte de leur trompe est si forte qu’elle suffit à réduire un rocher en poussière.
 Generation = 8
 WildItemUncommon = LAGGINGTAIL
 #-------------------------------
@@ -4417,8 +4417,8 @@ Weight = 47.0
 Color = White
 Shape = Quadruped
 Habitat = Mountain
-Category = Disaster
-Pokedex = It sharply senses even subtle changes in the sky and the land to predict natural disasters. It is a long-lived Pokémon that has a life-span of 100 years.
+Category = Désastre
+Pokedex = Il pressent les catastrophes et n’apparaît devant les êtres humains que pour les prévenir d’un danger imminent.
 Generation = 3
 #-------------------------------
 [COMFEY]
@@ -4442,8 +4442,8 @@ Height = 0.1
 Weight = 0.3
 Color = Green
 Shape = Head
-Category = Posy Picker
-Pokedex = Baths prepared with the flowers from its vine have a relaxing effect, so this Pokémon is a hit with many people.
+Category = Tressefleur
+Pokedex = Il orne son corps de fleurs qu’il cueille avec sa liane. Mystérieusement, celles-ci ne se fanent jamais.
 Generation = 7
 WildItemUncommon = MISTYSEED
 #-------------------------------
@@ -4468,8 +4468,8 @@ Height = 0.6
 Weight = 29.7
 Color = Gray
 Shape = Quadruped
-Category = Scaly
-Pokedex = It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.
+Category = Écailles
+Pokedex = IIl communique ses sentiments en frottant ses écailles. Les montagnes peuplées de Bébécaille bruissent d’un écho métallique.
 Generation = 7
 WildItemUncommon = RAZORCLAW
 Evolutions = HAKAMOO,Level,35
@@ -4494,8 +4494,8 @@ Height = 1.2
 Weight = 47.0
 Color = Gray
 Shape = BipedalTail
-Category = Scaly
-Pokedex = It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they're regrown.
+Category = Écailles
+Pokedex = Après avoir fait tinter ses écailles et poussé un terrible cri de guerre, il charge ses ennemis et les lacère de ses griffes acérées.
 Generation = 7
 WildItemUncommon = RAZORCLAW
 Evolutions = KOMMOO,Level,45
@@ -4520,8 +4520,8 @@ Height = 1.6
 Weight = 78.2
 Color = Gray
 Shape = BipedalTail
-Category = Scaly
-Pokedex = Its rigid scales function as offense and defense. In the past, its scales were processed and used to make weapons and other commodities.
+Category = Écailles
+Pokedex = Il se bat vaillamment avec ses poings couverts d’écailles d’acier. Il est particulièrement fier de l’impact de ses uppercuts.
 Generation = 7
 WildItemCommon = RAZORCLAW
 #-------------------------------
@@ -4546,8 +4546,8 @@ Height = 0.6
 Weight = 31.0
 Color = Green
 Shape = Bipedal
-Category = Trash Bag
-Pokedex = The combination of garbage bags and industrial waste caused the chemical reaction that crated this Pokémon.
+Category = Sac Poubelle
+Pokedex = Il raffole des endroits sales. Si on laisse traîner des ordures dans une pièce trop longtemps, il finit par en faire son domicile.
 Generation = 5
 WildItemUncommon = SILKSCARF
 Evolutions = GARBODOR,Level,36
@@ -4572,8 +4572,8 @@ Height = 1.9
 Weight = 107.3
 Color = Green
 Shape = Bipedal
-Category = Trash Heap
-Pokedex = They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips.
+Category = Dépotoir
+Pokedex = Il produit du poison dans son corps à partir des ordures qu'il ingurgite. Selon ce qu'il mange, la composition des toxines diffère.
 Generation = 5
 WildItemCommon = SILKSCARF
 WildItemUncommon = BLACKSLUDGE
@@ -4600,8 +4600,8 @@ Weight = 2.1
 Color = Black
 Shape = Winged
 Habitat = Forest
-Category = Darkness
-Pokedex = Murkrow were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.
+Category = Obscurité
+Pokedex = Les gens voient en lui un oiseau de malheur, mais il offre des choses brillantes aux Dresseurs dont il devient l’ami.
 Generation = 2
 Evolutions = HONCHKROW,Item,DUSKSTONE
 #-------------------------------
@@ -4626,7 +4626,7 @@ Weight = 27.3
 Color = Black
 Shape = Winged
 Category = Big Boss
-Pokedex = Becoming active at night, it is known to swarm with numerous Murkrow in tow.
+Pokedex = Il ne pardonne jamais la trahison ou la défaite d’un subordonné. Le bien-être de l’ensemble de la volée en dépend.
 Generation = 4
 #-------------------------------
 [CHATOT]
@@ -4650,8 +4650,8 @@ Height = 0.5
 Weight = 1.9
 Color = Black
 Shape = Winged
-Category = Music Note
-Pokedex = It can learn and speak human words. If they gather, they all learn the same saying.
+Category = Note Musique
+Pokedex = Il imite le langage humain. Il garde le rythme en balançant les plumes de sa queue comme un métronome.
 Generation = 4
 WildItemUncommon = METRONOME
 #-------------------------------
@@ -4677,8 +4677,8 @@ Weight = 2.5
 Color = Pink
 Shape = MultiBody
 Habitat = Forest
-Category = Egg
-Pokedex = It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.
+Category = Œuf
+Pokedex = Même si l'un d'eux est séparé du groupe, l'énergie qui les unit les fera se regrouper à nouveau.
 Generation = 1
 WildItemUncommon = PSYCHICSEED
 Evolutions = EXEGGUTOR,Item,LEAFSTONE
@@ -4704,8 +4704,8 @@ Weight = 120.0
 Color = Yellow
 Shape = HeadLegs
 Habitat = Forest
-Category = Coconut
-Pokedex = Originally from the tropics, Exeggutor's heads grow larger with exposure to bright sunlight. It is said that when the heads fall, they group to form an Exeggcute.
+Category = Fruitpalme
+Pokedex = Si son cri est aussi bruyant, c'est parce que chacune de ses trois têtes dit ce qu'elle pense.
 Generation = 1
 #-------------------------------
 [NOIBAT]
@@ -4729,8 +4729,8 @@ Height = 0.5
 Weight = 8.0
 Color = Purple
 Shape = Winged
-Category = Sound Wave
-Pokedex = Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.
+Category = Ondes
+Pokedex = À la tombée de la nuit, il quitte la grotte où il réside et s’envole à la recherche de fruits mûrs avec ses ultrasons.
 Generation = 6
 Evolutions = NOIVERN,Level,48
 #-------------------------------
@@ -4754,8 +4754,8 @@ Height = 1.5
 Weight = 85.0
 Color = Purple
 Shape = Winged
-Category = Sound Wave
-Pokedex = They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.
+Category = Ondes
+Pokedex = Ce Pokémon au tempérament cruel émet des ultrasons capables de pulvériser d’imposants rochers.
 Generation = 6
 #-------------------------------
 [DONDOZO]
@@ -4780,8 +4780,8 @@ Weight = 220.0
 Color = Blue
 Shape = Finned
 Habitat = Sea
-Category = Big Catfish
-Pokedex = This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey.
+Category = Grand Silure
+Pokedex = Comme il n’est pas très doué pour attraper ses proies, ce Pokémon vorace fait équipe avec Nigirigon pour chasser.
 Generation = 9
 #-------------------------------
 [TATSUGIRI]
@@ -4807,8 +4807,8 @@ Weight = 8.0
 Color = Pink
 Shape = Serpentine
 Habitat = Sea
-Category = Mimicry
-Pokedex = This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.
+Category = Mimétisme
+Pokedex = Les différents motifs et couleurs de cette espèce seraient une adaptation aux préférences des proies qu’elle souhaite attirer.
 Generation = 9
 #-------------------------------
 [CHARCADET]
@@ -4833,8 +4833,8 @@ Weight = 10.5
 Color = Red
 Shape = Bipedal
 Habitat = RoughTerrain
-Category = Fire Child
-Pokedex = Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.
+Category = Enfant Feu
+Pokedex = Depuis très longtemps, les êtres humains apprécient ce Pokémon pour sa faculté à manipuler le feu.
 Generation = 9
 Evolutions = ARMAROUGE,Item,AUSPICIOUSARMOR,CERULEDGE,Item,MALICIOUSARMOR
 #-------------------------------
@@ -4859,8 +4859,8 @@ Weight = 85.0
 Color = Red
 Shape = Bipedal
 Habitat = RoughTerrain
-Category = Fire Warrior
-Pokedex = Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.
+Category = Feu Guerrier
+Pokedex = Il a évolué grâce à l’armure d’une illustre âme guerrière. Ce Pokémon est extrêmement loyal.
 Generation = 9
 #-------------------------------
 [CERULEDGE]
@@ -4884,8 +4884,8 @@ Weight = 62.0
 Color = Blue
 Shape = Bipedal
 Habitat = RoughTerrain
-Category = Fire Blades
-Pokedex = The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.
+Category = Feu Bretteur
+Pokedex = Il a évolué grâce à une vieille armure imprégnée de rancœur. Ce Pokémon lacère ses ennemis sans aucune merci.
 Generation = 9
 #-------------------------------
 [LARVESTA]
@@ -4909,8 +4909,8 @@ Height = 1.1
 Weight = 28.8
 Color = White
 Shape = Insectoid
-Category = Torch
-Pokedex = The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.
+Category = Torche
+Pokedex = On dit que ce Pokémon serait né du soleil. Il évolue en enveloppant son corps des flammes qui jaillissent de ses cornes.
 Generation = 5
 Evolutions = VOLCARONA,Level,59
 #-------------------------------
@@ -4934,8 +4934,8 @@ Height = 1.6
 Weight = 46.0
 Color = White
 Shape = MultiWinged
-Category = Sun
-Pokedex = A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.
+Category = Soleil
+Pokedex = Son corps brûlant le rend impopulaire dans les régions chaudes. Toutefois, on le vénère comme l'incarnation du soleil dans les régions froides.
 Generation = 5
 WildItemCommon = SILVERPOWDER
 WildItemUncommon = SILVERPOWDER
@@ -4961,8 +4961,8 @@ Height = 2.0
 Weight = 212.0
 Color = Red
 Shape = BipedalTail
-Category = Blast Turtle
-Pokedex = It lives in volcanoes and eats sulfur and other minerals. Materials from the food it eats form the basis of its explosive shell.
+Category = Tortue Boum
+Pokedex = Il vit dans les volcans et se nourrit de soufre et de minéraux. Les composants de ses repas renforcent sa carapace explosive.
 Generation = 7
 WildItemUncommon = CHARCOAL
 #-------------------------------
@@ -4987,8 +4987,8 @@ Height = 3.0
 Weight = 185.0
 Color = White
 Shape = Serpentine
-Category = Placid
-Pokedex = This Pokémon is friendly to people and loves children most of all. It comes from deep in the mountains to play with children it likes in town.
+Category = Nonchalant
+Pokedex = Il est d’un naturel sociable et aimable, mais quand il se met en colère, il déchaîne des bourrasques qui emportent tout sur leur passage.
 Generation = 7
 WildItemUncommon = PERSIMBERRY
 #-------------------------------
@@ -5013,8 +5013,8 @@ Height = 0.4
 Weight = 11.0
 Color = Purple
 Shape = BipedalTail
-Category = Baby
-Pokedex = It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.
+Category = Poupon
+Pokedex = Par un procédé chimique, il change son poison en électricité. L’intensité du courant est faible, mais peut engourdir un ennemi.
 Generation = 8
 Evolutions = TOXTRICITY,Level,30
 #-------------------------------
@@ -5040,7 +5040,7 @@ Weight = 40.0
 Color = Purple
 Shape = BipedalTail
 Category = Punk
-Pokedex = When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.
+Pokedex = Impatient et bagarreur, ce Pokémon avale de grandes gorgées d’eau croupie pour en absorber toute la toxicité.
 Generation = 8
 #-------------------------------
 [MIENFOO]
@@ -5064,8 +5064,8 @@ Height = 0.9
 Weight = 20.0
 Color = Yellow
 Shape = BipedalTail
-Category = Martial Arts
-Pokedex = They have mastered elegant combos. As they concentrate, their battle moves become swifter and more precise.
+Category = Art Martial
+Pokedex = Au petit jour, on peut voir des meutes de Kungfouine qui s’entraînent en effectuant des mouvements lents et méthodiques.
 Generation = 5
 Evolutions = MIENSHAO,Level,50
 #-------------------------------
@@ -5089,8 +5089,8 @@ Height = 1.4
 Weight = 35.5
 Color = Purple
 Shape = BipedalTail
-Category = Martial Arts
-Pokedex = They use the long fur on their arms as a whip to strike their opponents.
+Category = Art Martial
+Pokedex = Le cri lugubre de Shaofouine annonce qu’il est sur le point de déchaîner une pluie de coups si rapides qu’ils en sont invisibles.
 Generation = 5
 #-------------------------------
 [DURANT]
@@ -5114,8 +5114,8 @@ Height = 0.3
 Weight = 33.0
 Color = Gray
 Shape = Insectoid
-Category = Iron Ant
-Pokedex = Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.
+Category = Fourmi Dure
+Pokedex = Ils travaillent de concert pour protéger leur colonie des terribles attaques de leur prédateur naturel, Aflamanoir.
 Generation = 5
 #-------------------------------
 [HEATMOR]
@@ -5139,8 +5139,8 @@ Height = 1.4
 Weight = 58.0
 Color = Red
 Shape = BipedalTail
-Category = Anteater
-Pokedex = Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.
+Category = Tamanoir
+Pokedex = Il aspire de l'air par la queue et entretient un brasier dans son corps. C'est le prédateur des Fermite.
 Generation = 5
 #-------------------------------
 [PHANTUMP]
@@ -5164,8 +5164,8 @@ Height = 0.4
 Weight = 7.0
 Color = Brown
 Shape = HeadArms
-Category = Stump
-Pokedex = These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.
+Category = Souche
+Pokedex = Il imite la voix d’un enfant pour inciter les gens à se perdre au plus profond des bois. Il espère ainsi se faire de nouveaux amis.
 Generation = 6
 Evolutions = TREVENANT,Item,LINKINGCORD
 #-------------------------------
@@ -5189,8 +5189,8 @@ Height = 1.5
 Weight = 71.0
 Color = Brown
 Shape = Multiped
-Category = Elder Tree
-Pokedex = Through its roots, it exerts control over other trees. A deadly curse falls upon anyone cutting down trees in forests where Trevenant dwell.
+Category = Vieillarbre
+Pokedex = Grâce à ses racines, il contrôle les arbres de la forêt où il a élu refuge, et maudit quiconque a le malheur de les abattre.
 Generation = 6
 #-------------------------------
 [BERGMITE]
@@ -5214,8 +5214,8 @@ Height = 1.0
 Weight = 99.5
 Color = Blue
 Shape = Quadruped
-Category = Ice Chunk
-Pokedex = It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.
+Category = Glaçon
+Pokedex = Il vit dans les régions les plus froides, agrippé aux Séracrawl. Il gèle ses pattes sur leur dos pour se maintenir en place.
 Generation = 6
 Evolutions = AVALUGG,Level,37
 #-------------------------------
@@ -5240,7 +5240,7 @@ Weight = 505.0
 Color = Blue
 Shape = Quadruped
 Category = Iceberg
-Pokedex = Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.
+Pokedex = Ce géant de glace écrase tous les obstacles sans distinction. Lorsqu’il flotte sur la mer, il ressemble à s’y méprendre à un iceberg.
 Generation = 6
 #-------------------------------
 [CETODDLE]
@@ -5265,8 +5265,8 @@ Weight = 45.0
 Color = White
 Shape = BipedalTail
 Habitat = Mountain
-Category = Terra Whale
-Pokedex = This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.
+Category = Baleinapied
+Pokedex = Ces Pokémon vivent généralement en groupes de cinq dans les régions froides. Ils raffolent des minéraux que contiennent la neige et la glace.
 Generation = 9
 Evolutions = CETITAN,Item,ICESTONE
 #-------------------------------
@@ -5291,8 +5291,8 @@ Weight = 700.0
 Color = White
 Shape = BipedalTail
 Habitat = Mountain
-Category = Terra Whale
-Pokedex = This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.
+Category = Baleinapied
+Pokedex = Ce Pokémon arpente les étendues de neige et de glace. Ses muscles puissants et son épaisse couche de graisse protègent son corps.
 Generation = 9
 #-------------------------------
 [EISCUE]
@@ -5316,8 +5316,8 @@ Height = 1.4
 Weight = 89.0
 Color = Blue
 Shape = BipedalTail
-Category = Penguin
-Pokedex = It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.
+Category = Pingouin
+Pokedex = Originaire d’une contrée polaire, ce Pokémon a débarqué dans la région ballotté par les flots. Il garde toujours la tête froide.
 Generation = 8
 #-------------------------------
 [LUNATONE]
@@ -5340,8 +5340,8 @@ Weight = 168.0
 Color = Yellow
 Shape = Head
 Habitat = Cave
-Category = Meteorite
-Pokedex = It becomes very active on the night of a full moon. This Pokémon was first discovered 40 years ago at the site of a meteor strike.
+Category = Météorite
+Pokedex = On dit que ce Pokémon est lié au cycle lunaire, car il est particulièrement actif les nuits de pleine lune.
 Generation = 3
 WildItemCommon = STARDUST
 WildItemUncommon = MOONSTONE
@@ -5366,8 +5366,8 @@ Weight = 154.0
 Color = Red
 Shape = Head
 Habitat = Cave
-Category = Meteorite
-Pokedex = Solar energy is the source of this Pokémon's power. On sunny days, groups of Solrock line up facing the sun and absorb its light.
+Category = Météorite
+Pokedex = D’après les rumeurs, cette nouvelle espèce de Pokémon proviendrait du soleil. Il produit de la lumière en tournoyant.
 Generation = 3
 WildItemCommon = STARDUST
 WildItemUncommon = SUNSTONE
@@ -5394,8 +5394,8 @@ Weight = 50.5
 Color = Gray
 Shape = Winged
 Habitat = RoughTerrain
-Category = Armor Bird
-Pokedex = A Pokémon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.
+Category = Armoiseau
+Pokedex = Ce Pokémon perd ses plumes fines et acérées durant sa croissance. Jadis, les guerriers s’en servaient pour fabriquer des lames.
 Generation = 2
 WildItemUncommon = METALCOAT
 #-------------------------------
@@ -5419,8 +5419,8 @@ Height = 0.8
 Weight = 17.3
 Color = Blue
 Shape = Quadruped
-Category = Irate
-Pokedex = They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.
+Category = Rude
+Pokedex = Il mord d’abord et réfléchit ensuite. On dit qu’il n’oublie jamais l’odeur de la nourriture qu’il aime.
 Generation = 5
 Evolutions = ZWEILOUS,Level,50
 #-------------------------------
@@ -5443,8 +5443,8 @@ Height = 1.4
 Weight = 50.0
 Color = Blue
 Shape = Quadruped
-Category = Hostile
-Pokedex = Since their two heads do not get along and compete with each other for food, they always eat too much.
+Category = Violent
+Pokedex = Ses deux têtes s’entendent mal. Elles sont très jalouses et peuvent se quereller violemment si l’une reçoit plus d’affection que l’autre.
 Generation = 5
 Evolutions = HYDREIGON,Level,64
 #-------------------------------
@@ -5468,7 +5468,7 @@ Weight = 160.0
 Color = Blue
 Shape = BipedalTail
 Category = Brutal
-Pokedex = The heads on their arms do not have brains. They use all three heads to consume and destroy everything.
+Pokedex = Chacune de ses trois têtes mord à tour de rôle. Il attaque ses adversaires sans relâche, jusqu’à ce qu’ils s’écroulent.
 Generation = 5
 
 
@@ -5493,8 +5493,8 @@ Weight = 699.7
 Color = Brown
 Shape = Quadruped
 Habitat = Rare
-Category = Ruinous
-Pokedex = The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.
+Category = Fléau
+Pokedex = La peur déversée dans un réceptacle utilisé lors de rites anciens s’est mêlée à de la terre et à des pierres et a pris vie.
 Generation = 9
 Flags = Legendary
 #-------------------------------
@@ -5518,8 +5518,8 @@ Weight = 74.2
 Color = Brown
 Shape = Serpentine
 Habitat = Rare
-Category = Ruinous
-Pokedex = The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.
+Category = Fléau
+Pokedex = La rancœur d’un être humain puni pour avoir noté les méfaits d’un roi sur des tablettes en bois s’est mêlée à des feuilles mortes et a pris vie.
 Generation = 9
 Flags = Legendary
 #-------------------------------
@@ -5543,8 +5543,8 @@ Weight = 4.9
 Color = Red
 Shape = Finned
 Habitat = Rare
-Category = Ruinous
-Pokedex = It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.
+Category = Fléau
+Pokedex = La convoitise intense qu’attisaient des magatama à l’origine de nombreux conflits s’est mêlée à des flammes et a pris vie.
 Generation = 9
 Flags = Legendary
 #-------------------------------
@@ -5568,8 +5568,8 @@ Weight = 152.2
 Color = White
 Shape = Quadruped
 Habitat = Rare
-Category = Ruinous
-Pokedex = This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.
+Category = Fléau
+Pokedex = La haine de personnes ayant jadis succombé au fil de l’épée s’est mêlée à de la neige et a pris vie.
 Generation = 9
 Flags = Legendary
 
