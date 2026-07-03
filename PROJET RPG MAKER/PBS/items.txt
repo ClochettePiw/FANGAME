@@ -3865,6 +3865,204 @@ Flags = Fling_10
 Move = PSYCHUP
 Description = Une autohypnose qui permet au lanceur de copier les changements de stats de la cible.
 #-------------------------------
+[TM58]
+Name = CT58
+NamePlural = CT58s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = RETALIATE
+Description = Le lanceur venge un allié K.O. Si un Pokémon de l'équipe a été mis K.O. au tour d'avant, la puissance augmente.
+#-------------------------------
+[TM59]
+Name = CT59
+NamePlural = CT59s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = POWERUPPUNCH
+Description = À force de frapper, les poings deviennent plus durs. Augmente l'Attaque du lanceur si l'ennemi est touché.
+#-------------------------------
+[TM60]
+Name = CT60
+NamePlural = CT60s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = AIRSLASH
+Description = Le lanceur attaque avec une lame d'air qui fend tout. Peut aussi apeurer l'ennemi.
+#-------------------------------
+[TM61]
+Name = CT61
+NamePlural = CT61s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = POISONTAIL
+Description = Attaque à taux de critiques élevé. Peut aussi empoisonner l'ennemi.
+#-------------------------------
+[TM62]
+Name = CT62
+NamePlural = CT62s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = EARTHPOWER
+Description = De terribles séismes secouent l'ennemi. Peut aussi baisser sa Défense Spéciale.
+#-------------------------------
+[TM63]
+Name = CT63
+NamePlural = CT63s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = ANCIENTPOWER
+Description = Une attaque préhistorique qui peut augmenter toutes les stats du lanceur d'un seul coup.
+#-------------------------------
+[TM64]
+Name = CT64
+NamePlural = CT64s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = LEECHLIFE
+Description = Une attaque qui aspire le sang de l'ennemi. La moitié des dégâts sont convertis en PV pour le lanceur.
+#-------------------------------
+[TM65]
+Name = CT65
+NamePlural = CT65s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = HEX
+Description = Attaque acharnée qui cause davantage de dégâts à l'ennemi s'il a un problème de statut.
+#-------------------------------
+[TM66]
+Name = CT66
+NamePlural = CT66s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = STEELWING
+Description = Le lanceur frappe l'ennemi avec des ailes d'acier. Peut aussi augmenter la Défense du lanceur.
+#-------------------------------
+[TM67]
+Name = CT67
+NamePlural = CT67s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = FLAREBLITZ
+Description = Le lanceur s'embrase avant de charger l'ennemi. Le choc blesse gravement le lanceur. Peut brûler l'ennemi.
+#-------------------------------
+[TM68]
+Name = CT68
+NamePlural = CT68s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = CHILLINGWATER
+Description = Le lanceur attaque la cible en l'arrosant d'une eau froide. Baisse l'Attaque de la cible.
+#-------------------------------
+[TM69]
+Name = CT69
+NamePlural = CT69s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = AROMATHERAPY
+Description = Le lanceur libère un parfum apaisant qui guérit toutes les altérations de statut de l'équipe.
+#-------------------------------
+[TM70]
+Name = CT70
+NamePlural = CT70s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = WILDCHARGE
+Description = Une charge électrique violente qui blesse aussi légèrement le lanceur.
+#-------------------------------
+[TM71]
+Name = CT71
+NamePlural = CT71s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = STOREDPOWER
+Description = Plus les stats du lanceur sont augmentées, plus l'attaque est efficace.
+#-------------------------------
+[TM72]
+Name = CT72
+NamePlural = CT72s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = FROSTBREATH
+Description = Un souffle froid blesse l'ennemi. L'effet est toujours critique.
+#-------------------------------
+[TM73]
+Name = CT73
+NamePlural = CT73s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = DRAGONBREATH
+Description = Le lanceur souffle fort sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser.
+#-------------------------------
+[TM74]
+Name = CT74
+NamePlural = CT74s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = PAYBACK
+Description = Le lanceur charge son énergie, puis attaque. La puissance est doublée si le lanceur agit après l'ennemi.
+#-------------------------------
+[TM75]
+Name = CT75
+NamePlural = CT75s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = MOONLIGHT
+Description = Un soin qui restaure des PV au lanceur. Son efficacité varie en fonction de la météo.
+#-------------------------------
 [HM01]
 Name = CS01
 NamePlural = CS01s
@@ -3908,7 +4106,7 @@ Pocket = 4
 Price = 0
 FieldUse = HM
 Move = WHIRLPOOL
-Description = Piège l'ennemi dans une trombe d'eau pendant quatre à cinq tours. Permet de traverser les siphons.
+Description = Piège l'ennemi dans une trombe d'eau pendant quatre à cinq tours.
 #-------------------------------
 [HM06]
 Name = CS06
@@ -3917,7 +4115,7 @@ Pocket = 4
 Price = 0
 FieldUse = HM
 Move = FLY
-Description = The user soars and then strikes on the next turn. This can also be used to fly to any familiar town.
+Description = Le lanceur s'envole au premier tour et frappe au second.
 #-------------------------------
 [HM07]
 Name = CS07
@@ -3926,7 +4124,7 @@ Pocket = 4
 Price = 0
 FieldUse = HM
 Move = WATERFALL
-Description = The user charges at the target and may make it flinch. It can also be used to climb a waterfall.
+Description = Le lanceur charge la cible avec une intensité remarquable, ce qui peut l'apeurer.
 #-------------------------------
 [HM08]
 Name = HM08
