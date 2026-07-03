@@ -3238,148 +3238,27 @@ BattleUse = OnFoe
 Flags = PokeBall
 Description = A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.
 #-------------------------------
-[TM31]
-Name = CT31
-NamePlural = CT31s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_80
-Move = DRAGONCLAW
-Description = Le lanceur lacère l'ennemi de ses grandes griffes aiguisées.
-#-------------------------------
-[TM18]
-Name = CT18
-NamePlural = CT18s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_60
-Move = WATERPULSE
-Description = Le lanceur envoie un puissant jet d'eau sur l'ennemi. Peut le rendre confus.
-#-------------------------------
-[TM16]
-Name = CT16
-NamePlural = CT16s
-Pocket = 4
-Price = 1500
-BPPrice = 48
-FieldUse = TM
-Flags = Fling_10
-Move = CALMMIND
-Description = Le lanceur se concentre et fait le vide dans son esprit pour augmenter son Attaque Spéciale et sa Défense Spéciale.
-#-------------------------------
-[TM12]
-Name = CT12
-NamePlural = CT12s
-Pocket = 4
-Price = 1000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = ROAR
-Description = Effraie le Pokémon ennemi et le remplace par un autre. Lors d'un combat contre un Pokémon sauvage seul, met fin au combat.
-#-------------------------------
-[TM27]
-Name = CT27
-NamePlural = CT27s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = TOXIC
-Description = Empoisonne gravement l'ennemi. Les dégâts dus au poison augmentent à chaque tour.
-#-------------------------------
-[TM11]
-Name = CT11
-NamePlural = CT11s
+[TM01]
+Name = CT01
+NamePlural = CT01s
 Pocket = 4
 Price = 2000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = HAIL
-Description = Invoque une tempête de grêle qui dure cinq tours. Blesse tous les Pokémon, sauf ceux de type Glace.
-#-------------------------------
-[TM21]
-Name = CT21
-NamePlural = CT21s
-Pocket = 4
-Price = 1500
-BPPrice = 48
-FieldUse = TM
-Flags = Fling_10
-Move = BULKUP
-Description = Le lanceur tend ses muscles pour se gonfler, ce qui booste son Attaque et sa Défense.
-#-------------------------------
-[TM44]
-Name = CT44
-NamePlural = CT44s
-Pocket = 4
-Price = 2000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_25
-Move = BULLETSEED
-Description = Le lanceur mitraille la cible avec une rafale de graines cinq fois d'affilée.
-#-------------------------------
-[TM30]
-Name = CT30
-NamePlural = CT30s
-Pocket = 4
-Price = 2000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = SUNNYDAY
-Description = Fait briller le soleil pendant cinq tours, augmentant la puissance des capacités de type Feu et baissant celle des capacités de type Eau.
-#-------------------------------
-[TM47]
-Name = CT47
-NamePlural = CT47s
-Pocket = 4
-Price = 1500
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = NATURALGIFT
-Description = Avant d'attaquer, le lanceur rassemble ses forces grâce à sa Baie. Elle détermine le type et la puissance de l'attaque.
-#-------------------------------
-[TM41]
-Name = CT41
-NamePlural = CT41s
-Pocket = 4
-Price = 3000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_90
-Move = ICEBEAM
-Description = Un rayon de glace frappe l'ennemi. Peut aussi le geler.
+Move = FOCUSENERGY
+Description = Le lanceur prend une profonde inspiration et se concentre pour augmenter son taux de critiques.
 #-------------------------------
-[TM07]
-Name = CT07
-NamePlural = CT07s
-Pocket = 4
-Price = 5500
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_110
-Move = BLIZZARD
-Description = Une violente tempête de neige s'abat sur l'ennemi. Peut aussi le geler.
-#-------------------------------
-[TM24]
-Name = CT24
-NamePlural = CT24s
+[TM02]
+Name = CT02
+NamePlural = CT02s
 Pocket = 4
 Price = 2000
 BPPrice = 32
 FieldUse = TM
-Flags = Fling_10
-Move = LIGHTSCREEN
-Description = Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités spéciales pendant cinq tours.
+Flags = Fling_90
+Move = ACROBATICS
+Description = Attaque agile. Si le lanceur ne tient pas d'objet, l'attaque inflige davantage de dégâts.
 #-------------------------------
 [TM03]
 Name = CT03
@@ -3392,27 +3271,16 @@ Flags = Fling_10
 Move = RAINDANCE
 Description = Invoque de fortes pluies qui durent cinq tours, augmentant la puissance des capacités de type Eau et baissant celle des capacités de type Feu.
 #-------------------------------
-[TM52]
-Name = CT52
-NamePlural = CT52s
+[TM04]
+Name = CT04
+NamePlural = CT04s
 Pocket = 4
-Price = 3000
+Price = 2000
 BPPrice = 32
 FieldUse = TM
-Flags = Fling_75
-Move = GIGADRAIN
-Description = Une attaque qui convertit la moitié des dégâts infligés en PV pour le lanceur.
-#-------------------------------
-[TM39]
-Name = CT39
-NamePlural = CT39s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_80
-Move = DRAININGKISS
-Description = Aspire la force vitale de l'ennemi par un baiser. Rend au lanceur un nombre de PV supérieur ou égal à la moitié des dégâts infligés.
+Flags = Fling_10
+Move = STEALTHROCK
+Description = Lance des pierres flottantes autour de l'ennemi, qui blessent tout adversaire entrant au combat.
 #-------------------------------
 [TM05]
 Name = CT05
@@ -3425,60 +3293,49 @@ Flags = Fling_120
 Move = SOLARBEAM
 Description = Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant.
 #-------------------------------
-[TM20]
-Name = CT20
-NamePlural = CT20s
+[TM06]
+Name = CT06
+NamePlural = CT06s
 Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_100
-Move = IRONTAIL
-Description = Attaque l'ennemi avec une queue de fer. Peut aussi baisser sa Défense.
-#-------------------------------
-[TM29]
-Name = CT29
-NamePlural = CT29s
-Pocket = 4
-Price = 3000
+Price = 2000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_90
-Move = THUNDERBOLT
-Description = Une grosse décharge électrique tombe sur l'ennemi. Peut aussi le paralyser.
+Move = ELECTROBALL
+Description = Le lanceur envoie une boule d'électricité. Si sa Vitesse est plus grande que celle de l'ennemi, les dégâts augmentent d'autant.
 #-------------------------------
-[TM48]
-Name = CT48
-NamePlural = CT48s
+[TM07]
+Name = CT07
+NamePlural = CT07s
 Pocket = 4
 Price = 5500
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_110
-Move = THUNDER
-Description = La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser.
+Move = BLIZZARD
+Description = Une violente tempête de neige s'abat sur l'ennemi. Peut aussi le geler.
 #-------------------------------
-[TM38]
-Name = CT38
-NamePlural = CT38s
+[TM08]
+Name = CT08
+NamePlural = CT08s
 Pocket = 4
-Price = 3000
-BPPrice = 80
+Price = 2000
+BPPrice = 32
 FieldUse = TM
-Flags = Fling_100
-Move = EARTHQUAKE
-Description = Le lanceur provoque un tremblement de terre touchant tous les Pokémon autour de lui.
+Flags = Fling_90
+Move = DRAGONDANCE
+Description = Une danse mystique dont le rythme effréné augmente l'Attaque et la Vitesse du lanceur.
 #-------------------------------
-[TM51]
-Name = CT51
-NamePlural = CT51s
+[TM09]
+Name = CT09
+NamePlural = CT09s
 Pocket = 4
 Price = 3000
 BPPrice = 32
 FieldUse = TM
-Flags = Fling_65
-Move = LOWSWEEP
-Description = Un coup rapide qui affecte la mobilité de l'ennemi et diminue sa Vitesse.
+Flags = Fling_60
+Move = ROCKTOMB
+Description = Des rochers frappent l'ennemi. Réduit aussi sa Vitesse.
 #-------------------------------
 [TM10]
 Name = CT10
@@ -3491,81 +3348,49 @@ Flags = Fling_80
 Move = DIG
 Description = Le lanceur creuse au premier tour et frappe au second.
 #-------------------------------
-[TM49]
-Name = CT49
-NamePlural = CT49s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_90
-Move = PSYCHIC
-Description = Une puissante force télékinétique frappe l'ennemi. Peut aussi faire baisser sa Défense Spéciale.
-#-------------------------------
-[TM46]
-Name = CT46
-NamePlural = CT46s
-Pocket = 4
-Price = 3000
-BPPrice = 64
-FieldUse = TM
-Flags = Fling_80
-Move = SHADOWBALL
-Description = Projette une grande ombre sur l'ennemi. Peut aussi faire baisser sa Défense Spéciale.
-#-------------------------------
-[TM53]
-Name = CT53
-NamePlural = CT53s
+[TM11]
+Name = CT11
+NamePlural = CT11s
 Pocket = 4
 Price = 2000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_10
-Move = REFLECT
-Description = Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités physiques pendant cinq tours.
+Move = HAIL
+Description = Invoque une tempête de grêle qui dure cinq tours. Blesse tous les Pokémon, sauf ceux de type Glace.
 #-------------------------------
-[TM36]
-Name = CT36
-NamePlural = CT36s
+[TM12]
+Name = CT12
+NamePlural = CT12s
 Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_90
-Move = FLAMETHROWER
-Description = L'ennemi reçoit un torrent de flammes. Peut aussi le brûler.
-#-------------------------------
-[TM55]
-Name = CT55
-NamePlural = CT55s
-Pocket = 4
-Price = 3000
-BPPrice = 80
-FieldUse = TM
-Flags = Fling_90
-Move = SLUDGEBOMB
-Description = Des détritus toxiques sont projetés sur l'ennemi. Peut aussi l'empoisonner.
-#-------------------------------
-[TM45]
-Name = CT45
-NamePlural = CT45s
-Pocket = 4
-Price = 2000
+Price = 1000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_10
-Move = SANDSTORM
-Description = Une tempête de sable qui blesse tous les Pokémon pendant cinq tours, sauf ceux de type Roche, Sol ou Acier.#-------------------------------
-[TM09]
-Name = CT09
-NamePlural = CT09s
+Move = ROAR
+Description = Effraie le Pokémon ennemi et le remplace par un autre. Lors d'un combat contre un Pokémon sauvage seul, met fin au combat.
+#-------------------------------
+[TM13]
+Name = CT13
+NamePlural = CT13s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_50
+Move = CHARGEBEAM
+Description = Le lanceur tire un rayon chargé d'électricité. Peut aussi augmenter son Attaque Spéciale.
+#-------------------------------
+[TM14]
+Name = CT14
+NamePlural = CT14s
 Pocket = 4
 Price = 3000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_60
-Move = ROCKTOMB
-Description = Des rochers frappent l'ennemi. Réduit aussi sa Vitesse.
+Move = AVALANCHE
+Description = Une attaque deux fois plus puissante si le lanceur a été blessé par l'ennemi durant le tour.
 #-------------------------------
 [TM15]
 Name = CT15
@@ -3578,16 +3403,71 @@ Flags = Fling_60
 Move = AERIALACE
 Description = Le lanceur prend l'ennemi de vitesse et le lacère. N'échoue jamais.
 #-------------------------------
-[TM40]
-Name = CT40
-NamePlural = CT40s
+[TM16]
+Name = CT16
+NamePlural = CT16s
+Pocket = 4
+Price = 1500
+BPPrice = 48
+FieldUse = TM
+Flags = Fling_10
+Move = CALMMIND
+Description = Le lanceur se concentre et fait le vide dans son esprit pour augmenter son Attaque Spéciale et sa Défense Spéciale.
+#-------------------------------
+[TM17]
+Name = CT17
+NamePlural = CT17s
+Pocket = 4
+Price = 1000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = FLASH
+Description = Une explosion lumineuse qui baisse la Précision de l'ennemi. Permet aussi d'éclairer les grottes trop sombres.
+#-------------------------------
+[TM18]
+Name = CT18
+NamePlural = CT18s
 Pocket = 4
 Price = 3000
 BPPrice = 32
 FieldUse = TM
-Flags = Fling_70
-Move = VOLTSWITCH
-Description = Après son attaque, le lanceur revient à toute vitesse et change de place avec un Pokémon de l'équipe prêt au combat.
+Flags = Fling_60
+Move = WATERPULSE
+Description = Le lanceur envoie un puissant jet d'eau sur l'ennemi. Peut le rendre confus.
+#-------------------------------
+[TM19]
+Name = CT19
+NamePlural = CT19s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = GRASSKNOT
+Description = L'ennemi est piégé dans de l'herbe qui le fait trébucher. Plus il est lourd, plus il subit de dégâts.
+#-------------------------------
+[TM20]
+Name = CT20
+NamePlural = CT20s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_100
+Move = IRONTAIL
+Description = Attaque l'ennemi avec une queue de fer. Peut aussi baisser sa Défense.
+#-------------------------------
+[TM21]
+Name = CT21
+NamePlural = CT21s
+Pocket = 4
+Price = 1500
+BPPrice = 48
+FieldUse = TM
+Flags = Fling_10
+Move = BULKUP
+Description = Le lanceur tend ses muscles pour se gonfler, ce qui booste son Attaque et sa Défense.
 #-------------------------------
 [TM22]
 Name = CT22
@@ -3611,170 +3491,16 @@ Flags = Fling_80
 Move = SCALD
 Description = L'ennemi est attaqué par un jet d'eau bouillante. Peut aussi le brûler.
 #-------------------------------
-[TM35]
-Name = CT35
-NamePlural = CT35s
-Pocket = 4
-Price = 5500
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_120
-Move = FOCUSBLAST
-Description = Le lanceur rassemble ses forces et laisse éclater son pouvoir. Peut aussi baisser la Défense Spéciale de l'ennemi.
-#-------------------------------
-[TM13]
-Name = CT13
-NamePlural = CT13s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_50
-Move = CHARGEBEAM
-Description = Le lanceur tire un rayon chargé d'électricité. Peut aussi augmenter son Attaque Spéciale.
-#-------------------------------
-[TM54]
-Name = CT54
-NamePlural = CT54s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_75
-Move = DRAINPUNCH
-Description = Un coup de poing qui draine l'énergie. Convertit la moitié des dégâts infligés en PV pour le lanceur.
-#-------------------------------
-[TM33]
-Name = CT33
-NamePlural = CT33s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_90
-Move = BUGBUZZ
-Description = Le lanceur fait vibrer son corps pour lancer une vague sonique. Peut aussi baisser la Défense Spéciale de l'ennemi.
-#-------------------------------
-[TM43]
-Name = CT43
-NamePlural = CT43s
+[TM24]
+Name = CT24
+NamePlural = CT24s
 Pocket = 4
 Price = 2000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_10
-Move = NASTYPLOT
-Description = Stimule l'esprit par de mauvaises pensées. Augmente beaucoup l'Attaque Spéciale du lanceur.
-#-------------------------------
-[TM34]
-Name = CT34
-NamePlural = CT34s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_70
-Move = SHADOWCLAW
-Description = Attaque avec une griffe puissante faite d'ombres. Taux de critiques élevé.
-#-------------------------------
-[TM26]
-Name = CT26
-NamePlural = CT26s
-Pocket = 4
-Price = 1000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = RECYCLE
-Description = Recycle un objet tenu à usage unique déjà utilisé lors du combat pour pouvoir l'utiliser à nouveau.
-#-------------------------------
-[TM17]
-Name = CT17
-NamePlural = CT17s
-Pocket = 4
-Price = 1000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = FLASH
-Description = Une explosion lumineuse qui baisse la Précision de l'ennemi. Permet aussi d'éclairer les grottes trop sombres.
-#-------------------------------
-[TM32]
-Name = CT32
-NamePlural = CT32s
-Pocket = 4
-Price = 3000
-BPPrice = 80
-FieldUse = TM
-Flags = Fling_100
-Move = STONEEDGE
-Description = Fait surgir des pierres aiguisées sous l'ennemi. Taux de critiques élevé.
-#-------------------------------
-[TM14]
-Name = CT14
-NamePlural = CT14s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_60
-Move = AVALANCHE
-Description = Une attaque deux fois plus puissante si le lanceur a été blessé par l'ennemi durant le tour.
-#-------------------------------
-[TM37]
-Name = CT37
-NamePlural = CT37s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = GYROBALL
-Description = Le lanceur effectue une rotation et frappe l'ennemi. Plus la Vitesse du lanceur est basse, plus il inflige de dégâts.
-#-------------------------------
-[TM56]
-Name = CT56
-NamePlural = CT56s
-Pocket = 4
-Price = 1500
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = SWORDSDANCE
-Description = Une danse frénétique qui exalte l'esprit combatif. Augmente beaucoup l'Attaque du lanceur.
-#-------------------------------
-[TM04]
-Name = CT04
-NamePlural = CT04s
-Pocket = 4
-Price = 2000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = STEALTHROCK
-Description = Lance des pierres flottantes autour de l'ennemi, qui blessent tout adversaire entrant au combat.
-#-------------------------------
-[TM57]
-Name = CT57
-NamePlural = CT57s
-Pocket = 4
-Price = 1500
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_10
-Move = PSYCHUP
-Description = Une autohypnose qui permet au lanceur de copier les changements de stats de la cible.
-#-------------------------------
-[TM28]
-Name = CT28
-NamePlural = CT28s
-Pocket = 4
-Price = 3000
-BPPrice = 32
-FieldUse = TM
-Flags = Fling_80
-Move = DARKPULSE
-Description = Le lanceur dégage une horrible aura chargée de pensées maléfiques. Peut aussi apeurer l'ennemi.
+Move = LIGHTSCREEN
+Description = Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités spéciales pendant cinq tours.
 #-------------------------------
 [TM25]
 Name = CT25
@@ -3787,16 +3513,181 @@ Flags = Fling_60
 Move = BULLDOZE
 Description = Le lanceur piétine le sol et inflige des dégâts à tous les Pokémon autour de lui. Baisse aussi leur Vitesse.
 #-------------------------------
-[TM19]
-Name = CT19
-NamePlural = CT19s
+[TM26]
+Name = CT26
+NamePlural = CT26s
+Pocket = 4
+Price = 1000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = RECYCLE
+Description = Recycle un objet tenu à usage unique déjà utilisé lors du combat pour pouvoir l'utiliser à nouveau.
+#-------------------------------
+[TM27]
+Name = CT27
+NamePlural = CT27s
 Pocket = 4
 Price = 3000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_10
-Move = GRASSKNOT
-Description = L'ennemi est piégé dans de l'herbe qui le fait trébucher. Plus il est lourd, plus il subit de dégâts.
+Move = TOXIC
+Description = Empoisonne gravement l'ennemi. Les dégâts dus au poison augmentent à chaque tour.
+#-------------------------------
+[TM28]
+Name = CT28
+NamePlural = CT28s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_80
+Move = DARKPULSE
+Description = Le lanceur dégage une horrible aura chargée de pensées maléfiques. Peut aussi apeurer l'ennemi.
+#-------------------------------
+[TM29]
+Name = CT29
+NamePlural = CT29s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_90
+Move = THUNDERBOLT
+Description = Une grosse décharge électrique tombe sur l'ennemi. Peut aussi le paralyser.
+#-------------------------------
+[TM30]
+Name = CT30
+NamePlural = CT30s
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = SUNNYDAY
+Description = Fait briller le soleil pendant cinq tours, augmentant la puissance des capacités de type Feu et baissant celle des capacités de type Eau.
+#-------------------------------
+[TM31]
+Name = CT31
+NamePlural = CT31s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_80
+Move = DRAGONCLAW
+Description = Le lanceur lacère l'ennemi de ses grandes griffes aiguisées.
+#-------------------------------
+[TM32]
+Name = CT32
+NamePlural = CT32s
+Pocket = 4
+Price = 3000
+BPPrice = 80
+FieldUse = TM
+Flags = Fling_100
+Move = STONEEDGE
+Description = Fait surgir des pierres aiguisées sous l'ennemi. Taux de critiques élevé.
+#-------------------------------
+[TM33]
+Name = CT33
+NamePlural = CT33s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_90
+Move = BUGBUZZ
+Description = Le lanceur fait vibrer son corps pour lancer une vague sonique. Peut aussi baisser la Défense Spéciale de l'ennemi.
+#-------------------------------
+[TM34]
+Name = CT34
+NamePlural = CT34s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_70
+Move = SHADOWCLAW
+Description = Attaque avec une griffe puissante faite d'ombres. Taux de critiques élevé.
+#-------------------------------
+[TM35]
+Name = CT35
+NamePlural = CT35s
+Pocket = 4
+Price = 5500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_120
+Move = FOCUSBLAST
+Description = Le lanceur rassemble ses forces et laisse éclater son pouvoir. Peut aussi baisser la Défense Spéciale de l'ennemi.
+#-------------------------------
+[TM36]
+Name = CT36
+NamePlural = CT36s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_90
+Move = FLAMETHROWER
+Description = L'ennemi reçoit un torrent de flammes. Peut aussi le brûler.
+#-------------------------------
+[TM37]
+Name = CT37
+NamePlural = CT37s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = GYROBALL
+Description = Le lanceur effectue une rotation et frappe l'ennemi. Plus la Vitesse du lanceur est basse, plus il inflige de dégâts.
+#-------------------------------
+[TM38]
+Name = CT38
+NamePlural = CT38s
+Pocket = 4
+Price = 3000
+BPPrice = 80
+FieldUse = TM
+Flags = Fling_100
+Move = EARTHQUAKE
+Description = Le lanceur provoque un tremblement de terre touchant tous les Pokémon autour de lui.
+#-------------------------------
+[TM39]
+Name = CT39
+NamePlural = CT39s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_80
+Move = DRAININGKISS
+Description = Aspire la force vitale de l'ennemi par un baiser. Rend au lanceur un nombre de PV supérieur ou égal à la moitié des dégâts infligés.
+#-------------------------------
+[TM40]
+Name = CT40
+NamePlural = CT40s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_70
+Move = VOLTSWITCH
+Description = Après son attaque, le lanceur revient à toute vitesse et change de place avec un Pokémon de l'équipe prêt au combat.
+#-------------------------------
+[TM41]
+Name = CT41
+NamePlural = CT41s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_90
+Move = ICEBEAM
+Description = Un rayon de glace frappe l'ennemi. Peut aussi le geler.
 #-------------------------------
 [TM42]
 Name = CT42
@@ -3809,49 +3700,82 @@ Flags = Fling_80
 Move = FLASHCANNON
 Description = Le lanceur concentre son énergie lumineuse et la fait exploser. Peut aussi baisser la Défense Spéciale de l'ennemi.
 #-------------------------------
-[TM01]
-Name = CT01
-NamePlural = CT01s
+[TM43]
+Name = CT43
+NamePlural = CT43s
 Pocket = 4
 Price = 2000
 BPPrice = 32
 FieldUse = TM
-Flags = Fling_90
-Move = FOCUSENERGY
-Description = Le lanceur prend une profonde inspiration et se concentre pour augmenter son taux de critiques.
+Flags = Fling_10
+Move = NASTYPLOT
+Description = Stimule l'esprit par de mauvaises pensées. Augmente beaucoup l'Attaque Spéciale du lanceur.
 #-------------------------------
-[TM02]
-Name = CT02
-NamePlural = CT02s
+[TM44]
+Name = CT44
+NamePlural = CT44s
 Pocket = 4
 Price = 2000
 BPPrice = 32
 FieldUse = TM
-Flags = Fling_90
-Move = ACROBATICS
-Description = Attaque agile. Si le lanceur ne tient pas d'objet, l'attaque inflige davantage de dégâts.
+Flags = Fling_25
+Move = BULLETSEED
+Description = Le lanceur mitraille la cible avec une rafale de graines cinq fois d'affilée.
 #-------------------------------
-[TM06]
-Name = CT06
-NamePlural = CT06s
+[TM45]
+Name = CT45
+NamePlural = CT45s
 Pocket = 4
 Price = 2000
 BPPrice = 32
 FieldUse = TM
-Flags = Fling_90
-Move = ELECTROBALL
-Description = Le lanceur envoie une boule d'électricité. Si sa Vitesse est plus grande que celle de l'ennemi, les dégâts augmentent d'autant.
+Flags = Fling_10
+Move = SANDSTORM
+Description = Une tempête de sable qui blesse tous les Pokémon pendant cinq tours, sauf ceux de type Roche, Sol ou Acier.
 #-------------------------------
-[TM08]
-Name = CT08
-NamePlural = CT08s
+[TM46]
+Name = CT46
+NamePlural = CT46s
 Pocket = 4
-Price = 2000
+Price = 3000
+BPPrice = 64
+FieldUse = TM
+Flags = Fling_80
+Move = SHADOWBALL
+Description = Projette une grande ombre sur l'ennemi. Peut aussi faire baisser sa Défense Spéciale.
+#-------------------------------
+[TM47]
+Name = CT47
+NamePlural = CT47s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = NATURALGIFT
+Description = Avant d'attaquer, le lanceur rassemble ses forces grâce à sa Baie. Elle détermine le type et la puissance de l'attaque.
+#-------------------------------
+[TM48]
+Name = CT48
+NamePlural = CT48s
+Pocket = 4
+Price = 5500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_110
+Move = THUNDER
+Description = La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser.
+#-------------------------------
+[TM49]
+Name = CT49
+NamePlural = CT49s
+Pocket = 4
+Price = 3000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_90
-Move = DRAGONDANCE
-Description = Une danse mystique dont le rythme effréné augmente l'Attaque et la Vitesse du lanceur.
+Move = PSYCHIC
+Description = Une puissante force télékinétique frappe l'ennemi. Peut aussi faire baisser sa Défense Spéciale.
 #-------------------------------
 [TM50]
 Name = CT50
@@ -3863,6 +3787,83 @@ FieldUse = TM
 Flags = Fling_90
 Move = OUTRAGE
 Description = Le lanceur enrage et attaque pendant deux ou trois tours avant de devenir confus.
+#-------------------------------
+[TM51]
+Name = CT51
+NamePlural = CT51s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_65
+Move = LOWSWEEP
+Description = Un coup rapide qui affecte la mobilité de l'ennemi et diminue sa Vitesse.
+#-------------------------------
+[TM52]
+Name = CT52
+NamePlural = CT52s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_75
+Move = GIGADRAIN
+Description = Une attaque qui convertit la moitié des dégâts infligés en PV pour le lanceur.
+#-------------------------------
+[TM53]
+Name = CT53
+NamePlural = CT53s
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = REFLECT
+Description = Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités physiques pendant cinq tours.
+#-------------------------------
+[TM54]
+Name = CT54
+NamePlural = CT54s
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_75
+Move = DRAINPUNCH
+Description = Un coup de poing qui draine l'énergie. Convertit la moitié des dégâts infligés en PV pour le lanceur.
+#-------------------------------
+[TM55]
+Name = CT55
+NamePlural = CT55s
+Pocket = 4
+Price = 3000
+BPPrice = 80
+FieldUse = TM
+Flags = Fling_90
+Move = SLUDGEBOMB
+Description = Des détritus toxiques sont projetés sur l'ennemi. Peut aussi l'empoisonner.
+#-------------------------------
+[TM56]
+Name = CT56
+NamePlural = CT56s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = SWORDSDANCE
+Description = Une danse frénétique qui exalte l'esprit combatif. Augmente beaucoup l'Attaque du lanceur.
+#-------------------------------
+[TM57]
+Name = CT57
+NamePlural = CT57s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = PSYCHUP
+Description = Une autohypnose qui permet au lanceur de copier les changements de stats de la cible.
 #-------------------------------
 [HM01]
 Name = CS01
