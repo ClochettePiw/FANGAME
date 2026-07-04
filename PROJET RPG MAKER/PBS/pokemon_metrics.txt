@@ -620,7 +620,7 @@ ShadowSize = 2
 #-------------------------------
 [KROKOROK]
 BackSprite = 0,22
-FrontSprite = 5,19
+FrontSprite = -8,17
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
