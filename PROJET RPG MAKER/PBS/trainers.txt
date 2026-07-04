@@ -2981,7 +2981,7 @@ Pokemon = CLAWITZER,53
 #-------------------------------
 [ISAAC2,Isaac,1]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = ***
+LoseText = Wouah, tu es vraiment devenu super fort…
 Pokemon = CHANDELURE,55
     Moves = OVERHEAT,MEMENTO,SHADOWBALL,SAFEGUARD
     AbilityIndex = 1
