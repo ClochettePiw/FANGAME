@@ -2338,7 +2338,7 @@ Pokemon = PELIPPER,44
 [PKMNRANGERM,Alban]
 LoseText = Tu peux passer, mais ne t'avise pas de déranger l'écosystème !
 Pokemon = CETODDLE,40
-Pokemon = BERGMITE,40
+Pokemon = VANILLISH,40
 Pokemon = GOGOAT,41
 #-------------------------------
 [SWIMMERM,Elior]
@@ -2981,7 +2981,7 @@ Pokemon = CLAWITZER,53
 #-------------------------------
 [ISAAC2,Isaac,1]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = ***
+LoseText = Wouah, tu es vraiment devenu super fort…
 Pokemon = CHANDELURE,55
     Moves = OVERHEAT,MEMENTO,SHADOWBALL,SAFEGUARD
     AbilityIndex = 1
