@@ -1985,7 +1985,7 @@ Target = NearOther
 FunctionCode = RecoilThirdOfDamageDealtBurnTarget
 Flags = Contact,CanProtect,CanMirrorMove,ThawsUser
 EffectChance = 10
-Description = Le lanceur s'embrase avant de charger l'ennemi. Le choc blesse aussi gravement le lanceur. Peut brûler l'ennemi.
+Description = Le lanceur s'embrase avant de charger l'ennemi. Le choc blesse gravement le lanceur. Peut brûler l'ennemi.
 #-------------------------------
 [FIREBLAST]
 Name = Déflagration
@@ -6506,8 +6506,7 @@ Accuracy = 0
 TotalPP = 10
 Target = BothSides
 FunctionCode = StartSandstormWeather
-Description = Une tempête de sable qui blesse tous les Pokémon pendant cinq tours, sauf ceux de type Roche, Sol ou Acier. Augmente la Défense Spéciale des Pokémon Roche.
-#-------------------------------
+Description = Une tempête de sable qui blesse tous les Pokémon pendant cinq tours, sauf ceux de type Roche, Sol ou Acier.#-------------------------------
 [STEALTHROCK]
 Name = Piège de Roc
 Type = ROCK
@@ -7177,3 +7176,35 @@ TotalPP = 10
 Target = User
 FunctionCode = RaiseUserAtk1Spd2
 Description = Le lanceur fait tourner ses engrenages. Cela augmente son Attaque et augmente beaucoup sa Vitesse.
+#-------------------------------
+[RISINGVOLTAGE]
+Name = Monte-Tension
+Type = ELECTRIC
+Category = Special
+Power = 70
+Accuracy = 100
+TotalPP = 20
+Target = NearOther
+FunctionCode = DoublePowerInElectricTerrain
+Flags = CanProtect,CanMirrorMove
+Description = Des éclairs surgissent du sol et frappent l'ennemi. La puissance est doublée sur un Champ Électrifié.
+#-------------------------------
+[GEARUP]
+Name = Engrenage
+Type = STEEL
+Category = Status
+Accuracy = 0
+TotalPP = 20
+Target = UserAndAllies
+FunctionCode = RaisePlusMinusUserAndAlliesAtkSpAtk1
+Description = Change de réglage pour augmenter l'Attaque et l'Attaque Spéciale des alliés ayant les talents Plus ou Moins.
+#-------------------------------
+[MAGNETICFLUX]
+Name = Magné-Contrôle
+Type = ELECTRIC
+Category = Status
+Accuracy = 0
+TotalPP = 20
+Target = UserAndAllies
+FunctionCode = RaisePlusMinusUserAndAlliesDefSpDef1
+Description = Manipule les champs magnétiques pour augmenter la Défense et la Défense Spéciale des Pokémon alliés dotés du talent Plus ou du talent Moins.

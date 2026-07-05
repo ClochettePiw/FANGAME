@@ -1391,3 +1391,21 @@ BackSprite = 0,30
 FrontSprite = -5,0
 ShadowX = 0
 ShadowSize = 3
+#-------------------------------
+[KLANG]
+BackSprite = 0,30
+FrontSprite = -2,11
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[KLINKLANG]
+BackSprite = 0,30
+FrontSprite = 2,5
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[KLINK]
+BackSprite = 0,30
+FrontSprite = -3,15
+ShadowX = 0
+ShadowSize = 1
