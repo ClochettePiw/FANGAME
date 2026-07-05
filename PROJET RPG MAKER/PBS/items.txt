@@ -1346,6 +1346,24 @@ BPPrice = 5
 Flags = Fling_30
 Description = Un croc particulièrement tranchant et pointu qui semble capable de percer n'importe quoi. Peut apeurer l'ennemi lorsque le porteur subit des dégâts.
 #-------------------------------
+[MAGMARIZER]
+Name = Magmariseur
+NamePlural = Magmariseurs
+Pocket = 1
+Price = 5000
+BPPrice = 5
+Flags = Fling_30
+Description = Une boîte remplie d'une énorme quantité d'énergie magmatique. Appréciée d'un certain Pokémon.
+#-------------------------------
+[ELECTIRIZER]
+Name = Électriseur
+NamePlural = Magmariseurs
+Pocket = 1
+Price = 5000
+BPPrice = 5
+Flags = Fling_30
+Description = Une boîte remplie d'une énorme quantité d'énergie électrique. Appréciée d'un certain Pokémon.
+#-------------------------------
 [LAGGINGTAIL]
 Name = Ralentiqueue
 NamePlural = Ralentiqueues

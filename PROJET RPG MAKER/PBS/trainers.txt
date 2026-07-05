@@ -1789,7 +1789,7 @@ Pokemon = STARMIE,36
 #-------------------------------
 [MONKM,Vivien]
 LoseText = Une partie de moi s'y attendait...
-Pokemon = MIENFOO,34
+Pokemon = MEDITITE,34
 Pokemon = EXEGGUTOR,35
 #-------------------------------
 [PIRATEF,Jenny]
@@ -2041,7 +2041,7 @@ Pokemon = DURANT,36
 [BLACKBELT,Kassim]
 LoseText = Ma détermination a vacillé.
 Pokemon = COMBUSKEN,34
-Pokemon = MIENFOO,37
+Pokemon = MEDITITE,37
 #-------------------------------
 [SWIMMERM,Gaston]
 LoseText = Les combats ne sont pas ma tasse de thé.
@@ -2165,7 +2165,7 @@ Pokemon = WOCHIEN,45
 [MONKM,Roméo]
 LoseText = Tu m'as déstabilisé !
 Pokemon = MUNNA,35
-Pokemon = MIENFOO,35
+Pokemon = MEDITITE,35
 Pokemon = WYRDEER,36
 #-------------------------------
 [SCIENTISTM,Vincent]
@@ -2856,7 +2856,7 @@ Pokemon = HELIOLISK,37
 [BLACKBELT,Benoît]
 LoseText = Je vois que ce n'est pas le hasard qui t'a mené ici.
 Pokemon = CRABRAWLER,46
-Pokemon = MIENSHAO,50
+Pokemon = MEDICHAM,50
 #-------------------------------
 [ACETRAINERWM,Arthus]
 LoseText = En tout cas, tu as l'art de me mettre dans l'embarras…
@@ -3062,9 +3062,9 @@ Pokemon = PALAFIN,61
     Item = BIGROOT
     Gender = male
     IV = 31,31,31,31,31,31
-Pokemon = MIENSHAO,59
-    Moves = DRAINPUNCH,BOUNCE,UTURN,TRIPLEAXEL
-    AbilityIndex = 1
+Pokemon = MEDICHAM,59
+    Moves = DRAINPUNCH,HIGHJUMPKICK,BULLETPUNCH,ICEPUNCH
+    AbilityIndex = 0
     Item = ASSAULTVEST
     Gender = female
     IV = 31,31,31,31,31,31
