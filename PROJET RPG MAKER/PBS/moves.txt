@@ -7208,3 +7208,27 @@ TotalPP = 20
 Target = UserAndAllies
 FunctionCode = RaisePlusMinusUserAndAlliesDefSpDef1
 Description = Manipule les champs magnétiques pour augmenter la Défense et la Défense Spéciale des Pokémon alliés dotés du talent Plus ou du talent Moins.
+#-------------------------------
+[DRAGONHAMMER]
+Name = Draco-Marteau
+Type = DRAGON
+Category = Physical
+Power = 90
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = Contact,CanProtect,CanMirrorMove
+Description = Le lanceur utilise son corps comme un véritable marteau pour écraser sa cible.
+#-------------------------------
+[DRAGONDARTS]
+Name = Draco-Flèches
+Type = DRAGON
+Category = Physical
+Power = 50
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = HitTwoTimesTargetThenTargetAlly
+Flags = CanProtect,CanMirrorMove
+Description = Le lanceur attaque en propulsant deux Fantyrm. S'il y a deux cibles, chacune d'entre elles est frappée par un Fantyrm.
