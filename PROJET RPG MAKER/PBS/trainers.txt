@@ -2335,7 +2335,7 @@ Pokemon = LUNATONE,40
 LoseText = Voilà qui a jeté un froid.
 Pokemon = PELIPPER,44
 #-------------------------------
-[PKMNRANGERM,Alban]
+[PKMNRANGERM,Albert]
 LoseText = Tu peux passer, mais ne t'avise pas de déranger l'écosystème !
 Pokemon = CETODDLE,40
 Pokemon = VANILLISH,40
