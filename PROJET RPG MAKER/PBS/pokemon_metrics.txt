@@ -1349,3 +1349,45 @@ BackSprite = -3,44
 FrontSprite = 0,21
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[ENAMORUS]
+BackSprite = 0,0
+FrontSprite = 2,3
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[ENAMORUS,1]
+BackSprite = 0,0
+FrontSprite = 1,12
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[TORNADUS]
+BackSprite = 0,30
+FrontSprite = -5,0
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[TORNADUS,1]
+BackSprite = 0,30
+FrontSprite = 11,5
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[LANDORUS]
+BackSprite = 0,30
+FrontSprite = -5,7
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[LANDORUS,1]
+BackSprite = 0,30
+FrontSprite = 0,15
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[THUNDURUS]
+BackSprite = 0,30
+FrontSprite = -5,0
+ShadowX = 0
+ShadowSize = 3

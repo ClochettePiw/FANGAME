@@ -72,9 +72,45 @@ FormName = Low Key Form
 Abilities = PUNKROCK,MINUS
 Moves = 0,SPARK,1,EERIEIMPULSE,1,BELCH,1,TEARFULLOOK,1,NUZZLE,1,GROWL,1,FLAIL,1,ACID,1,THUNDERSHOCK,1,ACIDSPRAY,1,LEER,1,NOBLEROAR,4,CHARGE,8,SHOCKWAVE,12,SCARYFACE,16,TAUNT,20,VENOMDRENCH,24,SCREECH,28,SWAGGER,32,TOXIC,36,DISCHARGE,40,POISONJAB,44,OVERDRIVE,48,BOOMBURST,52,SHIFTGEAR
 TutorMoves = ATTRACT,CAPTIVATE,CONFIDE,DOUBLEEDGE,DOUBLETEAM,DRAINPUNCH,EERIEIMPULSE,ELECTROBALL,ENCORE,ENDURE,FACADE,FIREPUNCH,FLING,FRUSTRATION,GIGAIMPACT,GUNKSHOT,HEX,HIDDENPOWER,HYPERBEAM,HYPERVOICE,MEGAKICK,MEGAPUNCH,MIMIC,NATURALGIFT,PAYBACK,POISONJAB,PROTECT,REST,RETURN,ROUND,SCARYFACE,SCREECH,SECRETPOWER,SLEEPTALK,SLUDGEBOMB,SLUDGEWAVE,SNARL,SNORE,STOREDPOWER,SUBSTITUTE,SWAGGER,SWIFT,TAUNT,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,TOXIC,UPROAR,VENOMDRENCH,VOLTSWITCH,WILDCHARGE
-Pokedex = Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.
+Pokedex = Son organe générant de l'électricité se trouve sur son torse. Quand il est actif, il émet un son semblable à celui d'une basse.
 #-------------------------------
 [EISCUE,1]
 FormName = Noice Face
 BaseStats = 75,80,70,130,65,50
-Pokedex = The ice covering this Pokémon's face has shattered, revealing a slightly worried expression that many people are enamored with.
+Pokedex = C'est son apparence lorsque la glace sur sa tête a fondu. Nombreux sont les gens qui sont captivés par son air tourmenté.
+#-------------------------------
+[TORNADUS,1]
+FormName = Therian Forme
+BaseStats = 79,100,80,121,110,90
+EVs = SPEED,3
+Abilities = REGENERATOR
+HiddenAbilities = REGENERATOR
+Height = 1.4
+Shape = Winged
+#-------------------------------
+[THUNDURUS,1]
+FormName = Therian Forme
+BaseStats = 79,105,70,101,145,80
+EVs = SPECIAL_ATTACK,3
+Abilities = VOLTABSORB
+HiddenAbilities = VOLTABSORB
+Height = 3.0
+Shape = BipedalTail
+#-------------------------------
+[LANDORUS,1]
+FormName = Therian Forme
+BaseStats = 89,145,90,91,105,80
+EVs = ATTACK,3
+Abilities = INTIMIDATE
+HiddenAbilities = INTIMIDATE
+Height = 1.3
+Shape = Quadruped
+#-------------------------------
+[ENAMORUS,1]
+FormName = Therian Forme
+BaseStats = 74,115,110,46,135,100
+EVs = SPECIAL_ATTACK,3
+Abilities = OVERCOAT
+HiddenAbilities = OVERCOAT
+Height = 1.6
+Shape = Quadruped
