@@ -5595,8 +5595,8 @@ Weight = 6.5
 Color = Brown
 Shape = Quadruped
 Habitat = Urban
-Category = Evolution
-Pokedex = An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
+Category = Évolutif
+Pokedex = Cette espèce est capable d'évoluer de moult façons. On pense qu'elle détient la clé du secret de l'évolution des Pokémon.
 Generation = 1
 Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,LEAFEON,LocationFlag,MossRock,GLACEON,Item,ICESTONE,GLACEON,LocationFlag,IceRock,SYLVEON,HappinessMoveType,FAIRY,ESPEON,HappinessDay,,UMBREON,HappinessNight,
 #-------------------------------
@@ -5621,8 +5621,8 @@ Weight = 29.0
 Color = Blue
 Shape = Quadruped
 Habitat = Urban
-Category = Bubble Jet
-Pokedex = Vaporeon underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.
+Category = Bulleur
+Pokedex = Sa structure cellulaire est similaire à la composition moléculaire de l'eau. Une fois dans cet élément, il devient indétectable à l'œil nu.
 Generation = 1
 #-------------------------------
 [JOLTEON]
@@ -5646,8 +5646,8 @@ Weight = 24.5
 Color = Yellow
 Shape = Quadruped
 Habitat = Urban
-Category = Lightning
-Pokedex = Its cells generate weak power that is amplified by its fur's static electricity to drop thunderbolts. The bristling fur is made of electrically charged needles.
+Category = Orage
+Pokedex = Il concentre la faible charge électrique générée par chacune de ses cellules pour projeter de puissants éclairs.
 Generation = 1
 #-------------------------------
 [FLAREON]
@@ -5671,8 +5671,8 @@ Weight = 25.0
 Color = Red
 Shape = Quadruped
 Habitat = Urban
-Category = Flame
-Pokedex = Flareon's fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F.
+Category = Flamme
+Pokedex = Il possède un organe en forme de poche dans lequel brûlent des flammes. Celles-ci sont attisées par l'air inspiré, et leur température peut atteindre 1 700°C.
 Generation = 1
 #-------------------------------
 [ESPEON]
@@ -5696,8 +5696,8 @@ Weight = 26.5
 Color = Purple
 Shape = Quadruped
 Habitat = Urban
-Category = Sun
-Pokedex = An Espeon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.
+Category = Soleil
+Pokedex = Le joyau sur son front accumule de la force psychique lorsqu'il est exposé à la lumière du soleil. Sa fourrure délicate détecte les vibrations de l'air.
 Generation = 2
 #-------------------------------
 [UMBREON]
@@ -5721,8 +5721,8 @@ Weight = 27.0
 Color = Black
 Shape = Quadruped
 Habitat = Urban
-Category = Moonlight
-Pokedex = Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.
+Category = Lune
+Pokedex = Il est plus actif au milieu de la nuit, quand le monde est baigné par le clair de lune. Ses grands yeux distinguent aisément ses proies dans l'obscurité.
 Generation = 2
 #-------------------------------
 [LEAFEON]
@@ -5745,8 +5745,8 @@ Height = 1.0
 Weight = 25.5
 Color = Green
 Shape = Quadruped
-Category = Verdant
-Pokedex = Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.
+Category = Verdoyant
+Pokedex = Comme une plante, il utilise la photosynthèse, c'est pourquoi il est toujours entouré d'air pur.
 Generation = 4
 #-------------------------------
 [GLACEON]
@@ -5769,8 +5769,8 @@ Height = 0.8
 Weight = 25.9
 Color = Blue
 Shape = Quadruped
-Category = Fresh Snow
-Pokedex = As a protective technique, it can completely freeze its fur to make its hairs stand like needles.
+Category = Poudreuse
+Pokedex = Il ajuste la température de son corps pour geler l'air autour de lui et faire tomber une pluie de cristaux de glace.
 Generation = 4
 #-------------------------------
 [SYLVEON]
@@ -5793,8 +5793,8 @@ Height = 1.0
 Weight = 23.5
 Color = Pink
 Shape = Quadruped
-Category = Intertwining
-Pokedex = Its ribbonlike feelers give off an aura that weakens hostility in its prey, causing them to let down their guard. Then it attacks.
+Category = Attachant
+Pokedex = Ses antennes en forme de ruban émettent des ondes apaisantes en direction de ses adversaires et neutralisent toute hostilité.
 Generation = 6
 #-------------------------------
 [RUFFLET]
@@ -5817,8 +5817,8 @@ Height = 0.5
 Weight = 10.5
 Color = White
 Shape = Winged
-Category = Eaglet
-Pokedex = They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.
+Category = Aiglon
+Pokedex = Même s'il a l'apparence d'un frêle oisillon, il est fort impétueux. Avide de prouver sa force, il affronte ses parents à la moindre occasion.
 Generation = 5
 Evolutions = BRAVIARY,Level,54
 #-------------------------------
@@ -5842,8 +5842,8 @@ Height = 1.5
 Weight = 41.0
 Color = Red
 Shape = Winged
-Category = Valiant
-Pokedex = The more scars they have, the more respect these brave soldiers of the sky get from their peers.
+Category = Vaillant
+Pokedex = Un guerrier du ciel, brave et intrépide. Pour les siens, il combat au mépris du danger, sans jamais fléchir.
 Generation = 5
 #-------------------------------
 [VULLABY]
@@ -5867,8 +5867,8 @@ Height = 0.5
 Weight = 9.0
 Color = Brown
 Shape = Winged
-Category = Diapered
-Pokedex = They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.
+Category = Couche
+Pokedex = Ils protègent leur derrière en portant un crâne comme couche. Ils se disputent les plus douillets d'entre eux.
 Generation = 5
 Evolutions = MANDIBUZZ,Level,54
 #-------------------------------
@@ -5892,8 +5892,8 @@ Height = 1.2
 Weight = 39.5
 Color = Brown
 Shape = Winged
-Category = Bone Vulture
-Pokedex = Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.
+Category = Vostour
+Pokedex = Il se pare d'ossements qu'il a ramassés. Il semblerait qu'il choisisse la forme des os qu'il porte selon les dernières tendances.
 Generation = 5
 #-------------------------------
 [DITTO]
@@ -5916,8 +5916,8 @@ Weight = 4.0
 Color = Purple
 Shape = Head
 Habitat = Urban
-Category = Transform
-Pokedex = A Ditto rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.
+Category = Morphing
+Pokedex = Il excelle dans l'art de la métamorphose, mais si on le fait rire, il ne pourra rester déguisé.
 Generation = 1
 WildItemUncommon = METALPOWDER
 #-------------------------------
@@ -5943,8 +5943,8 @@ Weight = 56.0
 Color = Green
 Shape = MultiWinged
 Habitat = Grassland
-Category = Mantis
-Pokedex = Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.
+Category = Mante
+Pokedex = Si l'on voit un grand nombre d'arbres abattus au même endroit dans une forêt, cela signifie que l'on se trouve sur le territoire d'un Insécateur.
 Generation = 1
 Evolutions = SCIZOR,TradeItem,METALCOAT
 #-------------------------------
@@ -5969,8 +5969,8 @@ Weight = 118.0
 Color = Red
 Shape = MultiWinged
 Habitat = Grassland
-Category = Pincer
-Pokedex = A Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.
+Category = Pince
+Pokedex = Ses grandes pinces représentent un tiers de son poids. Un seul coup de l'une d'entre elles peut réduire un rocher en poussière.
 Generation = 2
 #-------------------------------
 [KLEAVOR]
@@ -5994,8 +5994,8 @@ Weight = 89.0
 Color = Brown
 Shape = MultiWinged
 Habitat = Grassland
-Category = Axe
-Pokedex = A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee.
+Category = Hache
+Pokedex = Ce Pokémon rustre et violent élimine ses proies en faisant furieusement tournoyer ses grandes et lourdes haches de pierre.
 Generation = 8
 #-------------------------------
 [ELEKID]
@@ -6020,8 +6020,8 @@ Weight = 23.5
 Color = Yellow
 Shape = Bipedal
 Habitat = Grassland
-Category = Electric
-Pokedex = If it touches metal and discharges the electricity it has stored in its body, an Elekid begins swinging its arms in circles to recharge itself.
+Category = Électrique
+Pokedex = Il génère de l'électricité en faisant des moulinets avec ses bras, mais il n'a aucun moyen d'emmagasiner cette énergie.
 Generation = 2
 WildItemUncommon = ELECTIRIZER
 Evolutions = ELECTABUZZ,Level,30
@@ -6047,8 +6047,8 @@ Weight = 30.0
 Color = Yellow
 Shape = BipedalTail
 Habitat = Grassland
-Category = Electric
-Pokedex = When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use Electabuzz as lightning rods.
+Category = Électrique
+Pokedex = Ce Pokémon se repaît d'électricité. On peut l'apercevoir grimper à la cime des grands arbres à l'approche d'un orage, semblant guetter la tombée de la foudre.
 Generation = 1
 WildItemUncommon = ELECTIRIZER
 Evolutions = ELECTIVIRE,TradeItem,ELECTIRIZER
@@ -6073,8 +6073,8 @@ Height = 1.8
 Weight = 138.6
 Color = Yellow
 Shape = BipedalTail
-Category = Thunderbolt
-Pokedex = It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.
+Category = Foudrélec
+Pokedex = Quand il est excité, il tambourine sur sa poitrine. Chaque coup génère des arcs électriques et produit un roulement de tonnerre.
 Generation = 4
 WildItemUncommon = ELECTIRIZER
 #-------------------------------
@@ -6100,8 +6100,8 @@ Weight = 21.4
 Color = Red
 Shape = BipedalTail
 Habitat = Mountain
-Category = Live Coal
-Pokedex = If a Magby is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.
+Category = Charbon
+Pokedex = Ce n'est encore qu'un petit Pokémon craintif. Lorsqu'il est excité ou étonné, du feu s'échappe de son nez ou de sa bouche.
 Generation = 2
 WildItemUncommon = MAGMARIZER
 Evolutions = MAGMAR,Level,30
@@ -6127,8 +6127,8 @@ Weight = 44.5
 Color = Red
 Shape = BipedalTail
 Habitat = Mountain
-Category = Spitfire
-Pokedex = In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees.
+Category = Crache-Feu
+Pokedex = Tout son corps est en combustion permanente. Il est craint, car on dit qu'il cause des incendies.
 Generation = 1
 WildItemUncommon = MAGMARIZER
 Evolutions = MAGMORTAR,TradeItem,MAGMARIZER
@@ -6153,8 +6153,8 @@ Height = 1.6
 Weight = 68.0
 Color = Red
 Shape = BipedalTail
-Category = Blast
-Pokedex = It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.
+Category = Explosion
+Pokedex = Les boules de feu à 2 000 °C que ses bras tirent font pratiquement chauffer son corps à blanc.
 Generation = 4
 WildItemUncommon = MAGMARIZER
 #-------------------------------
@@ -6254,7 +6254,7 @@ Weight = 2.1
 Color = Blue
 Shape = Winged
 Category = Bat
-Pokedex = Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.
+Pokedex = Son nez est comme une ventouse. Il laisse une marque en forme de cœur qui, paraît-il, porte bonheur.
 Generation = 5
 Evolutions = SWOOBAT,Happiness,
 #-------------------------------
@@ -6279,7 +6279,7 @@ Weight = 10.5
 Color = Blue
 Shape = Winged
 Category = Courting
-Pokedex = Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.
+Pokedex = Certaines contrées le vénèrent et pensent que la forme de son nez est un symbole de chance et de bonheur.
 Generation = 5
 #-------------------------------
 [MIENFOO]
@@ -6354,8 +6354,8 @@ Weight = 40.3
 Color = White
 Shape = BipedalTail
 Habitat = Grassland
-Category = Cat Ferret
-Pokedex = When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any Seviper.
+Category = Chat Furet
+Pokedex = S'il vient à croiser un Séviper, son poil se hérisse et il adopte une posture de combat. Ses griffes acérées sont sa meilleure arme.
 Generation = 3
 WildItemUncommon = QUICKCLAW
 #-------------------------------
@@ -6381,8 +6381,8 @@ Weight = 52.5
 Color = Black
 Shape = Serpentine
 Habitat = Grassland
-Category = Fang Snake
-Pokedex = Seviper and Zangoose are eternal rivals. It counters a Zangoose's dazzling agility with its swordlike tail, which also oozes a horrible poison.
+Category = Serpacroc
+Pokedex = C'est l'ennemi naturel de Mangriff. Sa queue en forme de lame est bien tranchante, car il passe son temps à l'affûter sur des rochers.
 Generation = 3
 WildItemUncommon = SHEDSHELL
 #-------------------------------
@@ -6408,8 +6408,8 @@ Weight = 11.5
 Color = Red
 Shape = Insectoid
 Habitat = WatersEdge
-Category = Ruffian
-Pokedex = Once it grips prey with its large pincers, it will never let go, no matter what. It is a hardy Pokémon that can thrive in any environment.
+Category = Brute
+Pokedex = Il vient d'un pays étranger. C'est un Pokémon très résistant qui prolifère, même dans les rivières polluées.
 Generation = 3
 Evolutions = CRAWDAUNT,Level,30
 #-------------------------------
@@ -6434,8 +6434,8 @@ Weight = 32.8
 Color = Red
 Shape = Insectoid
 Habitat = WatersEdge
-Category = Rogue
-Pokedex = A brutish Pokémon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.
+Category = Crapule
+Pokedex = Ce Pokémon très coriace agite tout le temps ses énormes pinces. Il faut beaucoup de patience pour le dresser.
 Generation = 3
 #-------------------------------
 [RELICANTH]
@@ -6460,10 +6460,9 @@ Weight = 23.4
 Color = Gray
 Shape = Finned
 Habitat = Sea
-Category = Longevity
-Pokedex = A Pokémon that was once believed to be extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.
+Category = Longévité
+Pokedex = Un Pokémon rare découvert lors d'une mission d'exploration dans les abysses. Son apparence n'a pas changé depuis 100 millions d'années.
 Generation = 3
-WildItemUncommon = DEEPSEASCALE
 #-------------------------------
 [TROPIUS]
 Name = Tropius
@@ -6488,7 +6487,7 @@ Color = Green
 Shape = Quadruped
 Habitat = Forest
 Category = Fruit
-Pokedex = It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.
+Pokedex = Apparemment, son penchant pour les fruits l'a conduit à en faire pousser sur son propre corps. Il les aime tant qu'il en mange sans arrêt.
 Generation = 3
 #-------------------------------
 [DREEPY]
@@ -6512,8 +6511,8 @@ Height = 0.5
 Weight = 2.0
 Color = Green
 Shape = Serpentine
-Category = Lingering
-Pokedex = After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.
+Category = Âme Errante
+Pokedex = Il a tendance à croquer les Flingouste, alors qu'il ne s'en nourrit pas. Cette habitude serait un vestige de sa vie passée, lorsqu'il était bien vivant.
 Generation = 8
 Evolutions = DRAKLOAK,Level,50
 #-------------------------------
@@ -6537,8 +6536,8 @@ Height = 1.4
 Weight = 11.0
 Color = Green
 Shape = HeadArms
-Category = Caretaker
-Pokedex = It's capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.
+Category = Baby-sitter
+Pokedex = Il vole à une vitesse de 200 km/h et se bat aux côtés d'un Fantyrm, dont il prend soin jusqu'à son évolution.
 Generation = 8
 Evolutions = DRAGAPULT,Level,60
 #-------------------------------
@@ -6562,8 +6561,8 @@ Height = 3.0
 Weight = 50.0
 Color = Green
 Shape = BipedalTail
-Category = Stealth
-Pokedex = When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.
+Category = Furtif
+Pokedex = Le spécimen le plus rapide d'un groupe de Lanssorien est toujours entouré de Fantyrm désireux de se déplacer à la vitesse du son.
 Generation = 8
 #-------------------------------
 [TORNADUS]

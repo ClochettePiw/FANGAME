@@ -1619,3 +1619,9 @@ BackSprite = 0,36
 FrontSprite = 4,31
 ShadowX = 0
 ShadowSize = 1
+#-------------------------------
+[RELICANTH]
+BackSprite = 0,36
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 2
