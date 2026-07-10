@@ -470,7 +470,7 @@ ShadowSize = 2
 #-------------------------------
 [DACHSBUN]
 BackSprite = 0,0
-FrontSprite = 0,26
+FrontSprite = -2,25
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
@@ -650,7 +650,7 @@ ShadowSize = 1
 #-------------------------------
 [SCRAFTY]
 BackSprite = 0,31
-FrontSprite = 0,24
+FrontSprite = 0,23
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
