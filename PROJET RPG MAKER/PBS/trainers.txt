@@ -3206,9 +3206,9 @@ LoseText = Je ne pense pas que tu sois cette personne.
 Pokemon = ZANGOOSE,53
 Pokemon = HEATMOR,53
 #-------------------------------
-[BUGMANIAC,Cédric]
+[BUGMANIACM,Cédric]
 LoseText = Je sens une vraie alchimie entre ton équipe et toi.
-Pokemon = AQUARANID,52
+Pokemon = ARAQUANID,52
 Pokemon = SCYTHER,55
 #-------------------------------
 [PKMNRANGERM,Chad]
