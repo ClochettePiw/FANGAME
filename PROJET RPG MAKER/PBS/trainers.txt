@@ -3196,51 +3196,51 @@ Pokemon = URSALUNA,65
     IV = 31,31,31,31,31,31
 #-------------------------------
 [BIRDWATCHER,Guy]
-LoseText = ***
+LoseText = Mes Pokémons y ont laissé des plumes…
 Pokemon = SKARMORY,52
 Pokemon = RUFFLET,52
 Pokemon = ESPATHRA,54
 #-------------------------------
 [PKMNRANGERF,Mélodie]
-LoseText = ***
+LoseText = Je ne pense pas que tu sois cette personne.
 Pokemon = ZANGOOSE,53
 Pokemon = HEATMOR,53
 #-------------------------------
 [BUGMANIAC,Cédric]
-LoseText = ***
+LoseText = Je sens une vraie alchimie entre ton équipe et toi.
 Pokemon = AQUARANID,52
 Pokemon = SCYTHER,55
 #-------------------------------
 [PKMNRANGERM,Chad]
-LoseText = ***
+LoseText = Chaque rencontre pose un pavé façonnant le chemin de notre avenir !
 Pokemon = DURANT,53
 Pokemon = SEVIPER,53
 #-------------------------------
 [ACETRAINERWM,Émeric]
-LoseText = ***
+LoseText = Mais oui… Tout est clair !
 Pokemon = ANNIHILAPE,56
 Pokemon = TYRANITAR,56
 #-------------------------------
 [BATTLEGIRL,Natacha]
-LoseText = ***
+LoseText = Mon équipe n'était pas assez bien découverte…
 Pokemon = MIENFOO,52
 Pokemon = MEDICHAM,53
 Pokemon = BRELOOM,53
 #-------------------------------
 [BREEDERM,Lazarre]
-LoseText = ***
+LoseText = Autant de choix… Ça donne le vertige !
 Pokemon = EEVEE,48
 Pokemon = VAPOREON,50
 Pokemon = JOLTEON,50
 Pokemon = FLAREON,50
 #-------------------------------
 [ACETRAINERWF,Wendy]
-LoseText = ***
+LoseText = Même la défaite me rend heureuse aux côtés de mes Pokémons !
 Pokemon = MAGMAR,55
 Pokemon = EXEGGUTOR,57
 #-------------------------------
 [PKMNRANGERM,Germain]
-LoseText = ***
+LoseText = C'est un outrage !
 Pokemon = SANDACONDA,52
     AbilityIndex = 1
 Pokemon = CLOYSTER,53
