@@ -3194,4 +3194,54 @@ Pokemon = URSALUNA,65
     Item = SITRUSBERRY
     Gender = male
     IV = 31,31,31,31,31,31
-
+#-------------------------------
+[BIRDWATCHER,Guy]
+LoseText = ***
+Pokemon = SKARMORY,52
+Pokemon = RUFFLET,52
+Pokemon = ESPATHRA,54
+#-------------------------------
+[PKMNRANGERF,Mélodie]
+LoseText = ***
+Pokemon = ZANGOOSE,53
+Pokemon = HEATMOR,53
+#-------------------------------
+[BUGMANIAC,Cédric]
+LoseText = ***
+Pokemon = AQUARANID,52
+Pokemon = SCYTHER,55
+#-------------------------------
+[PKMNRANGERM,Chad]
+LoseText = ***
+Pokemon = DURANT,53
+Pokemon = SEVIPER,53
+#-------------------------------
+[ACETRAINERWM,Émeric]
+LoseText = ***
+Pokemon = ANNIHILAPE,56
+Pokemon = TYRANITAR,56
+#-------------------------------
+[BATTLEGIRL,Natacha]
+LoseText = ***
+Pokemon = MIENFOO,52
+Pokemon = MEDICHAM,53
+Pokemon = BRELOOM,53
+#-------------------------------
+[BREEDERM,Lazarre]
+LoseText = ***
+Pokemon = EEVEE,48
+Pokemon = VAPOREON,50
+Pokemon = JOLTEON,50
+Pokemon = FLAREON,50
+#-------------------------------
+[ACETRAINERWF,Wendy]
+LoseText = ***
+Pokemon = MAGMAR,55
+Pokemon = EXEGGUTOR,57
+#-------------------------------
+[PKMNRANGERM,Germain]
+LoseText = ***
+Pokemon = SANDACONDA,52
+    AbilityIndex = 1
+Pokemon = CLOYSTER,53
+Pokemon = PANGORO,54

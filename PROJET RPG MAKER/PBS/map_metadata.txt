@@ -1287,3 +1287,31 @@ BattleBack = E4Fairy
 [162]   # Ligue Pokémon - Maître
 Name = Ligue Pokémon
 BattleBack = champion1
+#-------------------------------
+[166]   # Riyu
+Name = Riyu
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 166,18,39
+MapPosition = 0,24,12
+BattleBack = riyu
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainers
+WildVictoryBGM = VIC-Wild
+TrainerVictoryBGM = VIC-Trainer
+WildCaptureME = Pkmn get
+#-------------------------------
+[167]   # Route 22
+Name = Route 22
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,13
+BattleBack = riyu
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainers
+WildVictoryBGM = VIC-Wild
+TrainerVictoryBGM = VIC-Trainer
+WildCaptureME = Pkmn get
+MapSize = 1,111
