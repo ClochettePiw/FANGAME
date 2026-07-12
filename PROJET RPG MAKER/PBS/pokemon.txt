@@ -5823,7 +5823,7 @@ Generation = 5
 Evolutions = BRAVIARY,Level,54
 #-------------------------------
 [BRAVIARY]
-Name = Guerriaigle
+Name = Gueriaigle
 Types = NORMAL,FLYING
 BaseStats = 100,123,75,80,57,75
 GenderRatio = AlwaysMale
