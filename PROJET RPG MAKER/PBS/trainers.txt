@@ -3245,3 +3245,54 @@ Pokemon = SANDACONDA,52
     AbilityIndex = 1
 Pokemon = CLOYSTER,53
 Pokemon = PANGORO,54
+#-------------------------------
+[PSYCHICF,Grace]
+LoseText = C'est la faute de mes ancêtres !
+Pokemon = WOOBAT,51
+Pokemon = MEDICHAM,53
+Pokemon = BRELOOM,53
+#-------------------------------
+[OFFICER,Milan]
+LoseText = Tout est en règle !
+Pokemon = BRAVIARY,55
+#-------------------------------
+[PKMNRANGERF,Olga]
+LoseText = Tu sembles savoir ce que cela signifie.
+Pokemon = ELECTABUZZ,54
+Pokemon = MAGMAR,54
+#-------------------------------
+[BUGMANIACF,Gaëlle]
+LoseText = Il est temps de filer.
+Pokemon = SCYTHER,53
+Pokemon = KLEAVOR,55
+#-------------------------------
+[BACKPACKERM,Wilson]
+LoseText = Il suffit d'être ouvert d'esprit !
+Pokemon = COPPERAJAH,52
+Pokemon = EXCADRILL,55
+#-------------------------------
+[BACKPACKERF,Christelle]
+LoseText = J'aurais dû viser plus haut.
+Pokemon = TROPIUS,53
+Pokemon = GOLURK,54
+#-------------------------------
+[ACETRAINERWM,Marius]
+LoseText = Aïe… Si près du but…
+Pokemon = HONCHKROW,54
+Pokemon = NINETALES,54
+Pokemon = FLORGES,55
+    Form = 0
+#-------------------------------
+[COLLECTOR,Raphaël]
+LoseText = Je veux dire, mon Pokémon peut en fait ressembler à n'importe quoi…
+Pokemon = DITTO,56
+
+
+
+
+
+
+
+
+
+
