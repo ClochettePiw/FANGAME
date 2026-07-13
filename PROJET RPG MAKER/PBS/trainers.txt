@@ -3157,7 +3157,7 @@ Pokemon = FLORGES,63
 #-------------------------------
 [CHAMPION,Aurèle,1]
 Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
-LoseText = Enfin, je trouve un dresseur en lequel j'ai pleinement confiance.
+LoseText = ...
 Pokemon = TALONFLAME,62
     Moves = STEELWING,FIREBLAST,TAILWIND,FEATHERDANCE
     AbilityIndex = 2
@@ -3286,13 +3286,3 @@ Pokemon = FLORGES,55
 [COLLECTOR,Raphaël]
 LoseText = Je veux dire, mon Pokémon peut en fait ressembler à n'importe quoi…
 Pokemon = DITTO,56
-
-
-
-
-
-
-
-
-
-
