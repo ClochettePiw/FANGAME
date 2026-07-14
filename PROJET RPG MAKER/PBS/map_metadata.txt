@@ -1330,3 +1330,18 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 0,111
+#-------------------------------
+[169]   # Route 24
+Name = Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,30
+MapPosition = 0,25,15
+BattleBack = riyu
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainers
+WildVictoryBGM = VIC-Wild
+TrainerVictoryBGM = VIC-Trainer
+WildCaptureME = Pkmn get
+MapSize = 2,1111
