@@ -76,7 +76,9 @@
 150,East,0,151,West,51
 # Route Victoire - extérieur (154) - Ligue Pokémon (156)
 154,North,0,156,South,10
+# Route 22 (167) - Route 23 (168)
+167,East,0,168,West,17
+# Route 24 (169) - Route 23 (168)
+169,North,35,168,South,0
 # Riyu (166) - Route 22 (167)
 166,South,0,167,North,7
-# Route 23 (168) - Route 22 (167)
-168,West,17,167,East,0
