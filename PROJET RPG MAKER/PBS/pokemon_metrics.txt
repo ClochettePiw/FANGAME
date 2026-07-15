@@ -1082,7 +1082,7 @@ ShadowSize = 3
 #-------------------------------
 [NOIVERN]
 BackSprite = 0,32
-FrontSprite = 4,4
+FrontSprite = 2,13
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
