@@ -3286,3 +3286,61 @@ Pokemon = FLORGES,55
 [COLLECTOR,Raphaël]
 LoseText = Je veux dire, mon Pokémon peut en fait ressembler à n'importe quoi…
 Pokemon = DITTO,56
+#-------------------------------
+[KINDLER,Adame]
+LoseText = On dirait que nous nous sommes surestimés.
+Pokemon = MAGBY,52
+Pokemon = TURTONATOR,53
+Pokemon = FLAREON,54
+#-------------------------------
+[MONKM,Melvyn]
+LoseText = Je donnerai beaucoup pour me jeter dans un lit bien douillet…
+Pokemon = MIENSHAO,57
+#-------------------------------
+[PKMNRANGERM,Soba]
+LoseText = Heureusement que nous combattons de façon civilisée !
+Pokemon = GRAFAIAI,54
+Pokemon = ELECTABUZZ,55
+#-------------------------------
+[SKYTRAINERM,Corto]
+LoseText = Un courant descendant !
+Pokemon = SKARMORY,53
+Pokemon = GLISCOR,55
+#-------------------------------
+[MERCHANTM,Barthélémy]
+LoseText = Certains secrets doivent peut-être restés à jamais scellés…
+Pokemon = RELICANTH,56
+#-------------------------------
+[BUGMANIACM,Aviel]
+LoseText = Battez en retraite !
+Pokemon = DURANT,52
+Pokemon = DURANT,52
+Pokemon = SCIZOR,55
+#-------------------------------
+[DRAGONTAMER,Domitille]
+LoseText = L'angoisse de la page blanche…
+Pokemon = DREEPY,53
+Pokemon = DRUDDIGON,56
+#-------------------------------
+[CYCLISTM,Bafode]
+LoseText = On dirait que je dois rebrousser chemin…
+Pokemon = ELEKID,51
+Pokemon = JOLTEON,54
+Pokemon = VIKAVOLT,54
+#-------------------------------
+[PSYCHICM,Casper]
+LoseText = Ah… Oh, pardon ! Je flânais !
+Pokemon = WOOBAT,54
+Pokemon = SWOOBAT,55
+
+
+
+
+
+
+
+
+
+
+
+

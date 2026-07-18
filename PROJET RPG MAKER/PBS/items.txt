@@ -802,7 +802,7 @@ Price = 3000
 SellPrice = 2000
 BPPrice = 25
 Flags = Fling_80
-Description = Objet à tenir. Protège le Pokémon contre les dégâts dus à la météo et la plupart des capacités utilisant de la poudre.
+Description = Objet à tenir. Protège contre les dégâts dus à la météo et les des capacités de poudre.
 #-------------------------------
 [PROTECTIVEPADS]
 Name = Pare-Effet
@@ -814,7 +814,7 @@ Price = 3000
 SellPrice = 2000
 BPPrice = 25
 Flags = Fling_30
-Description = Objet à tenir. Annule les effets subis par le porteur quand il utilise une attaque directe sur un autre Pokémon.
+Description = Objet à tenir. Annule les effets subis par le porteur quand il utilise une attaque directe.
 #-------------------------------
 [HEAVYDUTYBOOTS]
 Name = Heavy-Duty Boots
@@ -4080,6 +4080,40 @@ FieldUse = TM
 Flags = Fling_10
 Move = MOONLIGHT
 Description = Un soin qui restaure des PV au lanceur. Son efficacité varie en fonction de la météo.
+#-------------------------------
+[TM76]
+Name = CT76
+NamePlural = CT76s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = TEMPERFLARE
+Description = Le lanceur utilise la force de son dépit. Si sa dernière capacité a échoué, la puissance est doublée.
+#-------------------------------
+[TM77]
+Name = CT77
+NamePlural = CT77s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = TAILWIND
+Description = Génère une rafale de vent qui augmente la Vitesse des Pokémon de l'équipe pendant quatre tours.
+#-------------------------------
+[TM78]
+Name = CT78
+NamePlural = CT78s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = SPIKES
+Description = Le lanceur disperse des piquants sur le sol pour blesser tout ennemi qui entre au combat.
+
 #-------------------------------
 [HM01]
 Name = CS01
