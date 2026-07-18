@@ -4113,7 +4113,17 @@ FieldUse = TM
 Flags = Fling_10
 Move = SPIKES
 Description = Le lanceur disperse des piquants sur le sol pour blesser tout ennemi qui entre au combat.
-
+#-------------------------------
+[TM79]
+Name = CT79
+NamePlural = CT79s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = FLING
+Description = Le lanceur envoie l'objet qu'il tient. La puissance et les effets dépendent de l'objet.
 #-------------------------------
 [HM01]
 Name = CS01

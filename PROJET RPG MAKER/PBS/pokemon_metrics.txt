@@ -806,7 +806,7 @@ ShadowSize = 2
 #-------------------------------
 [AGGRON]
 BackSprite = 0,35
-FrontSprite = 8,15
+FrontSprite = -5,14
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
