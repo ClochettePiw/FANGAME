@@ -834,6 +834,7 @@ WildCaptureME = Pkmn get
 #-------------------------------
 [094]   # Mont Kupi E1 - E3
 Name = Mont Kupi
+Bicycle = true
 MapPosition = 0,11,15
 BattleBack = volcano
 WildBattleBGM = Battle wild
@@ -1026,6 +1027,7 @@ Name = Hardia
 #-------------------------------
 [118]   # Autel de la peur - tours
 Name = Autel de la peur
+Bicycle = true
 MapPosition = 0,18,10
 DarkMap = true
 BattleBack = tinglu
@@ -1346,7 +1348,7 @@ TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 2,1111
 #-------------------------------
-[170]   # Antre Riyen
+[170]   # Grandes cavernes de Riyu
 Name = Grandes cavernes de Riyu
 ShowArea = true
 Bicycle = true
