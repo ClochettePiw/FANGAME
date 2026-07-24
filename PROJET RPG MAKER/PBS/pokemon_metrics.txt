@@ -1625,3 +1625,9 @@ BackSprite = 0,36
 FrontSprite = 2,22
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[DRUDDIGON]
+BackSprite = 0,25
+FrontSprite = 7,13
+ShadowX = 0
+ShadowSize = 3
