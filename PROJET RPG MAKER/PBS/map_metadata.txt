@@ -1331,7 +1331,7 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
-MapSize = 0,111
+MapSize = 1,111
 #-------------------------------
 [169]   # Route 24
 Name = Route 24
@@ -1359,4 +1359,4 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
-MapSize = 2,0100000010
+MapSize = 2,010000000010
