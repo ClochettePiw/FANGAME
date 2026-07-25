@@ -5946,7 +5946,7 @@ Habitat = Grassland
 Category = Mante
 Pokedex = Si l'on voit un grand nombre d'arbres abattus au même endroit dans une forêt, cela signifie que l'on se trouve sur le territoire d'un Insécateur.
 Generation = 1
-Evolutions = SCIZOR,TradeItem,METALCOAT
+Evolutions = SCIZOR,HoldItem,METALCOAT,KLEAVOR,HoldItem,BLACKAUGURITE
 #-------------------------------
 [SCIZOR]
 Name = Cisayox
@@ -6051,7 +6051,7 @@ Category = Électrique
 Pokedex = Ce Pokémon se repaît d'électricité. On peut l'apercevoir grimper à la cime des grands arbres à l'approche d'un orage, semblant guetter la tombée de la foudre.
 Generation = 1
 WildItemUncommon = ELECTIRIZER
-Evolutions = ELECTIVIRE,TradeItem,ELECTIRIZER
+Evolutions = ELECTIVIRE,HoldItem,ELECTIRIZER
 #-------------------------------
 [ELECTIVIRE]
 Name = Élekable
@@ -6131,7 +6131,7 @@ Category = Crache-Feu
 Pokedex = Tout son corps est en combustion permanente. Il est craint, car on dit qu'il cause des incendies.
 Generation = 1
 WildItemUncommon = MAGMARIZER
-Evolutions = MAGMORTAR,TradeItem,MAGMARIZER
+Evolutions = MAGMORTAR,HoldItem,MAGMARIZER
 #-------------------------------
 [MAGMORTAR]
 Name = Maganon

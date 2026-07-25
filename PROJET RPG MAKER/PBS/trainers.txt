@@ -3332,6 +3332,67 @@ Pokemon = VIKAVOLT,54
 LoseText = Ah… Oh, pardon ! Je flânais !
 Pokemon = WOOBAT,54
 Pokemon = SWOOBAT,55
+#-------------------------------
+[HIKER,Thomas]
+LoseText = Le secret de ta puissance n'est pas à ma portée.
+Pokemon = SOLROCK,53
+Pokemon = PUPITAR,53
+Pokemon = RHYPERIOR,54
+#-------------------------------
+[SCIENTISTM,Patrick]
+LoseText = Faites attention ! Ce dresseur est exagérément dangereux !
+Pokemon = KLINK,49
+Pokemon = ELECTABUZZ,52
+Pokemon = KLANG,55
+#-------------------------------
+[BIKER,Maurice]
+LoseText = Finalement, c'est peut-être plus cool d'avoir un vélo…
+Pokemon = SCOLIPEDE,54
+Pokemon = KLANG,54
+#-------------------------------
+[CYCLISTF,Debby]
+LoseText = Les combats Pokémon ? Bof, pas vraiment mon truc.
+Pokemon = JOLTEON,56
+#-------------------------------
+[ACETRAINERWM,Victor]
+LoseText = Je n'en suis pas convaincu.
+Pokemon = AZUMARILL,57
+Pokemon = DRUDDIGON,57
+#-------------------------------
+[SWIMMERM,Justin]
+LoseText = Cette défaite n'est pas grand chose, au regard de l'histoire.
+Pokemon = CORPHISH,52
+Pokemon = JELLICENT,55
+    Gender = male
+#-------------------------------
+[PIRATEM,Mavis]
+LoseText = Me voilà acculé…
+Pokemon = GOLISOPOD,54
+Pokemon = GYARADOS,54
+#-------------------------------
+[TREASUREHUNTER,Amaury]
+LoseText = Maudit sois-tu !
+Pokemon = GLISCOR,54
+Pokemon = ZANGOOSE,54
+#-------------------------------
+[DRAGONTAMER,Pénélope]
+LoseText = Qu'un brave dresseur vienne à mon secours !...
+Pokemon = DRAKLOAK,57
+#-------------------------------
+[ACETRAINERWF,Edmée]
+LoseText = En fin de compte, c'est l'arrogance qui aura causé ma perte.
+Pokemon = ESPATHRA,56
+Pokemon = KINGAMBIT,58
+#-------------------------------
+[PKMNRANGERM,Adem]
+LoseText = Pour moi, ce fut un raccourci vers le centre Pokémon…
+Pokemon = MANDIBUZZ,54
+Pokemon = SEVIPER,55
+#-------------------------------
+[PKMNRANGERF,Hanae]
+LoseText = Ton équipe est fabuleuse.
+Pokemon = BRAVIARY,54
+Pokemon = ZANGOOSE,55
 
 
 

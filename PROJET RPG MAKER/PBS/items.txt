@@ -1344,7 +1344,7 @@ Pocket = 1
 Price = 5000
 BPPrice = 5
 Flags = Fling_30
-Description = Un croc particulièrement tranchant et pointu qui semble capable de percer n'importe quoi. Peut apeurer l'ennemi lorsque le porteur subit des dégâts.
+Description = Un croc particulièrement tranchant et pointu. Peut apeurer l'ennemi lorsque le porteur subit des dégâts.
 #-------------------------------
 [MAGMARIZER]
 Name = Magmariseur
@@ -1363,6 +1363,15 @@ Price = 5000
 BPPrice = 5
 Flags = Fling_30
 Description = Une boîte remplie d'une énorme quantité d'énergie électrique. Appréciée d'un certain Pokémon.
+#-------------------------------
+[BLACKAUGURITE]
+Name = Obsidienne
+NamePlural = Obsidiennes
+Pocket = 1
+Price = 5000
+FieldUse = OnPokemon
+Flags = Fling_30,EvolutionStone
+Description = Une pierre noire aux fragments aussi coupant que du verre. Appréciée d'un certain Pokémon.
 #-------------------------------
 [LAGGINGTAIL]
 Name = Ralentiqueue
@@ -4124,6 +4133,17 @@ FieldUse = TM
 Flags = Fling_10
 Move = FLING
 Description = Le lanceur envoie l'objet qu'il tient. La puissance et les effets dépendent de l'objet.
+#-------------------------------
+[TM80]
+Name = CT80
+NamePlural = CT80s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = HEAVYSLAM
+Description = Le lanceur se jette sur l'ennemi de tout son poids. S'il est plus lourd que l'ennemi, l'effet augmente en conséquence.
 #-------------------------------
 [HM01]
 Name = CS01
