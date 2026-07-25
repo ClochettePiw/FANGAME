@@ -1340,7 +1340,7 @@ RockSmash,50
     20,CRUSTLE,48,52
     25,PUPITAR,48,52
 #-------------------------------
-[170] # Route Victoire
+[170] # Grandes cavernes de Riyu
 Cave,2
     10,RHYHORN,49,52
     20,KLANG,47,50
@@ -1348,17 +1348,17 @@ Cave,2
     25,MIENFOO,47,50
     15,DRUDDIGON,50,53
 Water,2
-    50,BASCULIN,44,48
-    50,BASCULIN_1,44,48
+    50,BASCULIN,47,50
+    50,BASCULIN_1,47,50
 OldRod
     70,MAGIKARP,5,15
     30,ARROKUDA,5,15
 GoodRod
     100,ARROKUDA,15,25
 SuperRod
-    60,GYARADOS,30,40
-    40,BARRASKEWDA,30,40
-
+    50,GYARADOS,30,40
+    35,BARRASKEWDA,30,40
+    15,RELICANTH,30,40
 
 
 
