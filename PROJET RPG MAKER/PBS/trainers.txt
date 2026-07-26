@@ -3393,13 +3393,38 @@ Pokemon = SEVIPER,55
 LoseText = Ton équipe est fabuleuse.
 Pokemon = BRAVIARY,54
 Pokemon = ZANGOOSE,55
-
-
-
-
-
-
-
+#-------------------------------
+[SWIMMERM,Titus]
+LoseText = C'est la douche froide !
+Pokemon = LANTURN,53
+Pokemon = VAPOREON,54
+#-------------------------------
+[SURFER,Bradley]
+LoseText = ***
+Pokemon = CORPHISH,52
+Pokemon = PALAFIN,53
+Pokemon = CRAWDAUNT,53
+#-------------------------------
+[SWIMMERF,Carlotta]
+LoseText = ***
+Pokemon = TOXAPEX,53
+Pokemon = CLOYSTER,53
+#-------------------------------
+[PKMNRANGERF,Junon]
+LoseText = ***
+Pokemon = SEALEO,52
+Pokemon = GOGOAT,52
+Pokemon = URSAKING,54
+#-------------------------------
+[PARASOL,Abigail]
+LoseText = ***
+Pokemon = GOLDUCK,55
+#-------------------------------
+[SWIMMERFF,Bénédicte]
+LoseText = ***
+Pokemon = BASCULEGION,53
+    Gender = female
+Pokemon = RELICANTH,54
 
 
 
