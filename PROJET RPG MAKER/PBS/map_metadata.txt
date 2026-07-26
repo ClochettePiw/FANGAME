@@ -1375,3 +1375,18 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 2,111101
+#-------------------------------
+[172]   # Chenal 26
+Name = Chenal 26
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,30
+MapPosition = 0,22,10
+BattleBack = riyu
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainers
+WildVictoryBGM = VIC-Wild
+TrainerVictoryBGM = VIC-Trainer
+WildCaptureME = Pkmn get
+MapSize = 4,1111
