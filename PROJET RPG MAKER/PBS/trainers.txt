@@ -3400,28 +3400,28 @@ Pokemon = LANTURN,53
 Pokemon = VAPOREON,54
 #-------------------------------
 [SURFER,Bradley]
-LoseText = ***
+LoseText = Je l'ai bien cherché.
 Pokemon = CORPHISH,52
 Pokemon = PALAFIN,53
 Pokemon = CRAWDAUNT,53
 #-------------------------------
 [SWIMMERF,Carlotta]
-LoseText = ***
+LoseText = Moi qui les croyais insubmersibles…
 Pokemon = TOXAPEX,53
 Pokemon = CLOYSTER,53
 #-------------------------------
 [PKMNRANGERF,Junon]
-LoseText = ***
+LoseText = J'aime aussi les dresseurs dans ton genre, qui se ne laissent pas dominer.
 Pokemon = SEALEO,52
 Pokemon = GOGOAT,52
 Pokemon = URSAKING,54
 #-------------------------------
 [PARASOL,Abigail]
-LoseText = ***
+LoseText = Une équipe comme la tienne est bâtie pour lutter contre vents et marées.
 Pokemon = GOLDUCK,55
 #-------------------------------
 [SWIMMERFF,Bénédicte]
-LoseText = ***
+LoseText = Je suis trempée ! Rentrons, maintenant !
 Pokemon = BASCULEGION,53
     Gender = female
 Pokemon = RELICANTH,54
