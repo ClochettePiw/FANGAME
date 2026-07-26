@@ -4145,6 +4145,17 @@ Flags = Fling_10
 Move = HEAVYSLAM
 Description = Le lanceur se jette sur l'ennemi de tout son poids. S'il est plus lourd que l'ennemi, l'effet augmente en conséquence.
 #-------------------------------
+[TM81]
+Name = CT81
+NamePlural = CT81s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = HURRICANE
+Description = Le lanceur déclenche une tempête de vents violents qui s'abat sur l'ennemi. Peut aussi le rendre confus.
+#-------------------------------
 [HM01]
 Name = CS01
 NamePlural = CS01s
