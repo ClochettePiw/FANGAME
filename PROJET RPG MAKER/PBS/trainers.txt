@@ -3425,6 +3425,40 @@ LoseText = Je suis trempée ! Rentrons, maintenant !
 Pokemon = BASCULEGION,53
     Gender = female
 Pokemon = RELICANTH,54
+#-------------------------------
+[SURFER,Bradley]
+LoseText = Je sens que tu es capable de te frayer ton chemin, là où tu le souhaites.
+Pokemon = PRIMEAPE,53
+Pokemon = CRAWDAUNT,56
+#-------------------------------
+[BEAUTY,Aurore]
+LoseText = J'espère que tu en as pris plein la vue.
+Pokemon = SWOOBAT,53
+Pokemon = SEVIPER,53
+Pokemon = COMFEY,53
+#-------------------------------
+[BREEDERF,Shirley]
+LoseText = Ton talent raconte bien des histoires te concernant…
+Pokemon = EEVEE,48
+Pokemon = LEAFEON,50
+Pokemon = GLACEON,50
+Pokemon = SYLVEON,50
+#-------------------------------
+[ACETRAINERWF,Colombe]
+LoseText = Merci, j'en avais besoin…
+Pokemon = VOLCARONA,59
+#-------------------------------
+[PKMNRANGERM,Clovis]
+LoseText = Tu es un spécimen rare !
+Pokemon = TROPIUS,55
+Pokemon = KOMMOO,55
+#-------------------------------
+[GENTLEMAN,Paul-Henri]
+LoseText = ***
+Pokemon = CHATOT,54
+Pokemon = AZUMARILL,55
+
+
 
 
 
