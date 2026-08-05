@@ -4156,6 +4156,17 @@ Flags = Fling_10
 Move = HURRICANE
 Description = Le lanceur déclenche une tempête de vents violents qui s'abat sur l'ennemi. Peut aussi le rendre confus.
 #-------------------------------
+[TM82]
+Name = CT82
+NamePlural = CT82s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = PLAYROUGH
+Description = Attaque l'ennemi avec un câlin. Peut diminuer son Attaque.
+#-------------------------------
 [HM01]
 Name = CS01
 NamePlural = CS01s

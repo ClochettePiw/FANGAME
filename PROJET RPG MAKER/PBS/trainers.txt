@@ -3400,10 +3400,9 @@ Pokemon = LANTURN,53
 Pokemon = VAPOREON,54
 #-------------------------------
 [SURFER,Bradley]
-LoseText = Je l'ai bien cherché.
-Pokemon = CORPHISH,52
-Pokemon = PALAFIN,53
-Pokemon = CRAWDAUNT,53
+LoseText = Je sens que tu es capable de te frayer ton chemin, là où tu le souhaites.
+Pokemon = PRIMEAPE,53
+Pokemon = CRAWDAUNT,56
 #-------------------------------
 [SWIMMERF,Carlotta]
 LoseText = Moi qui les croyais insubmersibles…
@@ -3426,8 +3425,8 @@ Pokemon = BASCULEGION,53
     Gender = female
 Pokemon = RELICANTH,54
 #-------------------------------
-[SURFER,Bradley]
-LoseText = Je sens que tu es capable de te frayer ton chemin, là où tu le souhaites.
+[SURFER,Tristan]
+LoseText = ***
 Pokemon = PRIMEAPE,53
 Pokemon = CRAWDAUNT,56
 #-------------------------------
@@ -3454,13 +3453,6 @@ Pokemon = TROPIUS,55
 Pokemon = KOMMOO,55
 #-------------------------------
 [GENTLEMAN,Paul-Henri]
-LoseText = ***
+LoseText = La victoire vous revient de droit.
 Pokemon = CHATOT,54
 Pokemon = AZUMARILL,55
-
-
-
-
-
-
-
