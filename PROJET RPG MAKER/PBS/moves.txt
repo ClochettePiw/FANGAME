@@ -7245,4 +7245,13 @@ FunctionCode = LowerTargetAccuracy1
 Flags = CanProtect,CanMirrorMove
 EffectChance = 40
 Description = Le lanceur attaque l'ennemi avec une onde de choc ténébreuse. Peut aussi baisser sa Précision.
-
+#-------------------------------
+[SHOREUP]
+Name = Amass'Sable
+Type = GROUND
+Category = Status
+Accuracy = 0
+TotalPP = 10
+Target = User
+FunctionCode = HealUserDependingOnSandstorm
+Description = Le lanceur récupère jusqu'à la moitié de ses PV max. Durant une tempête de sable, il en récupère encore plus.

@@ -3397,7 +3397,7 @@ Pokemon = ZANGOOSE,55
 [SWIMMERM,Titus]
 LoseText = C'est la douche froide !
 Pokemon = LANTURN,53
-Pokemon = VAPOREON,54
+Pokemon = SANDYGAST,54
 #-------------------------------
 [SURFER,Bradley]
 LoseText = Je sens que tu es capable de te frayer ton chemin, là où tu le souhaites.
@@ -3426,7 +3426,7 @@ Pokemon = BASCULEGION,53
 Pokemon = RELICANTH,54
 #-------------------------------
 [SURFER,Tristan]
-LoseText = ***
+LoseText = Tu sembles prêt à braver vents et marées.
 Pokemon = PRIMEAPE,53
 Pokemon = CRAWDAUNT,56
 #-------------------------------
