@@ -5774,7 +5774,7 @@ Pokedex = Il ajuste la température de son corps pour geler l'air autour de lui 
 Generation = 4
 #-------------------------------
 [SYLVEON]
-Name = Sylveon
+Name = Nymphali
 Types = FAIRY
 BaseStats = 95,65,65,60,110,130
 GenderRatio = FemaleOneEighth
