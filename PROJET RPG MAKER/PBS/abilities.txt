@@ -951,11 +951,11 @@ Name = Ramasse Ball
 Description = Récupère la première Poké Ball lancée si elle échoue.
 #-------------------------------
 [COTTONDOWN]
-Name = Duvet
+Name = Effilochage
 Description = Répand du coton qui baisse la Vitesse lorsqu'il est touché.
 #-------------------------------
 [PROPELLERTAIL]
-Name = Hélice
+Name = Propulseur
 Description = Les capacités de ce Pokémon ne peuvent pas être redirigées.
 #-------------------------------
 [MIRRORARMOR]
@@ -980,7 +980,7 @@ Name = Punk Rock
 Description = Augmente la puissance des capacités sonores et réduit les dégâts qu'elles infligent.
 #-------------------------------
 [SANDSPIT]
-Name = Sable Ardent
+Name = Expul'Sable
 Description = Déclenche une tempête de sable lorsqu'il est touché.
 #-------------------------------
 [ICESCALES]
