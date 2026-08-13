@@ -2043,7 +2043,7 @@ LoseText = Ma détermination a vacillé.
 Pokemon = COMBUSKEN,34
 Pokemon = MEDITITE,37
 #-------------------------------
-[SWIMMERM,Gaston]
+[SWIMMERM,Django]
 LoseText = Les combats ne sont pas ma tasse de thé.
 Pokemon = GOLDUCK,34
 Pokemon = FRILLISH,35
