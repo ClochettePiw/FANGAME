@@ -338,9 +338,9 @@ ShadowSize = 3
 #-------------------------------
 [MANKEY]
 BackSprite = 0,36
-FrontSprite = 0,27
+FrontSprite = 0,21
 ShadowX = 0
-ShadowSize = 2
+ShadowSize = 1
 #-------------------------------
 [PRIMEAPE]
 BackSprite = 0,31
