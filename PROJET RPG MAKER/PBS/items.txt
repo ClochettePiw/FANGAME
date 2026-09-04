@@ -5217,13 +5217,13 @@ Flags = KeyItem
 Description = A tool that can search out Pokémon that are hiding in grass. Its battery is recharged as you walk.
 #-------------------------------
 [TOWNMAP]
-Name = Town Map
-NamePlural = Town Maps
+Name = Mappemonde
+NamePlural = Mappemonde
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = A very convenient map that can be viewed anytime. It even shows your present location.
+Description = Une carte de la région de Koro. Consultez-la pour ne pas vous perdre !
 #-------------------------------
 [ESCAPEROPE]
 Name = Corde Sortie

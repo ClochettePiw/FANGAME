@@ -121,5 +121,5 @@ Point = 22,11,Chenal 25
 Point = 22,10,Chenal 26
 Point = 23,10,Chenal 26
 Point = 24,10,Chenal 26
-Point = 25,10,Grandes cavernes de Riyu,
-Point = 24,15,Grandes cavernes de Riyu,
+Point = 25,10,Grandes cavernes de Riyu
+Point = 24,15,Grandes cavernes de Riyu
