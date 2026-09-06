@@ -1064,7 +1064,7 @@ ShadowSize = 3
 #-------------------------------
 [HONCHKROW]
 BackSprite = 0,28
-FrontSprite = -5,22
+FrontSprite = 6,23
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
