@@ -1184,7 +1184,7 @@ ShadowSize = 2
 #-------------------------------
 [TOXTRICITY]
 BackSprite = 0,20
-FrontSprite = 0,8
+FrontSprite = -1,7
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
