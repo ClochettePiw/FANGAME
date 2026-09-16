@@ -782,13 +782,13 @@ ShadowSize = 1
 #-------------------------------
 [CARKOL]
 BackSprite = 0,28
-FrontSprite = -3,20
+FrontSprite = -2,21
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [COALOSSAL]
 BackSprite = 0,10
-FrontSprite = -7,9
+FrontSprite = -2,10
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
@@ -884,7 +884,7 @@ ShadowSize = 2
 #-------------------------------
 [KINGAMBIT]
 BackSprite = 0,0
-FrontSprite = 0,6
+FrontSprite = 0,8
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
@@ -926,7 +926,7 @@ ShadowSize = 3
 #-------------------------------
 [CRABRAWLER]
 BackSprite = 0,27
-FrontSprite = -10,23
+FrontSprite = -5,23
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
@@ -1214,7 +1214,7 @@ ShadowSize = 2
 #-------------------------------
 [DURANT]
 BackSprite = 0,48
-FrontSprite = -1,36
+FrontSprite = -4,36
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
@@ -1442,13 +1442,13 @@ ShadowSize = 3
 #-------------------------------
 [DRAKLOAK]
 BackSprite = 0,30
-FrontSprite = -2,-8
+FrontSprite = -2,9
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [DREEPY]
 BackSprite = 0,43
-FrontSprite = -1,-8
+FrontSprite = -1,10
 ShadowX = 0
 ShadowSize = 1
 #-------------------------------
