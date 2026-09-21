@@ -137,6 +137,38 @@ SkillLevel = 90
 BattleBGM = BT-Faust
 VictoryBGM = VIC-Regalia
 #-------------------------------
+[LEGACY1]
+Name = Souvenir
+Gender = Male
+BaseMoney = 180
+SkillLevel = 100
+BattleBGM = BT-Legacy
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[LEGACY2]
+Name = Souvenir
+Gender = Female
+BaseMoney = 180
+SkillLevel = 100
+BattleBGM = BT-Legacy
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[LEGACY3]
+Name = Souvenir
+Gender = Female
+BaseMoney = 180
+SkillLevel = 100
+BattleBGM = BT-Legacy
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[LEGACY4]
+Name = Souvenir
+Gender = Male
+BaseMoney = 180
+SkillLevel = 100
+BattleBGM = BT-Legacy
+VictoryBGM = VIC-Regalia
+#-------------------------------
 [GYMLEADER1]
 Name = Champion
 Gender = Male
