@@ -3483,7 +3483,87 @@ Pokemon = CHANDELURE,62
     Item = WHITEHERB
     Gender = male
     IV = 31,31,31,31,31,31
-
+#-------------------------------
+[ILLUSION,???,2]
+LoseText = ...
+Pokemon = TYRANITAR,59
+    Moves = STONEEDGE,CRUNCH,EARTHQUAKE,OUTRAGE
+    AbilityIndex = 0
+    Item = SMOOTHROCK
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = PALOSSAND,60
+    Moves = SCORCHINGSANDS,GIGADRAIN,SHOREUP,SUBSTITUTE
+    AbilityIndex = 2
+    Item = BIGROOT
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = EXCADRILL,61
+    Moves = EARTHQUAKE,IRONHEAD,SANDSTORM,SWORDSDANCE
+    AbilityIndex = 0
+    Item = LIFEORB
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = MANDIBUZZ,62
+    Moves = BRAVEBIRD,UTURN,ROOST,TOXIC
+    AbilityIndex = 1
+    Item = ROCKYHELMET
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ILLUSION,???,3]
+LoseText = ...
+Pokemon = PELIPPER,59
+    Moves = UTURN,HURRICANE,HYDROPUMP,WEATHERBALL
+    AbilityIndex = 2
+    Item = DAMPROCK
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = HELIOLISK,60
+    Moves = THUNDER,SURF,DRAGONPULSE,AGILITY
+    AbilityIndex = 0
+    Item = LIFEORB
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = RELICANTH,61
+    Moves = LIQUIDATION,HEADSMASH,RAINDANCE,REST
+    AbilityIndex = 0
+    Item = SHELLBELL
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = NOIVERN,62
+    Moves = HURRICANE,DRACOMETEOR,FOCUSBLAST,HEATWAVE
+    AbilityIndex = 0
+    Item = ASSAULTVEST
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ILLUSION,???,4]
+LoseText = ...
+Pokemon = VANILLUXE,59
+    Moves = AVALANCHE,BLIZZARD,FLASHCANNON,AURORAVEIL
+    AbilityIndex = 1
+    Item = ICYROCK
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = CLOYSTER,60
+    Moves = ICICLESPEAR,ROCKBLAST,PINMISSILE,SHELLSMASH
+    AbilityIndex = 1
+    Item = LEFTOVERS
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = KOMMOO,61
+    Moves = CLANGINGSCALES,CLOSECOMBAT,IRONHEAD,THROATCHOP
+    AbilityIndex = 2
+    Item = SHELLBELL
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = AVALUGG,62
+    Moves = AVALANCHE,BODYPRESS,CURSE,RECOVER
+    AbilityIndex = 1
+    Item = ASSAULTVEST
+    Gender = female
+    IV = 31,31,31,31,31,31
 #-------------------------------
 [LEGACY1,ancien]
 LoseText = ...

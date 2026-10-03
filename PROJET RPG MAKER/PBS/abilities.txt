@@ -779,7 +779,7 @@ Name = Repli Tactique
 Description = Change de Pokémon lorsque les PVs tombent à la moitié.
 #-------------------------------
 [WATERCOMPACTION]
-Name = Tassement
+Name = Sable Humide
 Description = Augmente fortement la Défense lorsqu'il est touché par une capacité Eau.
 #-------------------------------
 [MERCILESS]
