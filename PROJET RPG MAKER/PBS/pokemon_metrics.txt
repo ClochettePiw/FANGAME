@@ -1568,7 +1568,7 @@ ShadowSize = 3
 #-------------------------------
 [TROPIUS]
 BackSprite = 0,12
-FrontSprite = 5,9
+FrontSprite = -2,11
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------

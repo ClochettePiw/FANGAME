@@ -3457,6 +3457,34 @@ LoseText = La victoire vous revient de droit.
 Pokemon = CHATOT,54
 Pokemon = AZUMARILL,55
 #-------------------------------
+[ILLUSION,???,1]
+LoseText = ...
+Pokemon = NINETALES,59
+    Moves = SOLARBEAM,WEATHERBALL,NASTYPLOT,FLAREBLITZ
+    AbilityIndex = 2
+    Item = HEATROCK
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = TROPIUS,60
+    Moves = SOLARBLADE,AIRSLASH,DRAGONHAMMER,SYNTHESIS
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = EXEGGUTOR,61
+    Moves = LEAFSTORM,PSYCHIC,REFLECT,SUNNYDAY
+    AbilityIndex = 0
+    Item = LIGHTCLAY
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = CHANDELURE,62
+    Moves = SHADOWBALL,OVERHEAT,SOLARBEAM,HAZE
+    AbilityIndex = 1
+    Item = WHITEHERB
+    Gender = male
+    IV = 31,31,31,31,31,31
+
+#-------------------------------
 [LEGACY1,ancien]
 LoseText = ...
 Pokemon = COFAGRIGUS,76

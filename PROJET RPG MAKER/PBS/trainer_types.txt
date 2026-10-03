@@ -137,6 +137,14 @@ SkillLevel = 90
 BattleBGM = BT-Faust
 VictoryBGM = VIC-Regalia
 #-------------------------------
+[ILLUSION]
+Name = Dresseur mystérieux
+Gender = Male
+BaseMoney = 48
+SkillLevel = 100
+BattleBGM = BT-Legacy
+VictoryBGM = VIC-Regalia
+#-------------------------------
 [LEGACY1]
 Name = Souvenir
 Gender = Male

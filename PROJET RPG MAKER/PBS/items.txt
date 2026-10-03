@@ -4384,7 +4384,7 @@ NamePlural = Baies Framby
 Pocket = 5
 Price = 1000
 Flags = Berry,Fling_10,NaturalGift_STEEL_80
-Description = Une Baie très rare à Sishaon. Peut être vendue à bon prix.
+Description = Une Baie très rare à Koro. Peut être vendue à bon prix.
 #-------------------------------
 [BLUKBERRY]
 Name = Baie Remu
@@ -4392,7 +4392,7 @@ NamePlural = Baies Remu
 Pocket = 5
 Price = 2000
 Flags = Berry,Fling_10,NaturalGift_FIRE_90
-Description = Une Baie très rare à Sishaon. Peut être vendue à bon prix.
+Description = Une Baie très rare à Koro. Peut être vendue à bon prix.
 #-------------------------------
 [NANABBERRY]
 Name = Baie Nanab
@@ -4400,7 +4400,7 @@ NamePlural = Baies Nanab
 Pocket = 5
 Price = 4000
 Flags = Berry,Fling_10,NaturalGift_WATER_90
-Description = Une Baie très rare à Sishaon. Peut être vendue à bon prix.
+Description = Une Baie très rare à Koro. Peut être vendue à bon prix.
 #-------------------------------
 [WEPEARBERRY]
 Name = Baie Repoi
@@ -4408,7 +4408,7 @@ NamePlural = Baies Repoi
 Pocket = 5
 Price = 8000
 Flags = Berry,Fling_10,NaturalGift_ELECTRIC_90
-Description = Une Baie très rare à Sishaon. Peut être vendue à bon prix.
+Description = Une Baie très rare à Koro. Peut être vendue à bon prix.
 #-------------------------------
 [PINAPBERRY]
 Name = Baie Nanana
@@ -4416,7 +4416,7 @@ NamePlural = Baies Nanana
 Pocket = 5
 Price = 16000
 Flags = Berry,Fling_10,NaturalGift_GRASS_90
-Description = Une Baie très rare à Sishaon. Peut être vendue à bon prix.
+Description = Une Baie très rare à Koro. Peut être vendue à bon prix.
 #-------------------------------
 [POMEGBERRY]
 Name = Baie Grena
