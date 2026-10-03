@@ -1390,3 +1390,12 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 4,1111
+#-------------------------------
+[173]   # Chenal 25 Cave
+Name = Chenal 25
+BattleBack = riyucave
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainers
+WildVictoryBGM = VIC-Wild
+TrainerVictoryBGM = VIC-Trainer
+WildCaptureME = Pkmn get
