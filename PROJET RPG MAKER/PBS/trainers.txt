@@ -3195,6 +3195,12 @@ Pokemon = URSALUNA,65
     Gender = male
     IV = 31,31,31,31,31,31
 #-------------------------------
+[REGALIAM,Régalia,76]
+LoseText = Très bien, je vais parler…
+Pokemon = BISHARP,52
+Pokemon = LOKIX,53
+Pokemon = PANGORO,53
+#-------------------------------
 [BIRDWATCHER,Guy]
 LoseText = Mes Pokémons y ont laissé des plumes…
 Pokemon = SKARMORY,52
