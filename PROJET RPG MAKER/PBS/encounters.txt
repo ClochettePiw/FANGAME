@@ -1263,6 +1263,34 @@ SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
 #-------------------------------
+[175] # Riyu - Parc du palais
+LandMorning,10
+    20,EEVEE,45,48
+    25,SCYTHER,46,49
+    30,WOOBAT,45,48
+    25,MIENFOO,44,48
+LandDay,10
+    30,EEVEE,45,48
+    30,SCYTHER,46,49
+    15,WOOBAT,45,48
+    25,MIENFOO,44,48
+LandNight,10
+    15,EEVEE,45,48
+    15,SCYTHER,46,49
+    45,WOOBAT,45,48
+    25,MIENFOO,44,48
+Water,2
+    50,BASCULIN,46,49
+    50,BASCULIN_1,46,49
+OldRod
+    70,MAGIKARP,5,15
+    30,ARROKUDA,5,15
+GoodRod
+    100,ARROKUDA,15,25
+SuperRod
+    60,GYARADOS,30,40
+    40,BARRASKEWDA,30,40
+#-------------------------------
 [167] # Route 22
 LandMorning,10
     10,RUFFLET,46,50

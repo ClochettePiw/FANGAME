@@ -1399,3 +1399,19 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+#-------------------------------
+[174]   # Riyu - Palais
+Name = Riyu
+#-------------------------------
+[175]   # Riyu - Palais extérieur
+Name = Riyu
+Outdoor = true
+Bicycle = true
+MapPosition = 0,24,12
+BattleBack = riyu
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainers
+WildVictoryBGM = VIC-Wild
+TrainerVictoryBGM = VIC-Wild
+WildCaptureME = Pkmn get
+MapSize = 1,1
