@@ -971,7 +971,7 @@ Name = Fermeté
 Description = Les capacités de ce Pokémon ne peuvent pas être redirigées.
 #-------------------------------
 [STEAMENGINE]
-Name = Machine à Vapeur
+Name = Turbine
 Description = Augmente fortement la Vitesse si touché par une capacité Feu ou Eau.
 Flags = FasterEggHatching
 #-------------------------------
