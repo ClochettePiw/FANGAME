@@ -145,6 +145,14 @@ SkillLevel = 100
 BattleBGM = BT-Legacy
 VictoryBGM = VIC-Regalia
 #-------------------------------
+[ADVISOR]
+Name = Conseiller
+Gender = Male
+BaseMoney = 180
+SkillLevel = 100
+BattleBGM = BT-Yuga
+VictoryBGM = VIC-Regalia
+#-------------------------------
 [LEGACY1]
 Name = Souvenir
 Gender = Male

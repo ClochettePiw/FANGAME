@@ -1,13 +1,13 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [BLACKAUGURITE]
-Name = Black Augurite
-NamePlural = Black Augurites
+Name = Obsidienne
+NamePlural = Obsidienne
 Pocket = 1
 Price = 2100
 FieldUse = OnPokemon
 Flags = Fling_30,EvolutionStone
-Description = A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.
+Description = Lorsqu'on brise cette pierre noire semblable à du verre, on obtient des éclats très coupants. Elle est appréciée d'un certain Pokémon.
 #-------------------------------
 [PEATBLOCK]
 Name = Peat Block

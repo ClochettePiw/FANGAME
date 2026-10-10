@@ -353,9 +353,9 @@ class DayCare
     
     def generate_basic_egg(species, species_parent)
       egg = Pokemon.new(species, Settings::EGG_LEVEL)
-      egg.name           = _INTL("Egg")
+      egg.name           = _INTL("Oeuf")
       egg.steps_to_hatch = egg.species_data.hatch_steps
-      egg.obtain_text    = _INTL("Day-Care Couple")
+      egg.obtain_text    = _INTL("Pension Pokémon")
       egg.happiness      = 120
       egg.form           = 0 if species == :SINISTEA
       new_form = MultipleForms.call("getFormOnEggCreation", egg, species_parent)
@@ -534,7 +534,7 @@ MultipleForms.register(:HOOPA, {
         # Replace the old move with the new move (keeps the same index)
         pkmn.moves[old_move_index].id = new_move_id
         new_move_name = pkmn.moves[old_move_index].name
-        pbMessage("\\se[]" + _INTL("{1} learned {2}!", pkmn.name, new_move_name) + "\\se[Pkmn move learnt]")
+        pbMessage("\\se[]" + _INTL("{1} apprend {2} !", pkmn.name, new_move_name) + "\\se[Pkmn move learnt]")
       end
     end
   }

@@ -127,7 +127,7 @@ class Battle::Move::DamageTargetAddStealthRocksToFoeSide < Battle::Move
     return if target.pbOwnSide.effects[PBEffects::StealthRock]
     target.pbOwnSide.effects[PBEffects::StealthRock] = true
     @battle.pbAnimation(:STEALTHROCK, user, target)
-    @battle.pbDisplay(_INTL("Pointed stones float in the air around {1}!", user.pbOpposingTeam(true)))
+    @battle.pbDisplay(_INTL("Des débris pointus flottent autour de l'équipe de {1} !", user.pbOpposingTeam(true)))
   end
 end
 
@@ -142,7 +142,7 @@ class Battle::Move::StartSplintersTarget < Battle::Move
   def pbFailsAgainstTarget?(user, target, show_message)
     return false if damagingMove?
     if target.effects[PBEffects::Splinters] > 0
-      @battle.pbDisplay(_INTL("But it failed!")) if show_message
+      @battle.pbDisplay(_INTL("Mais cela échoue !")) if show_message
       return true
     end
     return false
@@ -152,7 +152,7 @@ class Battle::Move::StartSplintersTarget < Battle::Move
     return if damagingMove?
     target.effects[PBEffects::Splinters] = 3
     target.effects[PBEffects::SplintersType] = @type
-    @battle.pbDisplay(_INTL("Jagged splinters dug into {1}!", target.pbThis(true)))
+    @battle.pbDisplay(_INTL("Les débris heurtent {1} !", target.pbThis(true)))
   end
 
   def pbAdditionalEffect(user, target)
@@ -160,7 +160,7 @@ class Battle::Move::StartSplintersTarget < Battle::Move
     return if target.effects[PBEffects::Splinters] > 0
     target.effects[PBEffects::Splinters] = 3
     target.effects[PBEffects::SplintersType] = @type
-    @battle.pbDisplay(_INTL("Jagged splinters dug into {1}!", target.pbThis(true)))
+    @battle.pbDisplay(_INTL("Les débris heurtent {1} !", target.pbThis(true)))
   end
 end
 
@@ -388,7 +388,7 @@ class Battle::Move::CrashDamageIfFailsConfuseTarget < Battle::Move::ConfuseTarge
   
   def pbCrashDamage(user)
     return if !user.takesIndirectDamage?
-    @battle.pbDisplay(_INTL("{1} kept going and crashed!", user.pbThis))
+    @battle.pbDisplay(_INTL("{1} s'écrase au sol !", user.pbThis))
     @battle.scene.pbDamageAnimation(user)
     user.pbReduceHP((user.totalhp / 2), false)
     user.pbItemHPHealCheck
@@ -458,7 +458,7 @@ end
 class Battle::Move::UserLosesElectricType < Battle::Move
   def pbMoveFailed?(user, targets)
     if !user.pbHasType?(:ELECTRIC)
-      @battle.pbDisplay(_INTL("But it failed!"))
+      @battle.pbDisplay(_INTL("Mais cela échoue !"))
       return true
     end
     return false
@@ -559,7 +559,7 @@ class Battle::Move::RaiseTargetAtkLowerTargetDef2 < Battle::Move
     failed = !target.pbCanRaiseStatStage?(@statUp[0], user, self) && 
              !target.pbCanLowerStatStage?(@statDown[0], user, self)
     if failed
-      @battle.pbDisplay(_INTL("{1}'s stats can't be changed further!", target.pbThis)) if show_message
+      @battle.pbDisplay(_INTL("Les stats de {1} ne peuvent plus changer !", target.pbThis)) if show_message
       return true
     end
     return false
@@ -588,7 +588,7 @@ class Battle::Move::RaiseUserAtkSpAtkSpeed2LoseHalfOfTotalHP < Battle::Move
   def pbMoveFailed?(user, targets)
     hpLoss = [user.totalhp / 2, 1].max
     if user.hp <= hpLoss
-      @battle.pbDisplay(_INTL("But it failed!"))
+      @battle.pbDisplay(_INTL("Mais cela échoue !"))
       return true
     end
     failed = true
@@ -666,27 +666,27 @@ class Battle::Move::RaiseUserAtkSpd1RemoveHazardsSubstitutes < Battle::Move::Mul
       team = (i == 0) ? user.pbTeam(true) : user.pbOpposingTeam(true)
       if side.effects[PBEffects::StealthRock]
         side.effects[PBEffects::StealthRock] = false
-        @battle.pbDisplay(_INTL("The pointed stones disappeared from around {1}!", team))
+        @battle.pbDisplay(_INTL("Les roches pointues du côté de {1} disparaissent !", team))
         showMsg = true
       end
       if defined?(PBEffects::Steelsurge) && side.effects[PBEffects::Steelsurge]
         side.effects[PBEffects::Steelsurge] = false
-        @battle.pbDisplay(_INTL("The pointed steel disappeared from around {1}!", team))
+        @battle.pbDisplay(_INTL("Les débris acérés du côté de {1} disparaissent !", team))
         showMsg = true
       end
       if side.effects[PBEffects::Spikes] > 0
         side.effects[PBEffects::Spikes] = 0
-        @battle.pbDisplay(_INTL("The spikes disappeared from the ground around {1}!", team))
+        @battle.pbDisplay(_INTL("Les picots du côté de {1} disparaissent !", team))
         showMsg = true
       end
       if side.effects[PBEffects::ToxicSpikes] > 0
         side.effects[PBEffects::ToxicSpikes] = 0
-        @battle.pbDisplay(_INTL("The poison spikes disappeared from the ground around {1}!", team))
+        @battle.pbDisplay(_INTL("Les pics toxiques du côté de {1} disparaissent !", team))
         showMsg = true
       end
       if side.effects[PBEffects::StickyWeb]
         side.effects[PBEffects::StickyWeb] = false
-        @battle.pbDisplay(_INTL("The sticky web has disappeared from the ground around {1}!", team))
+        @battle.pbDisplay(_INTL("La taile gluante du côté de {1} disparait !", team))
         showMsg = true
       end
     end
@@ -695,7 +695,7 @@ class Battle::Move::RaiseUserAtkSpd1RemoveHazardsSubstitutes < Battle::Move::Mul
       b.effects[PBEffects::Substitute] = 0
       showMsg = true
     end
-    @battle.pbDisplay(_INTL("Tidying up complete!")) if showMsg
+    @battle.pbDisplay(_INTL("Terrain nettoyé !")) if showMsg
     super
   end
 end
@@ -755,13 +755,13 @@ class Battle::Move::RemoveTerrainIceSpinner < Battle::Move
     return if @battle.field.terrain == :None
     case @battle.field.terrain
     when :Electric
-      @battle.pbDisplay(_INTL("The electricity disappeared from the battlefield."))
+      @battle.pbDisplay(_INTL("Le champ électrique s'évapore."))
     when :Grassy
-      @battle.pbDisplay(_INTL("The grass disappeared from the battlefield."))
+      @battle.pbDisplay(_INTL("Le champ herbu s'évapore."))
     when :Misty
-      @battle.pbDisplay(_INTL("The mist disappeared from the battlefield."))
+      @battle.pbDisplay(_INTL("Le champ brumeux s'évapore."))
     when :Psychic
-      @battle.pbDisplay(_INTL("The weirdness disappeared from the battlefield."))
+      @battle.pbDisplay(_INTL("Le champ psychique s'évapore."))
     end
     @battle.field.terrain = :None
     @battle.allBattlers.each { |battler| battler.pbAbilityOnTerrainChange }
@@ -865,11 +865,11 @@ class Battle::Move::SetUserAlliesAbilityToTargetAbility < Battle::Move
   def pbMoveFailed?(user, targets)
     @battle.allSameSideBattlers(user.index).each do |b|
       next if !b.unstoppableAbility?
-      @battle.pbDisplay(_INTL("But it failed!"))
+      @battle.pbDisplay(_INTL("Mais cela échoue !"))
       return true
     end
     if user.hasActiveItem?(:ABILITYSHIELD)
-      @battle.pbDisplay(_INTL("{1}'s Ability is protected by the effects of its Ability Shield!",user.pbThis))
+      @battle.pbDisplay(_INTL("Le talent de {1} est protégé grâce à son Garde-Talent !",user.pbThis))
       return true
     end
     return false
@@ -877,11 +877,11 @@ class Battle::Move::SetUserAlliesAbilityToTargetAbility < Battle::Move
 
   def pbFailsAgainstTarget?(user, target, show_message)
     if !target.ability || user.ability == target.ability
-      @battle.pbDisplay(_INTL("But it failed!")) if show_message
+      @battle.pbDisplay(_INTL("Mais cela échoue !")) if show_message
       return true
     end
     if target.uncopyableAbility?
-      @battle.pbDisplay(_INTL("But it failed!")) if show_message
+      @battle.pbDisplay(_INTL("Mais cela échoue !")) if show_message
       return true
     end
     return false
@@ -891,13 +891,13 @@ class Battle::Move::SetUserAlliesAbilityToTargetAbility < Battle::Move
     @battle.allSameSideBattlers(user).each do |b|
 	  next if b.ability == target.ability
       if b.hasActiveItem?(:ABILITYSHIELD)
-        @battle.pbDisplay(_INTL("{1}'s Ability is protected by the effects of its Ability Shield!", b.pbThis))
+        @battle.pbDisplay(_INTL("Le talent de {1} est protégé grâce à son Garde-Talent !", b.pbThis))
       else
         @battle.pbShowAbilitySplash(b, true, false)
         oldAbil = b.ability
         b.ability = target.ability
         @battle.pbReplaceAbilitySplash(b)
-        @battle.pbDisplay(_INTL("{1} copied {2}'s {3}!",
+        @battle.pbDisplay(_INTL("{1} copie {2} et obtient {3} !",
                             user.pbThis, target.pbThis(true), target.abilityName))
         @battle.pbHideAbilitySplash(b)
         b.pbOnLosingAbility(oldAbil)

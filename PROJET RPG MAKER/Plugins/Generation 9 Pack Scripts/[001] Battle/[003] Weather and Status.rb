@@ -17,7 +17,7 @@
 #-------------------------------------------------------------------------------
 GameData::Status.register({
   :id            => :DROWSY,
-  :name          => _INTL("Drowsy"),
+  :name          => _INTL("Somnolent"),
   :animation     => "Drowsy",
   :icon_position => 5
 })
@@ -291,13 +291,13 @@ class Battle::Battler
       #-------------------------------------------------------------------------
       when :DROWSY
         if affectedByTerrain? && @battle.field.terrain == :Electric
-          @battle.pbDisplay(_INTL("{1} surrounds itself with electrified terrain!", pbThis(true))) if showMessages
+          @battle.pbDisplay(_INTL("{1} s'enveloppe dans l'électricité du terrain !", pbThis(true))) if showMessages
           return false
         end
         if !(hasActiveAbility?(:SOUNDPROOF) && !@battle.moldBreaker)
           @battle.allBattlers.each do |b|
             next if b.effects[PBEffects::Uproar] == 0
-            @battle.pbDisplay(_INTL("But the uproar kept {1} alert!", pbThis(true))) if showMessages
+            @battle.pbDisplay(_INTL("Mais le brouhaha garde {1} en alerte !", pbThis(true))) if showMessages
             return false
           end
         end
@@ -338,7 +338,7 @@ class Battle::Battler
           msg = ""
           if Battle::Scene::USE_ABILITY_SPLASH
             case originalStatus
-            when :SLEEP  then msg = _INTL("{1} stays alert!", pbThis)
+            when :SLEEP  then msg = _INTL("{1} reste alerte !", pbThis)
             when :FROZEN then msg = _INTL("{1} cannot be frostbitten!", pbThis)
             end
           elsif immAlly

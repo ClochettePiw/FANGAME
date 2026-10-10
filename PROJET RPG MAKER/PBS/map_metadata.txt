@@ -1415,3 +1415,7 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Wild
 WildCaptureME = Pkmn get
 MapSize = 1,1
+#-------------------------------
+[176]   # Riyu - Palais toit
+Name = Riyu
+BattleBack = yuga

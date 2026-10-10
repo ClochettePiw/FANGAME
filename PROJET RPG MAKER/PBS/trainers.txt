@@ -126,7 +126,7 @@ Pokemon = LILLIPUP,9
 LoseText = Et pourtant, j'ai failli...
 Pokemon = TEDDIURSA,10
 #-------------------------------
-[GYMLEADER1,Connor]
+[GYMLEADER1,Connor,1]
 Items = POTION
 LoseText = C'est bien plus que j'en espérais !
 Pokemon = TEDDIURSA,12
@@ -3462,6 +3462,66 @@ Pokemon = KOMMOO,55
 LoseText = La victoire vous revient de droit.
 Pokemon = CHATOT,54
 Pokemon = AZUMARILL,55
+#-------------------------------
+[ADVISOR,Yuga]
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
+LoseText = Non ! Je refuse d'échouer si près du but !
+Pokemon = ZOROARK,66
+    Moves = UTURN,NIGHTDAZE,PSYCHIC,NASTYPLOT
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = KLINKLANG,65
+    Moves = GEARGRIND,WILDCHARGE,POWERGEM,SHIFTGEAR
+    AbilityIndex = 2
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGAPULT,65
+    Moves = DRAGONRUSH,PHANTOMFORCE,FIREBLAST,THUNDER
+    AbilityIndex = 2
+    Item = WIDELENS
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = CRAWDAUNT,64
+    Moves = CRABHAMMER,AQUAJET,CRUNCH,SWORDSDANCE
+    AbilityIndex = 2
+    Item = LIFEORB
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = KLEAVOR,64
+    Moves = XSCISSOR,STONEAXE,NIGHTSLASH,AIRSLASH
+    AbilityIndex = 2
+    Item = ASSAULTVEST
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = MIENSHAO,64
+    Moves = HIGHJUMPKICK,ICESPINNER,STONEEDGE,FLING
+    AbilityIndex = 0
+    Item = FLAMEORB
+    Gender = female
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GYMLEADER1,Connor,2]
+LoseText = ***
+Pokemon = WYRDEER,63
+    Moves = PSYSHIELDBASH,TAKEDOWN,HYPNOSIS,BULLDOZE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+    EV = 0,0,252,0,0,252
+Pokemon = STOUTLAND,61
+    Moves = RETALIATE,LASTRESORT,SUPERPOWER,FIREFANG
+    AbilityIndex = 0
+    Gender = female
+    IV = 31,31,31,31,31,31
+    EV = 0,0,252,0,0,252
+Pokemon = URSARING,59
+    Moves = FACADE,PLAYROUGH,HAMMERARM,AVALANCHE
+    AbilityIndex = 1    
+    Gender = male
+    IV = 31,31,31,31,31,31
+    EV = 252,252,0,0,0,0
 #-------------------------------
 [ILLUSION,???,1]
 LoseText = ...

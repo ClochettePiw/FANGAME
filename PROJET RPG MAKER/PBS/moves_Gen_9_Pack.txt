@@ -214,7 +214,7 @@ Flags = CannotMetronome
 Description = The user swaps its Attack and Defense stats.
 #-------------------------------
 [STONEAXE]
-Name = Stone Axe
+Name = Hache de Pierre
 Type = ROCK
 Category = Physical
 Power = 65
@@ -224,7 +224,7 @@ Target = NearOther
 FunctionCode = SplintersTargetGen8AddStealthRocksGen9
 Flags = Contact,CanProtect,CanMirrorMove,Slicing
 EffectChance = 100
-Description = The user swings at the opponent with its stone axes. May leave floating rocks around the target.
+Description = Attaque la cible avec une hache de pierre. Des débris se répandent alors autour de la cible.
 #-------------------------------
 [MYSTICALPOWER]
 Name = Mystical Power

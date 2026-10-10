@@ -12,11 +12,11 @@
 #-------------------------------------------------------------------------------
 ItemHandlers::UseOnPokemon.add(:AWAKENING, proc { |item, qty, pkmn, scene|
   if pkmn.fainted? || ![:SLEEP, :DROWSY].include?(pkmn.status)
-    scene.pbDisplay(_INTL("It won't have any effect."))
+    scene.pbDisplay(_INTL("Ça n'aura aucun effet."))
     next false
   end
   case pkmn.status
-  when :SLEEP  then msg = _INTL("{1} woke up.", pkmn.name)
+  when :SLEEP  then msg = _INTL("{1} se réveille.", pkmn.name)
   when :DROWSY then msg = _INTL("{1} became alert again.", pkmn.name)
   end
   pkmn.heal_status
@@ -34,11 +34,11 @@ ItemHandlers::UseOnPokemon.copy(:AWAKENING, :CHESTOBERRY, :BLUEFLUTE, :POKEFLUTE
 #-------------------------------------------------------------------------------
 ItemHandlers::UseOnPokemon.add(:ICEHEAL, proc { |item, qty, pkmn, scene|
   if pkmn.fainted? || ![:FROZEN, :FROSTBITE].include?(pkmn.status)
-    scene.pbDisplay(_INTL("It won't have any effect."))
+    scene.pbDisplay(_INTL("Ça n'aura aucun effet."))
     next false
   end
   case pkmn.status
-  when :FROZEN    then msg = _INTL("{1} was thawed out.", pkmn.name)
+  when :FROZEN    then msg = _INTL("{1} est dégelé.", pkmn.name)
   when :FROSTBITE then msg = _INTL("{1}'s frostbite was healed.", pkmn.name)
   end
   pkmn.heal_status
@@ -77,16 +77,16 @@ ItemHandlers::UseOnPokemon.add(:GRACIDEA, proc { |item, qty, pkmn, scene|
 #-------------------------------------------------------------------------------
 ItemHandlers::UseOnPokemon.add(:REVEALGLASS, proc { |item, qty, pkmn, scene|
   if !pkmn.species_data.has_flag?("ForcesOfNature")
-    scene.pbDisplay(_INTL("It had no effect."))
+    scene.pbDisplay(_INTL("Ça n'a aucun effet."))
     next false
   elsif pkmn.fainted?
-    scene.pbDisplay(_INTL("This can't be used on the fainted Pokémon."))
+    scene.pbDisplay(_INTL("Cet objet ne fonctionnera pas sur un Pokémon K.O."))
     next false
   end
   newForm = (pkmn.form == 0) ? 1 : 0
   pkmn.setForm(newForm) {
     scene.pbRefresh
-    scene.pbDisplay(_INTL("{1} changed Forme!", pkmn.name))
+    scene.pbDisplay(_INTL("{1} change de forme !", pkmn.name))
   }
   next true
 })
@@ -139,7 +139,7 @@ ItemHandlers::CanUseInBattle.copy(:AWAKENING, :CHESTOBERRY)
 
 ItemHandlers::CanUseInBattle.add(:BLUEFLUTE, proc { |item, pokemon, battler, move, firstAction, battle, scene, showMessages|
   if battler&.hasActiveAbility?(:SOUNDPROOF)
-    scene.pbDisplay(_INTL("It won't have any effect.")) if showMessages
+    scene.pbDisplay(_INTL("Ça n'aura aucun effet.")) if showMessages
     next false
   end
   next pbBattleItemCanCureStatus?(:SLEEP, pokemon, scene, showMessages) ||
@@ -153,7 +153,7 @@ ItemHandlers::BattleUseOnPokemon.add(:AWAKENING, proc { |item, pokemon, battler,
   name = (battler) ? battler.pbThis : pokemon.name
   scene.pbRefresh
   case oldStatus
-  when :SLEEP  then scene.pbDisplay(_INTL("{1} woke up.", name))
+  when :SLEEP  then scene.pbDisplay(_INTL("{1} se réveille.", name))
   when :DROWSY then scene.pbDisplay(_INTL("{1} became alert again.", name))
   end
 })
@@ -167,7 +167,7 @@ ItemHandlers::BattleUseOnPokemon.copy(:AWAKENING, :CHESTOBERRY, :BLUEFLUTE)
 #-------------------------------------------------------------------------------
 ItemHandlers::CanUseInBattle.add(:POKEFLUTE, proc { |item, pokemon, battler, move, firstAction, battle, scene, showMessages|
   if battle.allBattlers.none? { |b| [:SLEEP, :DROWSY].include?(b.status) && !b.hasActiveAbility?(:SOUNDPROOF) }
-    scene.pbDisplay(_INTL("It won't have any effect.")) if showMessages
+    scene.pbDisplay(_INTL("Ça n'aura aucun effet.")) if showMessages
     next false
   end
   next true
@@ -177,7 +177,7 @@ ItemHandlers::UseInBattle.add(:POKEFLUTE, proc { |item, battler, battle|
   battle.allBattlers.each do |b|
     b.pbCureStatus(false) if [:SLEEP, :DROWSY].include?(b.status) && !b.hasActiveAbility?(:SOUNDPROOF)
   end
-  battle.pbDisplay(_INTL("All Pokémon were roused by the tune!"))
+  battle.pbDisplay(_INTL("Tous les Pokémons sont réveillés par la mélodie !"))
 })
 
 #===============================================================================
@@ -199,7 +199,7 @@ ItemHandlers::BattleUseOnPokemon.add(:ICEHEAL, proc { |item, pokemon, battler, c
   name = (battler) ? battler.pbThis : pokemon.name
   scene.pbRefresh
   case oldStatus
-  when :FROZEN    then scene.pbDisplay(_INTL("{1} was thawed out.", name))
+  when :FROZEN    then scene.pbDisplay(_INTL("{1} est dégelé.", name))
   when :FROSTBITE then scene.pbDisplay(_INTL("{1}'s frostbite was healed.", name))
   end
 })
@@ -232,26 +232,26 @@ Battle::ItemEffects::StatusCure.add(:LUMBERRY,
     battler.pbCureStatus(forced)
     battler.pbCureConfusion
     if forced
-      battle.pbDisplay(_INTL("{1} snapped out of its confusion.", battler.pbThis)) if oldConfusion
+      battle.pbDisplay(_INTL("{1} sort de sa confusion.", battler.pbThis)) if oldConfusion
     else
       case oldStatus
       when :SLEEP
-        battle.pbDisplay(_INTL("{1}'s {2} woke it up!", battler.pbThis, itemName))
+        battle.pbDisplay(_INTL("{1} se réveille grâce à sa {2} !", battler.pbThis, itemName))
       when :POISON
-        battle.pbDisplay(_INTL("{1}'s {2} cured its poisoning!", battler.pbThis, itemName))
+        battle.pbDisplay(_INTL("{1} guérit du poison grâce à sa {2} !", battler.pbThis, itemName))
       when :BURN
-        battle.pbDisplay(_INTL("{1}'s {2} healed its burn!", battler.pbThis, itemName))
+        battle.pbDisplay(_INTL("{1} guérit de sa brûlure grâce à sa {2} !", battler.pbThis, itemName))
       when :PARALYSIS
-        battle.pbDisplay(_INTL("{1}'s {2} cured its paralysis!", battler.pbThis, itemName))
+        battle.pbDisplay(_INTL("{1} guérit de sa paralysie grâce à sa {2} !", battler.pbThis, itemName))
       when :FROZEN
-        battle.pbDisplay(_INTL("{1}'s {2} defrosted it!", battler.pbThis, itemName))
+        battle.pbDisplay(_INTL("{1} est dégelé grâce à sa {2} !", battler.pbThis, itemName))
       when :DROWSY
         battle.pbDisplay(_INTL("{1}'s {2} made it alert again!", battler.pbThis, itemName))
       when :FROSTBITE
         battle.pbDisplay(_INTL("{1}'s {2} healed its frostbite!", battler.pbThis, itemName))
       end
       if oldConfusion
-        battle.pbDisplay(_INTL("{1}'s {2} snapped it out of its confusion!", battler.pbThis, itemName))
+        battle.pbDisplay(_INTL("{1} sort de sa confusion grâce à sa {2} !", battler.pbThis, itemName))
       end
     end
     next true
@@ -271,7 +271,7 @@ Battle::ItemEffects::StatusCure.add(:CHESTOBERRY,
     PBDebug.log("[Item triggered] #{battler.pbThis}'s #{itemName}") if forced
     battle.pbCommonAnimation("EatBerry", battler) if !forced
     case battler.status
-    when :SLEEP  then msg = _INTL("{1}'s {2} woke it up!", battler.pbThis, itemName)
+    when :SLEEP  then msg = _INTL("{1} se réveille grâce à sa {2} !", battler.pbThis, itemName)
     when :DROWSY then msg = _INTL("{1}'s {2} made it alert again!", battler.pbThis, itemName)
     end
     battler.pbCureStatus(forced)
@@ -293,7 +293,7 @@ Battle::ItemEffects::StatusCure.add(:ASPEARBERRY,
     PBDebug.log("[Item triggered] #{battler.pbThis}'s #{itemName}") if forced
     battle.pbCommonAnimation("EatBerry", battler) if !forced
     case battler.status
-    when :FROZEN    then msg = _INTL("{1}'s {2} defrosted it!", battler.pbThis, itemName)
+    when :FROZEN    then msg = _INTL("{1} est degelé grâce à sa {2} !", battler.pbThis, itemName)
     when :FROSTBITE then msg = _INTL("{1}'s {2} healed its frostbite!", battler.pbThis, itemName)
     end
     battler.pbCureStatus(forced)
@@ -373,7 +373,7 @@ Battle::ItemEffects::OnBeingHit.add(:STICKYBARB,
       user.setInitialItem(user.item)
       target.setInitialItem(nil)
     end
-    battle.pbDisplay(_INTL("{1}'s {2} was transferred to {3}!",
+    battle.pbDisplay(_INTL("{1} transmet ses {2} à {3} !",
        target.pbThis, user.itemName, user.pbThis(true)))
   }
 )
