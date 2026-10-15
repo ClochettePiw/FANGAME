@@ -127,7 +127,7 @@ class Battle::Move::DamageTargetAddStealthRocksToFoeSide < Battle::Move
     return if target.pbOwnSide.effects[PBEffects::StealthRock]
     target.pbOwnSide.effects[PBEffects::StealthRock] = true
     @battle.pbAnimation(:STEALTHROCK, user, target)
-    @battle.pbDisplay(_INTL("Des débris pointus flottent autour de l'équipe de {1} !", user.pbOpposingTeam(true)))
+    @battle.pbDisplay(_INTL("Des débris pointus flottent autour de {1} !", user.pbOpposingTeam(true)))
   end
 end
 
