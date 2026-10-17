@@ -1465,7 +1465,15 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,CLOYSTER,30,40
-
+#-------------------------------
+[177] # Mer Ouragan
+Cave,2
+    25,BOLDORE,44,48
+    20,SANDACONDA,44,48
+    20,RHYHORN,43,47
+    15,RHYDON,44,48
+    10,LAIRON,44,48
+    10,DEINO,43,47
 
 
 
