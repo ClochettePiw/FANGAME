@@ -4167,6 +4167,17 @@ Flags = Fling_10
 Move = PLAYROUGH
 Description = Attaque l'ennemi avec un câlin. Peut diminuer son Attaque.
 #-------------------------------
+[TM83]
+Name = CT83
+NamePlural = CT83s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = FLIPTURN
+Description = Après son attaque, le lanceur revient à toute vitesse et change de place avec un Pokémon de l'équipe prêt au combat.
+#-------------------------------
 [HM01]
 Name = CS01
 NamePlural = CS01s
