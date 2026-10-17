@@ -1368,6 +1368,7 @@ ShowArea = true
 Bicycle = true
 Weather = HeavyRain,100
 MapPosition = 0,21,11
+DiveMap = 177
 BattleBack = riyu
 WildBattleBGM = Battle wild
 TrainerBattleBGM = Battle trainers
@@ -1419,3 +1420,16 @@ MapSize = 1,1
 [176]   # Riyu - Palais toit
 Name = Riyu
 BattleBack = yuga
+#-------------------------------
+[177]   # Mer Ouragan
+Name = Mer Ouragan
+ShowArea = true
+MapPosition = 0,21,11
+DiveMap = 171
+BattleBack = underwater
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainers
+WildVictoryBGM = VIC-Wild
+TrainerVictoryBGM = VIC-Trainer
+WildCaptureME = Pkmn get
+MapSize = 1,1

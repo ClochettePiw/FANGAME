@@ -33,3 +33,9 @@ SurfCharset = boy_run_Régalia
 DiveCharset = boy_run_Régalia
 FishCharset = trainer_POKEMONTRAINER_Red_Régalia
 SurfFishCharset = trainer_POKEMONTRAINER_Red_Régalia
+#-------------------------------
+[3]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = boy_dive
+RunCharset = boy_dive_run
+CycleCharset = boy_run_Régalia
