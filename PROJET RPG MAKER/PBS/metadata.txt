@@ -39,3 +39,7 @@ TrainerType = POKEMONTRAINER_Red
 WalkCharset = boy_dive
 RunCharset = boy_dive_run
 CycleCharset = boy_run_Régalia
+SurfCharset = boy_run_Régalia
+DiveCharset = boy_run_Régalia
+FishCharset = boy_dive
+SurfFishCharset = boy_dive

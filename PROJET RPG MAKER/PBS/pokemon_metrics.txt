@@ -704,7 +704,7 @@ ShadowSize = 2
 #-------------------------------
 [VIKAVOLT]
 BackSprite = 0,28
-FrontSprite = 2,13
+FrontSprite = 3,12
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
