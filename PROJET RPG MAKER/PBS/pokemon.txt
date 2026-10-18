@@ -6717,7 +6717,7 @@ Weight = 12.5
 Color = Gray
 Shape = Quadruped
 Category = Sombrenard
-Pokedex = To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.
+Pokedex = Si un enfant volubile a soudain perdu sa langue, méfiez-vous ! C’est peut-être un Zorua qui a pris son apparence...
 Generation = 5
 Evolutions = ZOROARK,Level,30
 #-------------------------------
@@ -6741,7 +6741,7 @@ Weight = 81.1
 Color = Gray
 Shape = BipedalTail
 Category = Polymorfox
-Pokedex = Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.
+Pokedex = Ce Pokémon peut mystifier instantanément des foules d'êtres humains. Il protège son habitat en créant des illusions de paysages.
 Generation = 5
 #-------------------------------
 [TORNADUS]
