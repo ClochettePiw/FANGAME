@@ -1655,3 +1655,15 @@ BackSprite = 0,30
 FrontSprite = -5,26
 ShadowX = 0
 ShadowSize = 3
+#-------------------------------
+[ONIX]
+BackSprite = 0,19
+FrontSprite = -1,17
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[STEELIX]
+BackSprite = 0,12
+FrontSprite = -2,14
+ShadowX = 0
+ShadowSize = 3
