@@ -5330,13 +5330,13 @@ Flags = KeyItem
 Description = A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays.
 #-------------------------------
 [REVEALGLASS]
-Name = Reveal Glass
-NamePlural = Reveal Glasses
+Name = Miroir Sacré
+NamePlural = Miroirs Sacrés
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.
+Description = Un mystérieux miroir qui, en reflétant la vérité, permet de redonner à un Pokémon sa forme originelle.
 #-------------------------------
 [PRISONBOTTLE]
 Name = Prison Bottle
