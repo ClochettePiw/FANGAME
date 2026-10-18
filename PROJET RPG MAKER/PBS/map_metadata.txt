@@ -1433,3 +1433,11 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 1,1
+#-------------------------------
+[179]   # Mer Ouragan - cave
+Name = Mer Ouragan
+DiveMap = 180
+#-------------------------------
+[180]   # Mer Ouragan - cave surface
+Name = Mer Ouragan
+DiveMap = 179
