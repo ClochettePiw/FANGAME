@@ -4178,6 +4178,17 @@ Flags = Fling_10
 Move = FLIPTURN
 Description = Après son attaque, le lanceur revient à toute vitesse et change de place avec un Pokémon de l'équipe prêt au combat.
 #-------------------------------
+[TM84]
+Name = CT84
+NamePlural = CT84s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = FIRSTIMPRESSION
+Description = Une capacité très puissante, mais qui ne fonctionne qu'au premier tour.
+#-------------------------------
 [HM01]
 Name = CS01
 NamePlural = CS01s
@@ -4248,7 +4259,7 @@ Pocket = 4
 Price = 0
 FieldUse = HM
 Move = DIVE
-Description = Diving on the first turn, the user floats up and attacks on the second. It can be used to dive underwater.
+Description = Le lanceur plonge sous l'eau au premier tour et frappe au second.
 #-------------------------------
 [CHERIBERRY]
 Name = Baie Ceriz
