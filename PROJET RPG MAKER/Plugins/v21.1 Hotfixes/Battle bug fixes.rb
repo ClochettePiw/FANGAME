@@ -160,26 +160,26 @@ module Battle::CatchAndStoreMixin
     # Nickname the Pokémon (unless it's a Shadow Pokémon)
     if !pkmn.shadowPokemon?
       if $PokemonSystem.givenicknames == 0 &&
-         pbDisplayConfirm(_INTL("Would you like to give a nickname to {1}?", pkmn.name))
-        nickname = @scene.pbNameEntry(_INTL("{1}'s nickname?", pkmn.speciesName), pkmn)
+         pbDisplayConfirm(_INTL("Voulez-vous donner un surnom à {1} ?", pkmn.name))
+        nickname = @scene.pbNameEntry(_INTL("Surnom de {1} ?", pkmn.speciesName), pkmn)
         pkmn.name = nickname
       end
     end
     # Store the Pokémon
     if pbPlayer.party_full? && (@sendToBoxes == 0 || @sendToBoxes == 2)   # Ask/must add to party
-      cmds = [_INTL("Add to your party"),
-              _INTL("Send to a Box"),
-              _INTL("See {1}'s summary", pkmn.name),
-              _INTL("Check party")]
+      cmds = [_INTL("Ajouter à l'équipe"),
+              _INTL("Envoyer au PC"),
+              _INTL("Voir le résumé de {1}", pkmn.name),
+              _INTL("Voir l'équipe")]
       cmds.delete_at(1) if @sendToBoxes == 2   # Remove "Send to a Box" option
       loop do
-        cmd = pbShowCommands(_INTL("Where do you want to send {1} to?", pkmn.name), cmds, 99)
+        cmd = pbShowCommands(_INTL("Où envoyer {1} ?", pkmn.name), cmds, 99)
         next if cmd == 99 && @sendToBoxes == 2   # Can't cancel if must add to party
         break if cmd == 99   # Cancelling = send to a Box
         cmd += 1 if cmd >= 1 && @sendToBoxes == 2
         case cmd
         when 0   # Add to your party
-          pbDisplay(_INTL("Choose a Pokémon in your party to send to your Boxes."))
+          pbDisplay(_INTL("Choisissez un Pokémon de l'équipe à envoyer au PC."))
           party_index = -1
           @scene.pbPartyScreen(0, (@sendToBoxes != 2), 1) do |idxParty, _partyScene|
             party_index = idxParty
@@ -197,7 +197,7 @@ module Battle::CatchAndStoreMixin
           stored_box = @peer.pbStorePokemon(pbPlayer, send_pkmn)
           pbPlayer.party.delete_at(party_index)
           box_name = @peer.pbBoxName(stored_box)
-          pbDisplayPaused(_INTL("{1} has been sent to Box \"{2}\".", send_pkmn.name, box_name))
+          pbDisplayPaused(_INTL("{1} a été envoyé dans \"{2}\".", send_pkmn.name, box_name))
           # Rearrange all remembered properties of party Pokémon
           (party_index...party_size).each do |idx|
             if idx < party_size - 1
@@ -229,13 +229,13 @@ module Battle::CatchAndStoreMixin
     # Store as normal (add to party if there's space, or send to a Box if not)
     stored_box = @peer.pbStorePokemon(pbPlayer, pkmn)
     if stored_box < 0
-      pbDisplayPaused(_INTL("{1} has been added to your party.", pkmn.name))
+      pbDisplayPaused(_INTL("{1} a rejoint l'équipe.", pkmn.name))
       @initialItems[0][pbPlayer.party.length - 1] = pkmn.item_id if @initialItems
       return
     end
     # Messages saying the Pokémon was stored in a PC box
     box_name = @peer.pbBoxName(stored_box)
-    pbDisplayPaused(_INTL("{1} has been sent to Box \"{2}\"!", pkmn.name, box_name))
+    pbDisplayPaused(_INTL("{1} a été envoyé dans \"{2}\" !", pkmn.name, box_name))
   end
 end
 

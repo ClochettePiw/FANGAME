@@ -390,8 +390,8 @@ class Battle::Scene
     modParty = @battle.pbPlayerDisplayParty(idxBattler)
     scene = PokemonParty_Scene.new
     switchScreen = PokemonPartyScreen.new(scene, modParty)
-    msg = _INTL("Choose a Pokémon.")
-    msg = _INTL("Send which Pokémon to Boxes?") if mode == 1
+    msg = _INTL("Choisissez un Pokémon.")
+    msg = _INTL("Envoyer quel Pokémon au PC ?") if mode == 1
     switchScreen.pbStartScene(msg, @battle.pbNumPositions(0, 0))
     loop do
       scene.pbSetHelpText(msg)
@@ -405,13 +405,13 @@ class Battle::Scene
       cmdSelect  = -1
       cmdSummary = -1
       commands = []
-      commands[cmdSwitch  = commands.length] = _INTL("Switch In") if mode == 0 && modParty[idxParty].able? &&
+      commands[cmdSwitch  = commands.length] = _INTL("Échanger") if mode == 0 && modParty[idxParty].able? &&
                                                                      (@battle.canSwitch || !canCancel)
-      commands[cmdBoxes   = commands.length] = _INTL("Send to Boxes") if mode == 1
-      commands[cmdSelect  = commands.length] = _INTL("Select") if mode == 2 && modParty[idxParty].fainted?
-      commands[cmdSummary = commands.length] = _INTL("Summary")
-      commands[commands.length]              = _INTL("Cancel")
-      command = scene.pbShowCommands(_INTL("Do what with {1}?", modParty[idxParty].name), commands)
+      commands[cmdBoxes   = commands.length] = _INTL("Envoyer au PC") if mode == 1
+      commands[cmdSelect  = commands.length] = _INTL("Sélectionner") if mode == 2 && modParty[idxParty].fainted?
+      commands[cmdSummary = commands.length] = _INTL("Résumé")
+      commands[commands.length]              = _INTL("Annuler")
+      command = scene.pbShowCommands(_INTL("Que faire avec {1} ?", modParty[idxParty].name), commands)
       if (cmdSwitch >= 0 && command == cmdSwitch) ||   # Switch In
          (cmdBoxes >= 0 && command == cmdBoxes)   ||   # Send to Boxes
          (cmdSelect >= 0 && command == cmdSelect)      # Select for Revival Blessing
