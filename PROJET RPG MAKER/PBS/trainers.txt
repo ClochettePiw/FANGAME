@@ -3463,9 +3463,9 @@ LoseText = La victoire vous revient de droit.
 Pokemon = CHATOT,54
 Pokemon = AZUMARILL,55
 #-------------------------------
-[ADVISOR,Yuga]
+[ADVISOR,Kain]
 Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
-LoseText = Non ! Je refuse d'échouer si près du but !
+LoseText = Non ! Je ne peux pas échouer si près du but !
 Pokemon = ZOROARK,66
     Moves = UTURN,NIGHTDAZE,PSYCHIC,NASTYPLOT
     AbilityIndex = 0
