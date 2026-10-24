@@ -3378,7 +3378,7 @@ Pokemon = GYARADOS,54
 #-------------------------------
 [TREASUREHUNTER,Amaury]
 LoseText = Maudit sois-tu !
-Pokemon = GLISCOR,54
+Pokemon = FEEBAS,54
 Pokemon = ZANGOOSE,54
 #-------------------------------
 [DRAGONTAMER,Pénélope]
@@ -3400,7 +3400,7 @@ LoseText = Ton équipe est fabuleuse.
 Pokemon = BRAVIARY,54
 Pokemon = ZANGOOSE,55
 #-------------------------------
-[SWIMMERM,Titus]
+[SWIMMERM,Parker]
 LoseText = C'est la douche froide !
 Pokemon = LANTURN,53
 Pokemon = SANDYGAST,54

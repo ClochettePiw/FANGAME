@@ -1394,8 +1394,8 @@ GoodRod
     100,ARROKUDA,15,25
 SuperRod
     50,GYARADOS,30,40
-    35,BARRASKEWDA,30,40
-    15,RELICANTH,30,40
+    40,BARRASKEWDA,30,40
+    10,FEEBAS,30,40
 #-------------------------------
 [171] # Chenal 25
 LandMorning,10

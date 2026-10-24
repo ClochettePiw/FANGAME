@@ -1667,3 +1667,15 @@ BackSprite = 0,12
 FrontSprite = -2,14
 ShadowX = 0
 ShadowSize = 3
+#-------------------------------
+[FEEBAS]
+BackSprite = 0,39
+FrontSprite = -2,25
+ShadowX = 0
+ShadowSize = 1
+#-------------------------------
+[MILOTIC]
+BackSprite = 0,20
+FrontSprite = 6,8
+ShadowX = 0
+ShadowSize = 3

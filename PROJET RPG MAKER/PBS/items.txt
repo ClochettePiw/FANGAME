@@ -2140,14 +2140,14 @@ Flags = Fling_10
 Description = A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon.
 #-------------------------------
 [PRISMSCALE]
-Name = Prism Scale
-NamePlural = Prism Scales
+Name = Bel'Écaille
+NamePlural = Bel'Écailles
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 BPPrice = 10
 Flags = Fling_30
-Description = A mysterious scale that evolves certain Pokémon. It shines in rainbow colors.
+Description = Une écaille étrange qui fait évoluer une certaine espèce de Pokémon. Elle a une couleur arc-en-ciel.
 #-------------------------------
 [OVALSTONE]
 Name = Oval Stone
@@ -2199,7 +2199,7 @@ Price = 700
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Une pommade qui soigne les blessures. Restaure 60 PV d'un Pokémon.
+Description = Un spray qui soigne les blessures. Restaure 60 PV d'un Pokémon.
 #-------------------------------
 [HYPERPOTION]
 Name = Hyper Potion
@@ -2209,7 +2209,7 @@ Price = 1500
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Une pommade qui soigne les blessures. Restaure 120 PV d'un Pokémon.
+Description = Un spray qui soigne les blessures. Restaure 120 PV d'un Pokémon.
 #-------------------------------
 [MAXPOTION]
 Name = Potion Max
@@ -4188,6 +4188,17 @@ FieldUse = TM
 Flags = Fling_10
 Move = FIRSTIMPRESSION
 Description = Une capacité très puissante, mais qui ne fonctionne qu'au premier tour.
+#-------------------------------
+[TM85]
+Name = CT85
+NamePlural = CT85s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = POWERUPPUNCH
+Description = À force de frapper, les poings deviennent plus durs. Augmente l'Attaque du lanceur.
 #-------------------------------
 [HM01]
 Name = CS01

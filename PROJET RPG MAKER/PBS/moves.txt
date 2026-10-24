@@ -1746,7 +1746,7 @@ Target = NearOther
 FunctionCode = RaiseUserAttack1
 Flags = Contact,CanProtect,CanMirrorMove,Punching
 EffectChance = 100
-Description = À force de frapper, les poings deviennent plus durs. Augmente l'Attaque du lanceur si l'ennemi est touché.
+Description = À force de frapper, les poings deviennent plus durs. Augmente l'Attaque du lanceur.
 #-------------------------------
 [ROCKSMASH]
 Name = Éclate-Roc
