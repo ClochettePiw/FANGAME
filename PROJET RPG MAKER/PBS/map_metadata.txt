@@ -1442,3 +1442,17 @@ DiveMap = 180
 [180]   # Mer Ouragan - cave surface
 Name = Mer Ouragan
 DiveMap = 179
+#-------------------------------
+[182]   # Ancienne route royale
+Name = Ancienne route royale
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,100
+MapPosition = 0,15,3
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainers
+WildVictoryBGM = VIC-Wild
+TrainerVictoryBGM = VIC-Trainer
+WildCaptureME = Pkmn get
+MapSize = 2,01111010
