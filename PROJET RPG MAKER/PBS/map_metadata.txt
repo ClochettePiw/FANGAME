@@ -1450,6 +1450,7 @@ ShowArea = true
 Bicycle = true
 Weather = Rain,100
 MapPosition = 0,15,3
+BattleBack = lostkingdom
 WildBattleBGM = Battle wild
 TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild

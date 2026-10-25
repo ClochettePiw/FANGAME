@@ -3681,3 +3681,22 @@ Pokemon = TINGLU,80
     EV = 252,0,252,0,0,0
     Shiny = true
     Ball = MASTERBALL
+#-------------------------------
+[COLLECTOR,Kjell]
+LoseText = Peu importe. De toute façon, c'est devenu ringard, par ici…
+Pokemon = DRUDDIGON,58
+Pokemon = ABSOL,58
+Pokemon = DHELMISE,58
+#-------------------------------
+[GUITARIST,Amalthée]
+LoseText = Do Ré Mi Fa Sol Fa Mi Ré Do… Oh ! Ne fais pas attention à moi.
+Pokemon = VIKAVOLT,57
+Pokemon = ELECTIVIRE,59
+#-------------------------------
+[ACETRAINERWM,Clifford]
+LoseText = C'est tombé dans l'oreille d'un sourd, je me trompe ?
+Pokemon = MAGMORTAR,59
+Pokemon = MILOTIC,60
+Pokemon = RELICANTH,60
+
+
