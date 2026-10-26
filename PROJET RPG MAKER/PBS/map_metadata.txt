@@ -1457,3 +1457,16 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 2,01111010
+#-------------------------------
+[183]   # Ruines du fléau
+Name = Ruines du fléau
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+MapPosition = 0,16,2
+BattleBack = lostkingdom
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainers
+WildVictoryBGM = VIC-Wild
+TrainerVictoryBGM = VIC-Trainer
+WildCaptureME = Pkmn get

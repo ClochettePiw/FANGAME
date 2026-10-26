@@ -1,5 +1,31 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+# Emos (2) - Route 2 (4)
+2,North,0,4,South,32
+# Route 16 (111) - Emos (2)
+111,North,33,2,South,0
+# Clairière d'Emos (3) - Emos (2)
+3,West,0,2,East,1
+# Route 1 (8) - Emos (2)
+8,East,0,2,West,2
+# Route 4 (15) - Emos (2)
+15,East,179,2,West,0
+# Clairière d'Emos (3) - Route 16 (111)
+3,West,54,111,East,0
+# Route 3 (6) - Route 2 (4)
+6,South,0,4,North,23
+# Jovalia (9) - Route 2 (4)
+9,East,0,4,West,7
+# Perchoir de Naïven (14) - Route 3 (6)
+14,South,0,6,North,9
+# Route 4 (15) - Route 3 (6)
+15,South,81,6,North,0
+# Route 1 (8) - Perchoir de Naïven (14)
+8,East,0,14,West,181
+# Jovalia (9) - Route 1 (8)
+9,South,21,8,North,0
+# Route 4 (15) - Perchoir de Naïven (14)
+15,East,0,14,West,0
 # Route 5 north (20) - Route 5 south (23)
 20,South,0,23,North,0
 # Route 6 (51) - Route 5 north (20)
@@ -62,29 +88,5 @@
 169,North,55,168,South,0
 # Chenal 26 (172) - Chenal 25 (171)
 172,South,0,171,North,39
-# Emos (2) - Route 2 (4)
-2,North,0,4,South,32
-# Route 3 (6) - Route 2 (4)
-6,South,0,4,North,23
-# Jovalia (9) - Route 2 (4)
-9,East,0,4,West,7
-# Route 16 (111) - Emos (2)
-111,North,33,2,South,0
-# Clairière d'Emos (3) - Emos (2)
-3,West,0,2,East,1
-# Route 1 (8) - Emos (2)
-8,East,0,2,West,2
-# Route 4 (15) - Emos (2)
-15,East,179,2,West,0
-# Clairière d'Emos (3) - Route 16 (111)
-3,West,54,111,East,0
-# Perchoir de Naïven (14) - Route 3 (6)
-14,South,0,6,North,9
-# Route 4 (15) - Route 3 (6)
-15,South,81,6,North,0
-# Route 1 (8) - Perchoir de Naïven (14)
-8,East,0,14,West,181
-# Route 4 (15) - Perchoir de Naïven (14)
-15,East,0,14,West,0
-# Jovalia (9) - Route 1 (8)
-9,South,21,8,North,0
+# Ancienne route royale (182) - Ruines du fléau (183)
+182,North,29,183,South,0

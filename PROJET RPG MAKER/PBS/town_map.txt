@@ -129,4 +129,4 @@ Point = 15,5,Ancienne route royale,
 Point = 15,4,Ancienne route royale,
 Point = 16,4,Ancienne route royale,
 Point = 16,3,Ancienne route royale,
-Point = 16,2,Ruines du fléau,
+Point = 16,2,Ruines du fléau,,183,28,65
