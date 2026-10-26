@@ -4200,6 +4200,39 @@ Flags = Fling_10
 Move = POWERUPPUNCH
 Description = À force de frapper, les poings deviennent plus durs. Augmente l'Attaque du lanceur.
 #-------------------------------
+[TM86]
+Name = CT86
+NamePlural = CT86s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = POLTERGEIST
+Description = Le lanceur manipule l'objet tenu par l'ennemi pour l'attaquer. Échoue si la cible ne tient rien.
+#-------------------------------
+[TM87]
+Name = CT87
+NamePlural = CT87s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = HAZE
+Description = Crée un brouillard qui annule les changements de stats de tous les Pokémon au combat.
+#-------------------------------
+[TM88]
+Name = CT88
+NamePlural = CT88s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = DRACOMETEOR
+Description = Le lanceur invoque des comètes. Le contrecoup réduit beaucoup son Attaque Spéciale.
+#-------------------------------
 [HM01]
 Name = CS01
 NamePlural = CS01s

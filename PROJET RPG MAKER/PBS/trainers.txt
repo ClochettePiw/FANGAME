@@ -3713,3 +3713,14 @@ Pokemon = COALOSSAL,59
 [MERCHANTM,Helios]
 LoseText = Hé ! On ne touche qu'avec les yeux !
 Pokemon = MILOTIC,60
+#-------------------------------
+[LOSTQUEEN,Selesta]
+LoseText = ...
+Pokemon = COFAGRIGUS,76
+    Moves = SHADOWBALL,BODYPRESS,TOXICSPIKES,HEALBLOCK
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+    EV = 252,0,0,0,0,252
+    Shiny = true
+    Ball = MASTERBALL

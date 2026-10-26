@@ -150,7 +150,15 @@ Name = Conseiller
 Gender = Male
 BaseMoney = 180
 SkillLevel = 100
-BattleBGM = BT-Yuga
+BattleBGM = BT-Kain
+VictoryBGM = VIC-Regalia
+#-------------------------------
+[LOSTQUEEN]
+Name = Conjuratrice
+Gender = Female
+BaseMoney = 240
+SkillLevel = 100
+BattleBGM = BT-Kain
 VictoryBGM = VIC-Regalia
 #-------------------------------
 [LEGACY1]
