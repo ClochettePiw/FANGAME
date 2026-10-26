@@ -153,7 +153,7 @@ SkillLevel = 100
 BattleBGM = BT-Kain
 VictoryBGM = VIC-Regalia
 #-------------------------------
-[LOSTQUEEN]
+[CONJURER]
 Name = Conjuratrice
 Gender = Female
 BaseMoney = 240

@@ -1470,3 +1470,6 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+#-------------------------------
+[185]   # Passé - cutscene 1
+Weather = Rain,100

@@ -3714,7 +3714,7 @@ Pokemon = COALOSSAL,59
 LoseText = Hé ! On ne touche qu'avec les yeux !
 Pokemon = MILOTIC,60
 #-------------------------------
-[LOSTQUEEN,Selesta]
+[CONJURER,Selesta]
 LoseText = ...
 Pokemon = COFAGRIGUS,76
     Moves = SHADOWBALL,BODYPRESS,TOXICSPIKES,HEALBLOCK
