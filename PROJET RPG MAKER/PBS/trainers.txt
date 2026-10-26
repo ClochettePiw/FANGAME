@@ -3696,7 +3696,20 @@ Pokemon = ELECTIVIRE,59
 [ACETRAINERWM,Clifford]
 LoseText = C'est tombé dans l'oreille d'un sourd, je me trompe ?
 Pokemon = MAGMORTAR,59
-Pokemon = MILOTIC,60
+Pokemon = SCIZOR,60
 Pokemon = RELICANTH,60
-
-
+#-------------------------------
+[PARASOL,Albane]
+LoseText = Tu es un vrai rayon de soleil…
+Pokemon = PALOSSAND,58
+Pokemon = ARAQUANID,59
+#-------------------------------
+[BACKPACKERM,Geoffroy]
+LoseText = Tu peux te servir, si tu veux. Il y en a sûrement assez pour tout le monde…
+Pokemon = STEELIX,57
+Pokemon = AGGRON,58
+Pokemon = COALOSSAL,59
+#-------------------------------
+[MERCHANTM,Helios]
+LoseText = Hé ! On ne touche qu'avec les yeux !
+Pokemon = MILOTIC,60
