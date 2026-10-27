@@ -4233,6 +4233,17 @@ Flags = Fling_10
 Move = DRACOMETEOR
 Description = Le lanceur invoque des comètes. Le contrecoup réduit beaucoup son Attaque Spéciale.
 #-------------------------------
+[TM89]
+Name = CT89
+NamePlural = CT89s
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_10
+Move = PETALBLIZZARD
+Description = Déclenche une violente tempête de fleurs qui inflige des dégâts à tous les Pokémon alentour.
+#-------------------------------
 [HM01]
 Name = CS01
 NamePlural = CS01s
