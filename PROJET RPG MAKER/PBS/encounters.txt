@@ -1496,6 +1496,13 @@ LandNight,10
     10,DURANT,51,54
     20,HEATMOR,51,54
     15,TREVENANT,52,55
-
+#-------------------------------
+[184] # Ruines du fléau
+Cave,2
+    25,LAMPENT,52,55
+    20,GOLURK,53,56
+    15,BISHARP,53,56
+    30,NOIBAT,51,54
+    10,ZWEILOUS,52,55
 
 
