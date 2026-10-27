@@ -158,7 +158,7 @@ Name = Conjuratrice
 Gender = Female
 BaseMoney = 240
 SkillLevel = 100
-BattleBGM = BT-Kain
+BattleBGM = BT-Yselda
 VictoryBGM = VIC-Regalia
 #-------------------------------
 [LEGACY1]
