@@ -1484,3 +1484,12 @@ WildCaptureME = Pkmn get
 [185]   # Passé - cutscene 1
 Name = Passé - cutscene 1
 Weather = Rain,100
+#-------------------------------
+[187]   # Ruines du fléau - fond
+Name = Ruines du fléau
+BattleBack = ruins
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainers
+WildVictoryBGM = VIC-Wild
+TrainerVictoryBGM = VIC-Trainer
+WildCaptureME = Pkmn get
