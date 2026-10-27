@@ -1493,3 +1493,8 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+#-------------------------------
+[188]   # Ruines du fléau - monde sombre
+Name = ???
+ShowArea = true
+BattleBack = darkworld

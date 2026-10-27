@@ -3753,7 +3753,7 @@ Pokemon = KLEAVOR,68
     Gender = male
     IV = 31,31,31,31,31,31
 #-------------------------------
-[CONJURER,Selesta]
+[CONJURER,Yselda]
 LoseText = ...
 Pokemon = MILOTIC,73
     Moves = SCALD,ICEBEAM,HAZE,TOXIC
