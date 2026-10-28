@@ -146,7 +146,7 @@ BattleBGM = BT-Legacy
 VictoryBGM = VIC-Regalia
 #-------------------------------
 [ADVISOR]
-Name = Conseiller
+Name = Dresseur
 Gender = Male
 BaseMoney = 180
 SkillLevel = 100
