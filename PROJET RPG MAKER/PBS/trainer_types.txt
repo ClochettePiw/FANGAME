@@ -159,7 +159,7 @@ Gender = Female
 BaseMoney = 240
 SkillLevel = 100
 BattleBGM = BT-Yselda
-VictoryBGM = VIC-Regalia
+VictoryBGM = VIC-Gym
 #-------------------------------
 [LEGACY1]
 Name = Souvenir
