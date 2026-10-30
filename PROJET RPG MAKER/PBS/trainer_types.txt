@@ -142,7 +142,7 @@ Name = Dresseur mystérieux
 Gender = Male
 BaseMoney = 48
 SkillLevel = 100
-BattleBGM = BT-Legacy
+BattleBGM = BT-RegaliaGrunt
 VictoryBGM = VIC-Regalia
 #-------------------------------
 [ADVISOR]
