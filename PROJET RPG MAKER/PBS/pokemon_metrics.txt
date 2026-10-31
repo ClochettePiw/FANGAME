@@ -956,7 +956,7 @@ ShadowSize = 2
 #-------------------------------
 [PALAFIN]
 BackSprite = 0,20
-FrontSprite = 2,29
+FrontSprite = 4,29
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
