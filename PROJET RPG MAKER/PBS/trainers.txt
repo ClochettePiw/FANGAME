@@ -3310,7 +3310,7 @@ Pokemon = ELECTABUZZ,55
 #-------------------------------
 [SKYTRAINERM,Corto]
 LoseText = Un courant descendant !
-Pokemon = SKARMORY,53
+Pokemon = VULLABY,53
 Pokemon = GLISCOR,55
 #-------------------------------
 [MERCHANTM,Barthélémy]
@@ -3393,12 +3393,12 @@ Pokemon = KINGAMBIT,58
 [PKMNRANGERM,Adem]
 LoseText = Pour moi, ce fut un raccourci vers le centre Pokémon…
 Pokemon = MANDIBUZZ,54
-Pokemon = SEVIPER,55
+Pokemon = UMBREON,55
 #-------------------------------
 [PKMNRANGERF,Hanae]
 LoseText = Ton équipe est fabuleuse.
 Pokemon = BRAVIARY,54
-Pokemon = ZANGOOSE,55
+Pokemon = ESPEON,55
 #-------------------------------
 [SWIMMERM,Parker]
 LoseText = C'est la douche froide !
