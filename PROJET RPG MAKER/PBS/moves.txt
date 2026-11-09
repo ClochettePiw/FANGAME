@@ -7255,3 +7255,27 @@ TotalPP = 10
 Target = User
 FunctionCode = HealUserDependingOnSandstorm
 Description = Le lanceur récupère jusqu'à la moitié de ses PV max. Durant une tempête de sable, il en récupère encore plus.
+#-------------------------------
+[BOLTBEAK]
+Name = Prise de Bec
+Type = ELECTRIC
+Category = Physical
+Power = 85
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = DoublePowerIfTargetNotActed
+Flags = Contact,CanProtect,CanMirrorMove
+Description = Le lanceur transperce sa cible avec son bec électrifié. Inflige deux fois plus de dégâts si le lanceur agit en premier.
+#-------------------------------
+[FISHIOUSREND]
+Name = Branchicrok
+Type = WATER
+Category = Physical
+Power = 85
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = DoublePowerIfTargetNotActed
+Flags = Contact,CanProtect,CanMirrorMove
+Description = Le lanceur mord sa cible avec ses solides branchies. Inflige deux fois plus de dégâts si le lanceur agit en premier.

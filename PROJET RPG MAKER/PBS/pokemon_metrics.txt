@@ -1448,7 +1448,7 @@ ShadowSize = 2
 #-------------------------------
 [DREEPY]
 BackSprite = 0,43
-FrontSprite = -1,10
+FrontSprite = -2,20
 ShadowX = 0
 ShadowSize = 1
 #-------------------------------
@@ -1677,5 +1677,29 @@ ShadowSize = 1
 [MILOTIC]
 BackSprite = 0,20
 FrontSprite = 6,8
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[DRACOVISH]
+BackSprite = 0,25
+FrontSprite = -6,10
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[ARCTOVISH]
+BackSprite = 0,25
+FrontSprite = 0,11
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[ARCTOZOLT]
+BackSprite = 0,20
+FrontSprite = 2,12
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[DRACOZOLT]
+BackSprite = 0,35
+FrontSprite = 8,16
 ShadowX = 0
 ShadowSize = 3
