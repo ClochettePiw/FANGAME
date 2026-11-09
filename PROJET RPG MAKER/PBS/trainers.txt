@@ -1305,7 +1305,7 @@ Pokemon = PRIMEAPE,31
 LoseText = Laisse donc le futur entre des mains plus savantes.
 Pokemon = TYNAMO,29
 Pokemon = TRUBBISH,29
-Pokemon = MALAMAR,30
+Pokemon = DRACOZOLT,30
 #-------------------------------
 [REGALIAM,Régalia,47]
 LoseText = J'étais le dernier garde sur ta route…
@@ -1468,7 +1468,7 @@ Pokemon = CHINCHOU,38
 #-------------------------------
 [ROCKER,Florent]
 LoseText = Je… n'ai pas les mots.
-Pokemon = LANTURN,37
+Pokemon = DRACOZOLT,37
 #-------------------------------
 [GUITARIST,Amy]
 LoseText = Tu as peut-être le niveau…
@@ -1936,7 +1936,7 @@ Pokemon = CRABRAWLER,36
 #-------------------------------
 [DRAGONTAMER,Maxine]
 LoseText = Tu es digne de mon respect.
-Pokemon = HAKAMOO,37
+Pokemon = DRACOVISH,37
 #-------------------------------
 [SWIMMERM,Baptiste]
 LoseText = A l'échelle de l'univers, cette défaite n'est vraiment pas grand-chose.
@@ -2171,7 +2171,7 @@ Pokemon = WYRDEER,36
 [SCIENTISTM,Vincent]
 LoseText = Nous appartenons à cet écosystème, et devons vivre selon ses règles…
 Pokemon = SKRELP,34
-Pokemon = STARMIE,37
+Pokemon = DRACOVISH,37
 #-------------------------------
 [ACETRAINERWF,Cléophée]
 LoseText = Tu as un sacré potentiel.
@@ -2361,7 +2361,7 @@ Pokemon = EMPOLEON,42
 [SWIMMERM,Honoré]
 LoseText = Un bon combat, c'est vrai que ça réveille aussi !
 Pokemon = OCTILLERY,40
-Pokemon = GYARADOS,41
+Pokemon = ARCTOVISH,41
 #-------------------------------
 [SWIMMERF,Jessica]
 LoseText = Tu saurais me dire si nous sommes loin de la rive ?
@@ -2560,7 +2560,7 @@ Pokemon = COPPERAJAH,46
 #-------------------------------
 [ACETRAINERCF,Maude]
 LoseText = J'ai abusé de ma confiance.
-Pokemon = NOIVERN,48
+Pokemon = ARCTOZOLT,48
 Pokemon = WHIMSICOTT,48
 #-------------------------------
 [ACETRAINERCF,Sakina]
@@ -2860,7 +2860,7 @@ Pokemon = MEDICHAM,50
 #-------------------------------
 [ACETRAINERWM,Arthus]
 LoseText = En tout cas, tu as l'art de me mettre dans l'embarras…
-Pokemon = ARMAROUGE,48
+Pokemon = DRACOZOLT,48
 Pokemon = SCOLIPEDE,49
 Pokemon = CLAWITZER,49
 #-------------------------------
@@ -2976,7 +2976,7 @@ Pokemon = GLISCOR,54
 #-------------------------------
 [SWIMMERM,Charles]
 LoseText = Je ne suis pas près d'y parvenir, pour dire vrai.
-Pokemon = LANTURN,51
+Pokemon = ARCTOZOLT,51
 Pokemon = CLAWITZER,53
 #-------------------------------
 [ISAAC2,Isaac,1]
