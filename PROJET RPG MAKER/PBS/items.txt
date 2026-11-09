@@ -397,36 +397,36 @@ Flags = Fossil,Fling_100
 Description = A fossil from a prehistoric Pokémon that once lived on the land. It looks like the impression from a skin sail.
 #-------------------------------
 [FOSSILIZEDBIRD]
-Name = Fossilized Bird
-NamePlural = Fossilized Birds
+Name = Fossile Oiseau
+NamePlural = Fossiles Oiseau
 Pocket = 1
 Price = 5000
 Flags = Fling_100
-Description = The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery.
+Description = Un morceau du fossile d'un ancien Pokémon volant. Nul ne sait à quoi il ressemblait.
 #-------------------------------
 [FOSSILIZEDFISH]
-Name = Fossilized Fish
-NamePlural = Fossilized Fish
+Name = Fossile Poisson
+NamePlural = Fossiles Poisson
 Pocket = 1
 Price = 5000
 Flags = Fling_100
-Description = The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
+Description = Un morceau du fossile d'un ancien Pokémon aquatique. Nul ne sait à quoi il ressemblait.
 #-------------------------------
 [FOSSILIZEDDRAKE]
-Name = Fossilized Drake
-NamePlural = Fossilized Drakes
+Name = Fossile Dragon
+NamePlural = Fossiles Dragon
 Pocket = 1
 Price = 5000
 Flags = Fling_100
-Description = The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.
+Description = Un morceau du fossile d'un ancien Pokémon terrestre. Nul ne sait à quoi il ressemblait.
 #-------------------------------
 [FOSSILIZEDDINO]
-Name = Fossilized Dino
-NamePlural = Fossilized Dinos
+Name = Fossile Aileron
+NamePlural = Fossiles Aileron
 Pocket = 1
 Price = 5000
 Flags = Fling_100
-Description = The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
+Description = Un morceau du fossile d'un ancien Pokémon aquatique. Nul ne sait à quoi il ressemblait.
 #-------------------------------
 [PRETTYFEATHER]
 Name = Jolie Plume
