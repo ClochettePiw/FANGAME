@@ -50,6 +50,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
+PokeRadar
+    10,APPLIN,2,4
 #-------------------------------
 [009] # Jovalia
 HeadbuttHigh
@@ -102,6 +104,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
+PokeRadar
+    10,STANTLER,3,5
 #-------------------------------
 [006] # Route 3
 LandMorning,10
@@ -142,6 +146,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
+PokeRadar
+    10,MEDITITE,6,9
 #-------------------------------
 [010] # Puits perdu
 Cave,2
@@ -237,6 +243,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
+PokeRadar
+    10,SKARMORY,8,11
 #-------------------------------
 [020] # Route 5 North
 LandMorning,10
@@ -271,6 +279,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
+PokeRadar
+    10,MARILL,9,13
 #-------------------------------
 [023] # Route 5 South
 LandMorning,10
@@ -313,6 +323,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
+PokeRadar
+    10,MARILL,9,13
 #-------------------------------
 [025] # Prudan
 Water,2
@@ -380,6 +392,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
+PokeRadar
+    10,CRABRAWLER,9,13
 #-------------------------------
 [036] # Route 7
 LandMorning,10
@@ -420,6 +434,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
+PokeRadar
+    10,SCYTHER,15,18
 #-------------------------------
 [040] # Mine de Persever
 Cave,2
@@ -475,6 +491,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,CLOYSTER,30,40
+PokeRadar
+    10,ARON,22,24
 #-------------------------------
 [053] # Route 9
 LandMorning,10
@@ -518,6 +536,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,CLOYSTER,30,40
+PokeRadar
+    10,ELEKID,23,26
 #-------------------------------
 [059] # Route 10
 LandMorning,10
@@ -556,6 +576,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
+PokeRadar
+    10,TINKATUFF,24,27
 #-------------------------------
 [060] # Égouts de Hardia
 Cave,2
@@ -617,6 +639,8 @@ RockSmash,50
     40,BOLDORE,25,27
     35,DWEBBLE,25,27
     25,LARVITAR,25,27
+PokeRadar
+    10,MAGBY,24,27
 #-------------------------------
 [072] # Plassidio
 Water,2
@@ -718,6 +742,8 @@ SuperRod
     50,GYARADOS,30,40
     30,CLOYSTER,30,40
     20,DHELMISE,30,40
+PokeRadar
+    10,CORPHISH,18,21
 #-------------------------------
 [082] # Route 15
 LandMorning,10
@@ -758,6 +784,8 @@ SuperRod
     50,GYARADOS,30,40
     30,CLOYSTER,30,40
     20,DHELMISE,30,40
+PokeRadar
+    10,COMFEY,31,34
 #-------------------------------
 [076] # Route 14
 LandMorning,10
@@ -799,6 +827,8 @@ SuperRod
     50,GYARADOS,30,40
     30,CLOYSTER,30,40
     20,DHELMISE,30,40
+PokeRadar
+    10,WOOBAT,30,32
 #-------------------------------
 [087] # Autel du mépris
 LandMorning,10
@@ -950,6 +980,8 @@ LandNight,10
     25,VANILLITE,10,12
     15,FIDOUGH,10,13
     10,SPHEAL,10,13
+PokeRadar
+    10,CETODDLE,10,12
 #-------------------------------
 [107] # Chenal 18
 LandMorning,10
@@ -989,6 +1021,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,CLOYSTER,30,40
+PokeRadar
+    10,KLINK,34,37
 #-------------------------------
 [109] # Chenal 19
 Water,2
@@ -1059,6 +1093,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,CLOYSTER,30,40
+PokeRadar
+    10,EEVEE,28,31
 #-------------------------------
 [132] # Grands glaciers base - RDC-E3
 Cave,2
@@ -1175,6 +1211,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,CLOYSTER,30,40
+PokeRadar
+    10,SANDYGAST,30,33
 #-------------------------------
 [151] # Route 21
 LandMorning,10
@@ -1211,6 +1249,8 @@ GoodRod
 SuperRod
     60,GYARADOS,30,40
     40,BARRASKEWDA,30,40
+PokeRadar
+    10,ONIX,31,34
 #-------------------------------
 [153] # Route Victoire
 Cave,2
@@ -1349,6 +1389,8 @@ LandNight,10
     20,SCYTHER,47,50
     25,MIENFOO,46,50
     10,TROPIUS,48,49
+PokeRadar
+    100,SERVINE,46,50
 #-------------------------------
 [169] # Route 24
 LandMorning,10

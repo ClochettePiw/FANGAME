@@ -27,6 +27,15 @@ FieldUse = Direct
 Flags = Repel,Fling_30
 Description = Repousse les Pokémon sauvages faibles pendant 250 pas.
 #-------------------------------
+[PREMIUMREPEL]
+Name = Repousse Premium
+NamePlural = Repousses Premium
+Pocket = 1
+Price = 1500
+FieldUse = Direct
+Flags = Repel,Fling_30
+Description = Repousse les Pokémon sauvages faibles pendant 500 pas.
+#-------------------------------
 [BLACKFLUTE]
 Name = Flûte Noire
 NamePlural = Flûtes Noires
@@ -5291,7 +5300,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = A tool that can search out Pokémon that are hiding in grass. Its battery is recharged as you walk.
+Description = Un objet permettant de trouver les Pokémon qui se cachent dans l'herbe. Se recharge quand vous marchez.
 #-------------------------------
 [TOWNMAP]
 Name = Mappemonde
