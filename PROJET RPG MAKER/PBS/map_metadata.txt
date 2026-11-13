@@ -1084,6 +1084,7 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 1,11
+Flags = Glacier
 #-------------------------------
 [133]   # Grands Glaciers - base extérieur
 Name = Grands glaciers
@@ -1099,10 +1100,12 @@ WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
 MapSize = 1,11
+Flags = Glacier
 #-------------------------------
 [134]   # Grands Glaciers - Frista
 Name = Grands glaciers
 Weather = Snow,100
+Flags = Glacier
 #-------------------------------
 [135]   # Retraite de Tantrum
 Name = Retraite de Tantrum
@@ -1118,9 +1121,11 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+Flags = Glacier
 #-------------------------------
 [136]   # Tantrum - bâtiments
 Name = Retraite de Tantrum
+Flags = Glacier
 #-------------------------------
 [137]   # Grands Glaciers - cimes
 Name = Grands Glaciers - cimes
@@ -1131,6 +1136,7 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+Flags = Glacier
 #-------------------------------
 [138]   # Grands Glaciers - cimes extérieur
 Name = Grands glaciers
@@ -1144,6 +1150,7 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+Flags = Glacier
 #-------------------------------
 [139]   # Autel de la rage
 Name = Autel de la rage
@@ -1155,6 +1162,7 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
+Flags = Glacier
 #-------------------------------
 [140]   # Tantrum - arène
 Name = Retraite de Tantrum
@@ -1165,11 +1173,12 @@ TrainerBattleBGM = Battle trainers
 WildVictoryBGM = VIC-Wild
 TrainerVictoryBGM = VIC-Trainer
 WildCaptureME = Pkmn get
-Flags = GymMap
+Flags = GymMap,Glacier
 #-------------------------------
 [141]   # Tantrum - arène fond
 Name = Retraite de Tantrum
 BattleBack = gym8
+Flags = Glacier
 #-------------------------------
 [145]   # Zeppelin Cutscene1
 Name = Zeppelin Cutscene1

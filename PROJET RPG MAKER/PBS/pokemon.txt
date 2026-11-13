@@ -4129,7 +4129,7 @@ Category = Boxeur
 Pokedex = Il grimpe parfois sur un Noadkoko qu’il a pris pour un cocotier. Il se fait alors éjecter puis piétiner par le Noadkoko courroucé.
 Generation = 7
 WildItemUncommon = ASPEARBERRY
-Evolutions = CRABOMINABLE,Item,ICESTONE
+Evolutions = CRABOMINABLE,LocationFlag,Glacier
 #-------------------------------
 [CRABOMINABLE]
 Name = Crabominable
