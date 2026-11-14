@@ -339,6 +339,7 @@ Name = Persever
 Outdoor = true
 ShowArea = true
 Bicycle = true
+Weather = Fog,100
 MapPosition = 0,12,6
 WildBattleBGM = Battle wild
 TrainerBattleBGM = Battle trainers
