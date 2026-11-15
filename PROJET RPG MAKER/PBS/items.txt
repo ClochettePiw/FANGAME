@@ -5652,3 +5652,12 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Une capsule permettant d'utiliser la CS Cascade.
+#-------------------------------
+[VSSEEKER]
+Name = Cherche VS
+NamePlural = Cherches VS
+Pocket = 8
+Price = 0
+Flags = KeyItem
+FieldUse = Direct
+Description = Un appareil permettant de proposer une revanche contre certains dresseurs.

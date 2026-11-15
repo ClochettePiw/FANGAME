@@ -65,10 +65,21 @@ Pokemon = SNIVY,7
     Moves = TACKLE,LEER
     Gender = male
 #-------------------------------
-[CAMPER,Basile]
-LoseText = Tu as gâché ma journée...
+[CAMPER,Basile,1]
+LoseText = Tu as gâché ma journée…
 Pokemon = NYMBLE,4
 Pokemon = TEDDIURSA,5
+#-------------------------------
+[CAMPER,Basile,2]
+LoseText = Tu as gâché ma journée…
+Pokemon = NYMBLE,17
+Pokemon = TEDDIURSA,18
+#-------------------------------
+[CAMPER,Basile,3]
+LoseText = Tu as gâché ma journée…
+Pokemon = LOKIX,52
+Pokemon = URSALUNA,53
+Pokemon = BRELOOM,53
 #-------------------------------
 [BIRDWATCHER,Gus]
 LoseText = Mais… Tu n'es pas un oiseau !
@@ -158,9 +169,18 @@ Pokemon = MAGIKARP,12
 Pokemon = MAGIKARP,12
     Moves = SPLASH,BOUNCE
 #-------------------------------
-[SCHOOLKIDF,Clara]
+[SCHOOLKIDF,Clara,1]
 LoseText = Il a encore des progrès à faire.
 Pokemon = AZURILL,12
+#-------------------------------
+[SCHOOLKIDF,Clara,2]
+LoseText = Il a encore des progrès à faire.
+Pokemon = MARILL,18
+#-------------------------------
+[SCHOOLKIDF,Clara,3]
+LoseText = Il a encore des progrès à faire.
+Pokemon = DACHSBUN,52
+Pokemon = AZUMARILL,52
 #-------------------------------
 [LASSC,Fantine]
 LoseText = Oscar, tu vas bien ?
@@ -182,10 +202,21 @@ Pokemon = NYMBLE,10
 Pokemon = NYMBLE,10
 Pokemon = GRUBBIN,11
 #-------------------------------
-[LASSC,Léonie]
+[LASSC,Léonie,1]
 LoseText = De toute façon, je n'étais même pas intéressée !
 Pokemon = TEDDIURSA,11
 Pokemon = SNORUNT,12
+#-------------------------------
+[LASSC,Léonie,2]
+LoseText = De toute façon, je n'étais même pas intéressée !
+Pokemon = TEDDIURSA,16
+Pokemon = SNORUNT,19
+#-------------------------------
+[LASSC,Léonie,3]
+LoseText = De toute façon, je n'étais même pas intéressée !
+Pokemon = URSARING,50
+Pokemon = GLALIE,51
+Pokemon = FROSLASS,53
 #-------------------------------
 [BIRDKEEPER,Pavel]
 LoseText = J'en ai le souffle coupé !
@@ -201,9 +232,21 @@ LoseText = Compris, je vais me débrouiller seule !
 Pokemon = TEDDIURSA,11
 Pokemon = COTTONEE,11
 #-------------------------------
-[RANCHER,Tina]
+[RANCHER,Tina,1]
 LoseText = Mieux vaut s'en faire un ami, pas vrai ?
 Pokemon = VULPIX,13
+#-------------------------------
+[RANCHER,Tina,2]
+LoseText = Mieux vaut s'en faire un ami, pas vrai ?
+Pokemon = VULPIX,16
+Pokemon = TORCHIC,16
+Pokemon = PSYDUCK,16
+#-------------------------------
+[RANCHER,Tina,3]
+LoseText = Mieux vaut s'en faire un ami, pas vrai ?
+Pokemon = NINETALES,51
+Pokemon = BLAZIKEN,52
+Pokemon = GOLDUCK,51
 #-------------------------------
 [BATTLEGIRL,Inaya]
 LoseText = Ce combat n'était qu'un échauffement !
@@ -387,10 +430,20 @@ LoseText = Fais-moi le plaisir de t'éloigner !
 Pokemon = MAGIKARP,12
 Pokemon = PSYDUCK,14
 #-------------------------------
-[BUGCATCHER,Thaïs]
+[BUGCATCHER,Thaïs,1]
 LoseText = Ils sont mignons, pas vrai ?
 Pokemon = DWEBBLE,12
 Pokemon = SNOM,12
+#-------------------------------
+[BUGCATCHER,Thaïs,2]
+LoseText = Ils sont mignons, pas vrai ?
+Pokemon = DWEBBLE,18
+Pokemon = SNOM,17
+#-------------------------------
+[BUGCATCHER,Thaïs,3]
+LoseText = Ils sont mignons, pas vrai ?
+Pokemon = CRUSTLE,53
+Pokemon = FROSMOTH,50
 #-------------------------------
 [RANCHER,Rachel]
 LoseText = Il faudrait songer à changer de régime...
@@ -416,13 +469,37 @@ LoseText = C'est noté !
 Pokemon = PSYDUCK,16
 Pokemon = HERDIER,16
 #-------------------------------
-[AROMALADY,Florence]
+[AROMALADY,Florence,1]
 LoseText = Les jeunes ne savent plus apprécier les jolies choses, de nos jours...
 Pokemon = FLABEBE,16
 Pokemon = FLABEBE,16
     Form = 1
 Pokemon = FLABEBE,16
     Form = 3
+#-------------------------------
+[AROMALADY,Florence,2]
+LoseText = Les jeunes ne savent plus apprécier les jolies choses, de nos jours...
+Pokemon = FLABEBE,18
+Pokemon = FLABEBE,18
+    Form = 1
+Pokemon = FLABEBE,18
+    Form = 3
+Pokemon = FLABEBE,18
+    Form = 2
+Pokemon = FLABEBE,18
+    Form = 4
+#-------------------------------
+[AROMALADY,Florence,3]
+LoseText = Les jeunes ne savent plus apprécier les jolies choses, de nos jours...
+Pokemon = FLORGES,50
+Pokemon = FLORGES,50
+    Form = 1
+Pokemon = FLORGES,50
+    Form = 3
+Pokemon = FLORGES,50
+    Form = 2
+Pokemon = FLORGES,50
+    Form = 4
 #-------------------------------
 [PIRATEM,Omar]
 LoseText = Tu as l'air d'avoir ce qu'il faut dans le ventre !
@@ -929,9 +1006,19 @@ Pokemon = PETILIL,11
 Pokemon = MANKEY,12
 Pokemon = SHROOMISH,12
 #-------------------------------
-[IDOLC,Bélinda]
+[IDOLC,Bélinda,1]
 LoseText = Quelle sotte ! J'ai cassé l'un de mes talons !
 Pokemon = VANILLITE,14
+#-------------------------------
+[IDOLC,Bélinda,2]
+LoseText = Quelle sotte ! J'ai cassé l'un de mes talons !
+Pokemon = VANILLITE,19
+#-------------------------------
+[IDOLC,Bélinda,3]
+LoseText = Quelle sotte ! J'ai cassé l'un de mes talons !
+Pokemon = VANILLUXE,51
+Pokemon = COMFEY,51
+Pokemon = WHIMSICOTT,52
 #-------------------------------
 [ESKIMO,Briac]
 LoseText = Tu es un obstacle insurmontable pour moi...
