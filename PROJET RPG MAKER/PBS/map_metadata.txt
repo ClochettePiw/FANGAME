@@ -951,6 +951,7 @@ MapSize = 1,11
 #-------------------------------
 [108]   # Portail R18
 Name = Portail
+Bicycle = true
 #-------------------------------
 [109]   # Chenal 19
 Name = Chenal 19
@@ -1049,6 +1050,7 @@ Name = Hardia
 #-------------------------------
 [122]   # Portail R10
 Name = Portail
+Bicycle = true
 #-------------------------------
 [124]   # Plassidio - centre Pokémon
 Name = Plassidio

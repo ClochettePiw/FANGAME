@@ -140,7 +140,7 @@ VictoryBGM = VIC-Regalia
 [ILLUSION]
 Name = Dresseur mystérieux
 Gender = Male
-BaseMoney = 48
+BaseMoney = 100
 SkillLevel = 100
 BattleBGM = BT-RegaliaGrunt
 VictoryBGM = VIC-Regalia
