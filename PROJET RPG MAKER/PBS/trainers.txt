@@ -72,11 +72,6 @@ Pokemon = TEDDIURSA,5
 #-------------------------------
 [CAMPER,Basile,2]
 LoseText = Tu as gâché ma journée…
-Pokemon = NYMBLE,17
-Pokemon = TEDDIURSA,18
-#-------------------------------
-[CAMPER,Basile,3]
-LoseText = Tu as gâché ma journée…
 Pokemon = LOKIX,52
 Pokemon = URSALUNA,53
 Pokemon = BRELOOM,53
@@ -621,10 +616,16 @@ Pokemon = SCRAGGY,18
 Pokemon = PANCHAM,18
 Pokemon = MANKEY,20
 #-------------------------------
-[BEAUTY,Scarlet]
+[BEAUTY,Scarlet,1]
 LoseText = En voilà des façons !
 Pokemon = MARILL,20
 Pokemon = VULPIX,21
+#-------------------------------
+[BEAUTY,Scarlet,2]
+LoseText = En voilà des façons !
+Pokemon = AZUMARILL,48
+Pokemon = NINETALES,52
+Pokemon = LILLIGANT,51
 #-------------------------------
 [TOREADOR,Léopold]
 LoseText = Tu as pris le taureau par les cornes...
@@ -656,10 +657,17 @@ Pokemon = ARROKUDA,19
 Pokemon = ARROKUDA,19
 Pokemon = REMORAID,20
 #-------------------------------
-[SWIMMERM,Malcolm]
+[SWIMMERM,Malcolm,1]
 LoseText = Il est temps de regagner la rive...
 Pokemon = BASCULIN,22
 Pokemon = SHELLDER,22
+#-------------------------------
+[SWIMMERM,Malcolm,2]
+LoseText = Il est temps de regagner la rive...
+Pokemon = BASCULEGION,51
+Pokemon = BASCULEGION,51
+    Form = 1
+Pokemon = CLOYSTER,54
 #-------------------------------
 [SWIMMERM,Kyle]
 LoseText = Tu es un autre genre de prise, j'en ai peur...
@@ -1077,9 +1085,14 @@ LoseText = Compris. Je retourne travailler...
 Pokemon = DRILBUR,27
 Pokemon = ARON,27
 #-------------------------------
-[ROUGHNECK,Marco]
+[ROUGHNECK,Marco,1]
 LoseText = Ouais, non. Oublie ça.
 Pokemon = KROKOROK,29
+#-------------------------------
+[ROUGHNECK,Marco,2]
+LoseText = Ouais, non. Oublie ça.
+Pokemon = KROKOROK,48
+Pokemon = KROOKODILE,54
 #-------------------------------
 [ENGINEER,Kenzy]
 LoseText = Ah, alors tu ne fais pas partie de l'entreprise...
@@ -1126,10 +1139,16 @@ Pokemon = TINKATUFF,27
 Pokemon = KROKOROK,29
 Pokemon = COMFEY,29
 #-------------------------------
-[SHUTTERBUG,Hans]
+[SHUTTERBUG,Hans,1]
 LoseText = OK, tu pourrais essayer d'avoir l'air un peu moins fort, maintenant ?
 Pokemon = HELIOPTILE,25
 Pokemon = CHARJABUG,28
+#-------------------------------
+[SHUTTERBUG,Hans,2]
+LoseText = OK, tu pourrais essayer d'avoir l'air un peu moins fort, maintenant ?
+Pokemon = HELIOLISK,50
+Pokemon = GRAFAIAI,50
+Pokemon = VIKAVOLT,53
 #-------------------------------
 [PICNICKER,Lucie]
 LoseText = Quoi ? C'étaient des Pokémons depuis le début ?
@@ -1147,10 +1166,16 @@ LoseText = Le prédateur est devenu la proie...
 Pokemon = PELIPPER,28
 Pokemon = FLETCHINDER,28
 #-------------------------------
-[PSYCHICF,Piama]
+[PSYCHICF,Piama,1]
 LoseText = Désormais, c'est mon cœur qui est chargé de ces sentiments...
 Pokemon = FLITTLE,29
 Pokemon = MUNNA,29
+#-------------------------------
+[PSYCHICF,Piama,2]
+LoseText = Désormais, c'est mon cœur qui est chargé de ces sentiments...
+Pokemon = ESPATHRA,51
+Pokemon = MUSHARNA,51
+Pokemon = MEDICHAM,51
 #-------------------------------
 [HIKER,Léandre]
 LoseText = J'ai besoin de souffler un moment.
@@ -1486,12 +1511,20 @@ LoseText = Je me suis pris un coup de vent...
 Pokemon = GLIGAR,30
     Moves = THUNDERFANG,ICEFANG,SLASH,FURYCUTTER
 #-------------------------------
-[BREEDERM,Ange]
+[BREEDERM,Ange,1]
 LoseText = Il faut bien que jeunesse se fasse...
 Pokemon = TOXEL,25
 Pokemon = PSYDUCK,25
 Pokemon = EXEGGCUTE,25
 Pokemon = FLITTLE,25
+#-------------------------------
+[BREEDERM,Ange,2]
+LoseText = Il faut bien que jeunesse se fasse...
+Pokemon = TOXTRICITY,47
+Pokemon = GOLDUCK,47
+Pokemon = EXEGGUTOR,47
+Pokemon = ESPATHRA,48
+Pokemon = RHYDON,51
 #-------------------------------
 [FISHERMANW,Tobias]
 LoseText = C'est vraiment pas mon jour...
@@ -1605,10 +1638,17 @@ Pokemon = EELEKTROSS,42
     Gender = female
     IV = 31,31,31,31,31,31
 #-------------------------------
-[GUITARIST,Roxanne]
+[GUITARIST,Roxanne,1]
 LoseText = Ça ne rime à rien…
 Pokemon = TOXEL,27
 Pokemon = TOXEL,27
+#-------------------------------
+[GUITARIST,Roxanne,2]
+LoseText = Ça ne rime à rien…
+Pokemon = EELEKTRIK,49
+Pokemon = TOXTRICITY,52
+Pokemon = TOXTRICITY,52
+    Form = 1
 #-------------------------------
 [PIRATEF,Soumaya]
 LoseText = Mille sabords…
