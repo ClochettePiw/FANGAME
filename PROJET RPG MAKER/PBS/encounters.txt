@@ -679,6 +679,10 @@ SuperRod
     50,GYARADOS,30,40
     30,CLOYSTER,30,40
     20,DHELMISE,30,40
+HeadbuttHigh
+    10,FLETCHINDER,27,30
+    20,CHARJABUG,27,30
+    20,CRABRAWLER,27,30
 #-------------------------------
 [077] # Autel de la peur
 LandMorning,10
