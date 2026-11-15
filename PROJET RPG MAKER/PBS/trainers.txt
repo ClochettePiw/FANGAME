@@ -1479,11 +1479,17 @@ Pokemon = LARVESTA,34
 LoseText = Quoi ? C'est un truc de fou !
 Pokemon = NOIBAT,27
 #-------------------------------
-[BIRDWATCHER,Lino]
+[BIRDWATCHER,Lino,1]
 LoseText = Peut-être devrais-je les nourrir...
 Pokemon = FLETCHINDER,27
 Pokemon = WINGULL,27
 Pokemon = MURKROW,27
+#-------------------------------
+[BIRDWATCHER,Lino,2]
+LoseText = Peut-être devrais-je les nourrir...
+Pokemon = TALONFLAME,49
+Pokemon = PELIPPER,52
+Pokemon = HONCHKROW,53
 #-------------------------------
 [CYCLISTM,Steven]
 LoseText = Compris, c'est moi qui vais m'écarter...
@@ -1881,9 +1887,15 @@ LoseText = C'est la dégringolade !
 Pokemon = FINIZEN,32
 Pokemon = GOLDUCK,33
 #-------------------------------
-[PIRATEM,Kelyan]
+[PIRATEM,Kelyan,1]
 LoseText = Mes plus plates excuses.
 Pokemon = OCTILLERY,34
+#-------------------------------
+[PIRATEM,Kelyan,2]
+LoseText = Mes plus plates excuses.
+Pokemon = OCTILLERY,50
+Pokemon = ANNIHILAPE,52
+Pokemon = DHELMISE,50
 #-------------------------------
 [SWIMMERM,Germain]
 LoseText = Me voilà plongé en plein désespoir…
@@ -2093,10 +2105,16 @@ Pokemon = SKRELP,34
 Pokemon = FRILLISH,36
     Gender = female
 #-------------------------------
-[SURFER,Sébastien]
+[SURFER,Sébastien,1]
 LoseText = Je n'ai plus aucun doute.
 Pokemon = PELIPPER,33
 Pokemon = CRABRAWLER,37
+#-------------------------------
+[SURFER,Sébastien,2]
+LoseText = Je n'ai plus aucun doute.
+Pokemon = PELIPPER,50
+Pokemon = CRABOMINABLE,53
+Pokemon = GRAPPLOCT,53
 #-------------------------------
 [PIRATEM,Marwane]
 LoseText = Abandonnez le navire !
@@ -2141,12 +2159,19 @@ Pokemon = FRILLISH,34
 Pokemon = FRILLISH,34
     Gender = female
 #-------------------------------
-[DRAGONTAMER,Magdalena]
+[DRAGONTAMER,Magdalena,1]
 LoseText = J'espère que tu as apprécié leur combativité.
 Pokemon = NOIBAT,34
 Pokemon = TATSUGIRI,36
     Form = 0
 Pokemon = SILICOBRA,36
+#-------------------------------
+[DRAGONTAMER,Magdalena,2]
+LoseText = J'espère que tu as apprécié leur combativité.
+Pokemon = NOIVERN,54
+Pokemon = TATSUGIRI,51
+    Form = 0
+Pokemon = SANDACONDA,51
 #-------------------------------
 [PSYCHICM,Yuri]
 LoseText = Quoi ? Ça a commencé ?
@@ -2427,10 +2452,16 @@ LoseText = Au final, on peut peut-être se partager l'espace ?
 Pokemon = PUPITAR,34
 Pokemon = ABSOL,35
 #-------------------------------
-[SKIIER,Preston]
+[SKIIER,Preston,1]
 LoseText = A mon tour de broyer du noir.
 Pokemon = SEALEO,39
 Pokemon = EISCUE,39
+#-------------------------------
+[SKIIER,Preston,2]
+LoseText = A mon tour de broyer du noir.
+Pokemon = WALREIN,53
+Pokemon = EISCUE,48
+Pokemon = ARCTOVISH,53
 #-------------------------------
 [SAILOR,Thiago]
 LoseText = Quel naufrage…
@@ -2443,30 +2474,47 @@ LoseText = Tu es pour sûr un dresseur de haut niveau…
 Pokemon = SNORUNT,40
 Pokemon = GLALIE,42
 #-------------------------------
-[CLOWN,Binky]
+[CLOWN,Binky,1]
 LoseText = …?!
 Pokemon = GRAFAIAI,40
 Pokemon = SEALEO,41
+#-------------------------------
+[CLOWN,Binky,2]
+LoseText = …?!
+Pokemon = GRAFAIAI,50
+Pokemon = WALREIN,50
+Pokemon = DRIFBLIM,51
 #-------------------------------
 [SAILOR,Barnabé]
 LoseText = La défaite n'a pas d'importance, quand on est libre !
 Pokemon = PALAFIN,43
 Pokemon = CRABRAWLER,39
 #-------------------------------
-[PSYCHICM,Eugène]
+[PSYCHICM,Eugène,1]
 LoseText = Je suis sûr que mes Pokémons ont apprécié ce duel.
 Pokemon = SOLROCK,40
 Pokemon = LUNATONE,40
+#-------------------------------
+[PSYCHICM,Eugène,2]
+LoseText = Je suis sûr que mes Pokémons ont apprécié ce duel.
+Pokemon = SOLROCK,53
+Pokemon = LUNATONE,53
 #-------------------------------
 [SWIMMERM,Calixte]
 LoseText = Voilà qui a jeté un froid.
 Pokemon = PELIPPER,44
 #-------------------------------
-[PKMNRANGERM,Albert]
+[PKMNRANGERM,Albert,1]
 LoseText = Tu peux passer, mais ne t'avise pas de déranger l'écosystème !
 Pokemon = CETODDLE,40
 Pokemon = VANILLISH,40
 Pokemon = GOGOAT,41
+#-------------------------------
+[PKMNRANGERM,Albert,2]
+LoseText = Tu peux passer, mais ne t'avise pas de déranger l'écosystème !
+Pokemon = CETITAN,55
+Pokemon = VANILLUXE,50
+Pokemon = GOGOAT,48
 #-------------------------------
 [SWIMMERM,Elior]
 LoseText = J'ai croisé un charmant jeune homme… C'était un dresseur !
@@ -2946,10 +2994,16 @@ Pokemon = MARILL,27
 Pokemon = SHELLDER,27
 Pokemon = FINIZEN,28
 #-------------------------------
-[ACETRAINERWM,Ismaël]
+[ACETRAINERWM,Ismaël,1]
 LoseText = Moi, je ne suis pas de taille.
 Pokemon = GOLISOPOD,38
 Pokemon = GRAFAIAI,38
+#-------------------------------
+[ACETRAINERWM,Ismaël,2]
+LoseText = Moi, je ne suis pas de taille.
+Pokemon = GOLISOPOD,54
+Pokemon = BISHARP,54
+Pokemon = GRAFAIAI,53
 #-------------------------------
 [BACKPACKERF,Ludivine]
 LoseText = Ça alors ! Ces Pokémons ne plaisantent vraiment pas !
@@ -2965,9 +3019,13 @@ LoseText = M'aurais-tu trompé ?
 Pokemon = SOLROCK,35
 Pokemon = ESPATHRA,36
 #-------------------------------
-[BIRDKEEPER,Hatem]
+[BIRDKEEPER,Hatem,1]
 LoseText = As-tu l'intention d'affronter la ligue Pokémon ?
 Pokemon = SKARMORY,36
+#-------------------------------
+[BIRDKEEPER,Hatem,2]
+LoseText = As-tu l'intention d'affronter la ligue Pokémon ?
+Pokemon = SKARMORY,55
 #-------------------------------
 [ACETRAINERWF,Judith]
 LoseText = Chaque défaite me rend plus forte. C'est ainsi qu'il faut raisonner.
