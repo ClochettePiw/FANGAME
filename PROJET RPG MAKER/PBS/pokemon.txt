@@ -2169,7 +2169,7 @@ Generation = 8
 #-------------------------------
 [BASCULIN]
 Name = Bargantua
-FormName = Red-Striped
+FormName = Motif rouge
 Types = WATER
 BaseStats = 70,92,65,98,80,55
 GenderRatio = Female50Percent
@@ -2197,7 +2197,7 @@ Evolutions = BASCULEGION,HasMove,PHANTOMFORCE
 #-------------------------------
 [BASCULEGION]
 Name = Paragruel
-FormName = Male
+FormName = Motif rouge
 Types = WATER,GHOST
 BaseStats = 120,112,65,78,80,75
 GenderRatio = Female50Percent
@@ -2225,7 +2225,7 @@ Flags = DefaultForm_2,InheritFormWithEverStone
 [FLABEBE]
 Name = Flabébé
 Forms = 5
-FormName = Red Flower
+FormName = Fleur rouge
 Types = FAIRY
 BaseStats = 44,38,39,42,61,79
 GenderRatio = AlwaysFemale
@@ -2254,7 +2254,7 @@ Evolutions = FLOETTE,Level,19
 [FLOETTE]
 Name = Floette
 Forms = 5
-FormName = Red Flower
+FormName = Fleur rouge
 Types = FAIRY
 BaseStats = 54,45,47,52,75,98
 GenderRatio = AlwaysFemale
@@ -2282,7 +2282,7 @@ Evolutions = FLORGES,Item,SHINYSTONE
 [FLORGES]
 Name = Florges
 Forms = 5
-FormName = Red Flower
+FormName = Fleur rouge
 Types = FAIRY
 BaseStats = 78,65,68,75,112,154
 GenderRatio = AlwaysFemale
@@ -4234,7 +4234,7 @@ Evolutions = PALAFIN,Level,38
 #-------------------------------
 [PALAFIN]
 Name = Superdofin
-FormName = Zero Form
+FormName = Forme zéro
 Types = WATER
 BaseStats = 100,70,72,100,53,62
 GenderRatio = Female50Percent
@@ -4882,7 +4882,7 @@ Generation = 9
 #-------------------------------
 [TATSUGIRI]
 Name = Nigirigon
-FormName = Curly Form
+FormName = Forme Courbée
 Types = DRAGON,WATER
 BaseStats = 68,50,60,82,120,95
 GenderRatio = Female50Percent
@@ -5116,7 +5116,7 @@ Evolutions = TOXTRICITY,Level,30
 #-------------------------------
 [TOXTRICITY]
 Name = Salarsen
-FormName = Amped Form
+FormName = Forme Grave
 Types = ELECTRIC,POISON
 BaseStats = 75,98,70,75,114,70
 GenderRatio = Female50Percent
@@ -5395,7 +5395,7 @@ Generation = 9
 #-------------------------------
 [EISCUE]
 Name = Bekaglaçon
-FormName = Ice Face
+FormName = Forme Tête de Gel
 Types = ICE
 BaseStats = 75,80,110,50,65,90
 GenderRatio = Female50Percent
@@ -6894,7 +6894,7 @@ Generation = 5
 #-------------------------------
 [TORNADUS]
 Name = Boréas
-FormName = Incarnate Forme
+FormName = Forme avatar
 Types = FLYING
 BaseStats = 79,115,70,111,125,80
 GenderRatio = AlwaysMale
@@ -6920,7 +6920,7 @@ Flags = Legendary
 #-------------------------------
 [THUNDURUS]
 Name = Fulguris
-FormName = Incarnate Forme
+FormName = Forme avatar
 Types = ELECTRIC,FLYING
 BaseStats = 79,115,70,111,125,80
 GenderRatio = AlwaysMale
@@ -6946,7 +6946,7 @@ Flags = Legendary
 #-------------------------------
 [LANDORUS]
 Name = Démétéros
-FormName = Incarnate Forme
+FormName = Forme avatar
 Types = GROUND,FLYING
 BaseStats = 89,125,90,101,115,80
 GenderRatio = AlwaysMale
@@ -6972,7 +6972,7 @@ Flags = Legendary
 #-------------------------------
 [ENAMORUS]
 Name = Amovénus
-FormName = Incarnate Forme
+FormName = Forme avatar
 Types = FAIRY,FLYING
 BaseStats = 74,115,70,106,135,80
 GenderRatio = AlwaysFemale
