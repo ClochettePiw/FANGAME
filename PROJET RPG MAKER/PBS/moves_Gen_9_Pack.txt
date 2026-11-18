@@ -14,7 +14,7 @@ EffectChance = 50
 Description = The user may critically hit with its ruinous claws. May also leave the target poisoned, paralyzed, or asleep.
 #-------------------------------
 [SPRINGTIDESTORM]
-Name = Springtide Storm
+Name = Typhon Passionné
 Type = FAIRY
 Category = Special
 Power = 100
@@ -24,7 +24,7 @@ Target = AllNearFoes
 FunctionCode = LowerTargetAttack1
 Flags = Wind,CanProtect,CanMirrorMove,CannotMetronome
 EffectChance = 30
-Description = The user wraps winds of fierce emotion around opponents. This may lower their Attack stats.
+Description = Le lanceur déclenche un typhon de haine et d'amour. Peut baisser l'Attaque de la cible.
 #-------------------------------
 [RAGINGFURY]
 Name = Raging Fury
@@ -49,7 +49,7 @@ Target = NearOther
 FunctionCode = RecoilThirdOfDamageDealt
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = Le lanceur se recouvre entièrement d'eau avant de charger sa cible. Cela blesse aussi gravement le lanceur.
+Description = Le lanceur se recouvre entièrement d'eau et charge sa cible. Cela blesse aussi gravement le lanceur.
 #-------------------------------
 [CHLOROBLAST]
 Name = Chloroblast
@@ -86,7 +86,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = LowerUserDefSpDef1
 Flags = Contact,Punching,CanProtect,CanMirrorMove
-Description = Le lanceur charge la cible de toutes ses forces, ce qui baisse la Défense et la Défense Spéciale du lanceur.
+Description = Le lanceur charge de toutes ses forces, ce qui baisse la Défense et la Défense Spéciale du lanceur.
 #-------------------------------
 [BARBBARRAGE]
 Name = Barb Barrage
@@ -141,7 +141,7 @@ EffectChance = 100
 Description = The user fires arrows which may lower the target’s Defense or make it flinch. Critical hits land more easily.
 #-------------------------------
 [BLEAKWINDSTORM]
-Name = Bleakwind Storm
+Name = Typhon Hivernal
 Type = FLYING
 Category = Special
 Power = 100
@@ -151,10 +151,10 @@ Target = AllNearFoes
 FunctionCode = LowerTargetSpeed1AlwaysHitsInRain
 Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 30
-Description = The user attacks with cold winds that cause opposing Pokémon to tremble. This may lower their Speed stats.
+Description = Le lanceur déclenche un typhon brutal sur la cible, ce qui peut aussi baisser sa Vitesse.
 #-------------------------------
 [WILDBOLTSTORM]
-Name = Wildbolt Storm
+Name = Typhon Fulgurant
 Type = ELECTRIC
 Category = Special
 Power = 100
@@ -164,10 +164,10 @@ Target = AllNearFoes
 FunctionCode = ParalyzeTargetAlwaysHitsInRain
 Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 20
-Description = The user attacks opposing Pokémon with a thunderous tempest. This may also leave them paralyzed.
+Description = Le lanceur déclenche un typhon orageux sur la cible, ce qui peut aussi la paralyser.
 #-------------------------------
 [SANDSEARSTORM]
-Name = Sandsear Storm
+Name = Typhon Pyrosable
 Type = GROUND
 Category = Special
 Power = 100
@@ -177,7 +177,7 @@ Target = AllNearFoes
 FunctionCode = BurnTargetAlwaysHitsInRain
 Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 20
-Description = The user wraps fierce winds and hot sand around opponents. This may leave them with a burn.
+Description = Le lanceur déclenche un typhon mêlé à du sable ardent sur la cible, ce qui peut la brûler.
 #-------------------------------
 [LUNARBLESSING]
 Name = Lunar Blessing
@@ -200,7 +200,7 @@ Target = NearOther
 FunctionCode = RaiseUserDefense1
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = Le lanceur s'enveloppe d'énergie psychique et frappe sa cible de plein fouet. Cela augmente également la Défense du lanceur.
+Description = Le lanceur s'enveloppe d'énergie et percute sa cible. Cela augmente également la Défense du lanceur.
 #-------------------------------
 [POWERSHIFT]
 Name = Power Shift
@@ -345,7 +345,7 @@ Target = NearOther
 FunctionCode = CrashDamageIfFailsConfuseTarget
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 30
-Description = Le lanceur donne un coup de talon descendant à la cible, ce qui peut aussi la rendre confuse. S'il échoue, le lanceur se blesse.
+Description = Le lanceur donne un coup de talon descendant à la cible, ce qui peut la rendre confuse. S'il échoue, il se blesse.
 #-------------------------------
 [BITTERBLADE]
 Name = Lame en Peine
@@ -357,7 +357,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = HealUserByHalfOfDamageDone
 Flags = Contact,CanProtect,Slicing,CanMirrorMove
-Description = Le lanceur concentre son amertume et tranche la cible. La moitié des dégâts infligés sont convertis en PV pour le lanceur.
+Description = Le lanceur puise ses forces dans son amertume. La moitié des dégâts infligés sont convertis en PV pour le lanceur.
 #-------------------------------
 [BLAZINGTORQUE]
 Name = Blazing Torque
@@ -501,7 +501,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = CantSelectConsecutiveTurns
 Flags = CanProtect,CanMirrorMove
-Description = Le lanceur attaque la cible avec un immense marteau. Cette capacité ne peut pas être utilisée deux fois d'affilée.
+Description = Le lanceur attaque la cible avec un immense marteau. Ne peut pas être utilisé deux fois d'affilée.
 #-------------------------------
 [GLAIVERUSH]
 Name = Glaive Rush
@@ -537,7 +537,7 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = RemoveTerrainIceSpinner
 Flags = Contact,CanProtect,CanMirrorMove
-Description = Le lanceur heurte la cible en tournant sur lui-même. Ses rotations détruisent le champ actif sur le terrain.
+Description = Le lanceur heurte la cible en tournant sur lui-même, ce qui détruit le champ actif sur le terrain.
 #-------------------------------
 [JETPUNCH]
 Name = Poing Sonique
@@ -562,7 +562,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = None
 Flags = Slicing,Contact,CanProtect,CanMirrorMove
-Description = Le lanceur se prosterne devant la cible et profite de cette distraction pour l'attaquer. N'échoue jamais.
+Description = Le lanceur se prosterne devant la cible et attaque par surprise. N'échoue jamais.
 #-------------------------------
 [LASTRESPECTS]
 Name = Last Respects
@@ -587,7 +587,7 @@ Target = NearOther
 FunctionCode = LowerTargetSpDef2
 Flags = CanProtect,CanMirrorMove
 EffectChance = 100
-Description = Le lanceur attaque en émettant une étrange lumière. Cela baisse beaucoup la Défense Spéciale de la cible.
+Description = Le lanceur attaque en émettant une étrange lumière. Baisse beaucoup la Défense Spéciale de la cible.
 #-------------------------------
 [MAGICALTORQUE]
 Name = Magical Torque
@@ -651,7 +651,7 @@ Target = NearOther
 FunctionCode = RaiseUserStat1Commander
 Flags = CanProtect,CannotMetronome
 EffectChance = 100
-Description = Le lanceur attaque avec adresse et élégance. S'il a un Nigirigon dans la gueule, une de ses stats augmente.
+Description = Le lanceur attaque avec élégance. S'il a un Nigirigon dans la gueule, une de ses stats augmente.
 #-------------------------------
 [POPULATIONBOMB]
 Name = Population Bomb
@@ -688,7 +688,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = IncreasePowerEachTimeHit
 Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome,Punching
-Description = Le lanceur transforme sa colère en énergie pour attaquer. Plus il a subi d'attaques, plus la puissance augmente.
+Description = Le lanceur transforme sa colère en énergie. Plus il a subi d'attaques, plus la puissance augmente.
 #-------------------------------
 [RAGINGBULL]
 Name = Raging Bull
@@ -770,7 +770,7 @@ TotalPP = 10
 Target = BothSides
 FunctionCode = StartHailWeather
 Flags = CannotMetronome
-Description = Le lanceur invoque une tempête de neige qui dure cinq tours, ce qui augmente la Défense des Pokémons de type Glace.
+Description = Le lanceur invoque une tempête de neige qui dure cinq tours. Augmente la Défense des Pokémons de type Glace.
 #-------------------------------
 [SPICYEXTRACT]
 Name = Habanerage
@@ -781,7 +781,7 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = RaiseTargetAtkLowerTargetDef2
 Flags = CanProtect,CanMirrorMove,CannotMetronome
-Description = Le lanceur relâche un concentré pimenté sur la cible, ce qui augmente beaucoup son Attaque, mais baisse beaucoup sa Défense.
+Description = Le lanceur lâche un concentré pimenté sur la cible. Augmente beaucoup son Attaque et baisse beaucoup sa Défense.
 #-------------------------------
 [SPINOUT]
 Name = Spin Out
@@ -1062,7 +1062,7 @@ Target = NearOther
 FunctionCode = ConfuseTargetIfTargetStatsRaisedThisTurn
 Flags = Sound,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = Le lanceur attaque la cible avec sa voix angélique. Rend la cible confuse si ses stats ont augmenté pendant ce tour.
+Description = Le lanceur attaque avec sa voix angélique. Rend la cible confuse si ses stats viennent d'augmenter.
 #-------------------------------
 [TEMPERFLARE]
 Name = Indignition
@@ -1099,7 +1099,7 @@ Target = NearOther
 FunctionCode = DisableTargetHealingMoves2Turns
 Flags = Sound,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = Le lanceur attaque avec des ondes sonores dissonantes. Empêche la cible de se soigner pendant 2 tours.
+Description = Le lanceur attaque avec des ondes dissonantes. Empêche la cible de se soigner pendant 2 tours.
 #-------------------------------
 [UPPERHAND]
 Name = Prio-Parade
@@ -1113,7 +1113,7 @@ Priority = 3
 FunctionCode = FlinchTargetFailsIfTargetNotUsingPriorityMove
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
-Description = Le lanceur réagit instinctivement et apeure la cible. Échoue si elle n'a pas utilisé une attaque prioritaire.
+Description = Le lanceur réagit instinctivement. Échoue si la cible n'a pas utilisé une attaque prioritaire.
 #-------------------------------
 [MALIGNANTCHAIN]
 Name = Malignant Chain

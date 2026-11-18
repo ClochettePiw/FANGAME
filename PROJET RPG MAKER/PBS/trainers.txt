@@ -927,7 +927,7 @@ Pokemon = HONEDGE,26
 #-------------------------------
 [REGALIAPRINCE,Alistair,1]
 Items = HYPERPOTION
-LoseText = Tu choisis donc de t'opposer aux dignes héritiers du trône.
+LoseText = Non, sérieusement ?
 Pokemon = YAMASK,28
     Moves = HEX,TOXIC,PROTECT,DARKPULSE
     AbilityIndex = 0
@@ -2000,7 +2000,7 @@ Pokemon = PAWNIARD,33
 #-------------------------------
 [REGALIAPRINCE,Alistair,2]
 Items = MAXPOTION,MAXPOTION
-LoseText = Mais comment est-ce possible ?
+LoseText = Est-ce que tu as conscience des ennuis que tu vas t'attirer ?
 Pokemon = COFAGRIGUS,36
     Moves = HEX,TOXIC,GRUDGE,DARKPULSE
     AbilityIndex = 0
