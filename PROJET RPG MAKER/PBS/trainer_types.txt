@@ -656,7 +656,7 @@ BaseMoney = 32
 IntroBGM = ET-Roughneck
 #-------------------------------
 [KINDLER]
-Name = Saltimanque
+Name = Saltimbanque
 Gender = Female
 BaseMoney = 32
 IntroBGM = ET-BikerKindler
