@@ -40,6 +40,7 @@ Pokemon = LILLIPUP,6
     Gender = male
 #-------------------------------
 [MILOY,Milo,1]
+LastStandText = Ce n'est pas fini ! Vas-y, Poussifeu !
 LoseText = Nooon !
 Pokemon = SANDSHREW,6
     AbilityIndex = 0
@@ -50,6 +51,7 @@ Pokemon = TORCHIC,7
     Gender = female
 #-------------------------------
 [MILOY,Milo,2]
+LastStandText = Ce n'est pas fini ! Vas-y, Tiplouf !
 LoseText = Nooon !
 Pokemon = SANDSHREW,6
     Gender = male
@@ -58,7 +60,7 @@ Pokemon = PIPLUP,7
     Gender = male
 #-------------------------------
 [MILOY,Milo,3]
-LoseText = Nooon !
+LastStandText = Ce n'est pas fini ! Vas-y, Vipélierre !
 Pokemon = SANDSHREW,6
     Gender = male
 Pokemon = SNIVY,7
@@ -134,6 +136,7 @@ Pokemon = TEDDIURSA,10
 #-------------------------------
 [GYMLEADER1,Connor,1]
 Items = POTION
+LastStandText = Un champion ne baisse pas les bras, même dans ces circonstances !
 LoseText = C'est bien plus que j'en espérais !
 Pokemon = TEDDIURSA,12
     Moves = LICK,BABYDOLLEYES,SCRATCH,SWIFT
