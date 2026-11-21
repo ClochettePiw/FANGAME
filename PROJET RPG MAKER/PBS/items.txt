@@ -4317,8 +4317,8 @@ Move = WATERFALL
 Description = Le lanceur charge la cible avec une intensité remarquable, ce qui peut l'apeurer.
 #-------------------------------
 [HM08]
-Name = HM08
-NamePlural = HM08s
+Name = CS08
+NamePlural = CS08s
 Pocket = 4
 Price = 0
 FieldUse = HM
