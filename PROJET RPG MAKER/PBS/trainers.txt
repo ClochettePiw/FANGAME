@@ -138,11 +138,11 @@ Pokemon = TEDDIURSA,10
 Items = POTION
 LastStandText = Un champion ne baisse pas les bras, même dans ces circonstances !
 LoseText = C'est bien plus que j'en espérais !
-Pokemon = TEDDIURSA,12
+Pokemon = TEDDIURSA,10
     Moves = LICK,BABYDOLLEYES,SCRATCH,SWIFT
     AbilityIndex = 1
     Gender = male
-Pokemon = LILLIPUP,12
+Pokemon = LILLIPUP,10
     Moves = FOCUSENERGY,TACKLE,COVET
     AbilityIndex = 0
     Gender = female
@@ -262,7 +262,8 @@ LoseText = Je l'avais prédite...
 Pokemon = DRIFLOON,13
 #-------------------------------
 [MILOY,Milo,4]
-LoseText = Une fois de plus...
+LastStandText = Tu as vraiment bien progressé…
+LoseText = Une fois de plus…
 Pokemon = SANDSHREW,14
     Moves = FURYCUTTER,DEFENSECURL,ROLLOUT,HONECLAWS
     AbilityIndex = 0
@@ -277,7 +278,8 @@ Pokemon = COMBUSKEN,17
     Gender = male
 #-------------------------------
 [MILOY,Milo,5]
-LoseText = Une fois de plus...
+LastStandText = Tu as vraiment bien progressé…
+LoseText = Une fois de plus…
 Pokemon = SANDSHREW,14
     Moves = FURYCUTTER,DEFENSECURL,ROLLOUT,HONECLAWS
     AbilityIndex = 0
@@ -292,7 +294,8 @@ Pokemon = PRINPLUP,17
     Gender = male
 #-------------------------------
 [MILOY,Milo,6]
-LoseText = Une fois de plus...
+LastStandText = Tu as vraiment bien progressé…
+LoseText = Une fois de plus…
 Pokemon = SANDSHREW,14
     Moves = FURYCUTTER,DEFENSECURL,ROLLOUT,HONECLAWS
     AbilityIndex = 0
@@ -328,6 +331,7 @@ Pokemon = GLIGAR,15
 #-------------------------------
 [GYMLEADER2,Orion]
 Items = SUPERPOTION
+LastStandText = Que la tempête se déchaîne !
 LoseText = … Le vent a arrêté de souffler.
 Pokemon = DRIFLOON,16
     Moves = GUST,PAYBACK,ACROBATICS,TRICK
@@ -477,18 +481,6 @@ Pokemon = FLABEBE,16
 #-------------------------------
 [AROMALADY,Florence,2]
 LoseText = Les jeunes ne savent plus apprécier les jolies choses, de nos jours...
-Pokemon = FLABEBE,18
-Pokemon = FLABEBE,18
-    Form = 1
-Pokemon = FLABEBE,18
-    Form = 3
-Pokemon = FLABEBE,18
-    Form = 2
-Pokemon = FLABEBE,18
-    Form = 4
-#-------------------------------
-[AROMALADY,Florence,3]
-LoseText = Les jeunes ne savent plus apprécier les jolies choses, de nos jours...
 Pokemon = FLORGES,50
 Pokemon = FLORGES,50
     Form = 1
@@ -522,7 +514,8 @@ Pokemon = DEWPIDER,21
 #-------------------------------
 [GYMLEADER3,Lagertha]
 Items = SUPERPOTION
-LoseText = Là, ça devient intéressant !
+LastStandText = Là, ça devient intéressant !
+LoseText = On dirait bien que je t'ai sous-estimé, l'ami.
 Pokemon = CLAUNCHER,22
     Moves = AQUAJET,ICYWIND,VISEGRIP,RAINDANCE
     AbilityIndex = 0
@@ -777,6 +770,7 @@ Pokemon = CARKOL,27
 #-------------------------------
 [GYMLEADER4,Rhode]
 Items = SUPERPOTION,SUPERPOTION
+LastStandText = Voyons si tu sauras passer cette muraille !
 LoseText = Tu joues dans la cour des grands, on dirait !
 Pokemon = CARBINK,27
     Moves = ANCIENTPOWER,STEALTHROCK,GYROBALL,PSYCHIC
@@ -930,6 +924,7 @@ Pokemon = HONEDGE,26
 #-------------------------------
 [REGALIAPRINCE,Alistair,1]
 Items = HYPERPOTION
+LastStandText = À quoi tu joues ?
 LoseText = Non, sérieusement ?
 Pokemon = YAMASK,28
     Moves = HEX,TOXIC,PROTECT,DARKPULSE
@@ -1428,6 +1423,7 @@ Pokemon = SKRELP,30
 Pokemon = SILICOBRA,30
 #-------------------------------
 [REGALIAPRINCESS,Méryl,1]
+LastStandText = C'est que tu es du genre obstiné, pas vrai ?
 LoseText = Pourquoi des Pokémons obéiraient-ils à un avorton dans ton genre ?
 Pokemon = PHANTUMP,32
     Moves = SHADOWCLAW,HORNLEECH,BULLDOZE,CURSE
@@ -1451,6 +1447,7 @@ Pokemon = MAREANIE,34
     IV = 31,31,31,31,31,31
 #-------------------------------
 [ISAAC,Isaac,3]
+LastStandText = Je n'ai pas dit mon dernier mot !
 LoseText = J'ai donné tout ce que j'avais.
 Pokemon = LITWICK,32
     Moves = CURSE,NIGHTSHADE,MYSTICALFIRE,CONFUSERAY
@@ -1621,6 +1618,7 @@ Pokemon = EELEKTRIK,37
 #-------------------------------
 [GYMLEADER6,Ohmère]
 Items = MAXPOTION,MAXPOTION,FULLHEAL
+LastStandText = C'est maintenant que le véritable combat commence !
 LoseText = Je comprends mieux, à présent…
 Pokemon = HELIOLISK,38
     Moves = SOLARBEAM,AGILITY,ELECTROBALL,SUNNYDAY
@@ -1705,6 +1703,7 @@ Pokemon = BARRASKEWDA,29
 Pokemon = PANGORO,32
 #-------------------------------
 [MILOY,Milo,13]
+LastStandText = Non ! Je ne te laisserai pas l'emporter aussi facilement qu'à l'accoutumée !
 LoseText = Encore ?!
 Pokemon = SANDSLASH,35
     Moves = STOMPINGTANTRUM,SUPERFANG,STEALTHROCK,SWORDSDANCE
@@ -1724,6 +1723,7 @@ Pokemon = BLAZIKEN,36
     Gender = male
 #-------------------------------
 [MILOY,Milo,14]
+LastStandText = Non ! Je ne te laisserai pas l'emporter aussi facilement qu'à l'accoutumée !
 LoseText = Encore ?!
 Pokemon = SANDSLASH,35
     Moves = STOMPINGTANTRUM,SUPERFANG,STEALTHROCK,SWORDSDANCE
@@ -1743,6 +1743,7 @@ Pokemon = EMPOLEON,36
     Gender = male
 #-------------------------------
 [MILOY,Milo,15]
+LastStandText = Non ! Je ne te laisserai pas l'emporter aussi facilement qu'à l'accoutumée !
 LoseText = Encore ?!
 Pokemon = SANDSLASH,35
     Moves = STOMPINGTANTRUM,SUPERFANG,STEALTHROCK,SWORDSDANCE
@@ -1796,6 +1797,7 @@ Pokemon = EXEGGCUTE,33
 #-------------------------------
 [GYMLEADER5,Pacha]
 Items = HYPERPOTION,HYPERPOTION
+LastStandText = Je compte sur toi, mon ange… Donne à ce dresseur du fil à retordre.
 LoseText = Même les plus belles fleurs sont vouées à faner…
 Pokemon = COMFEY,36
     Moves = SOLARBEAM,DRAININGKISS,SYNTHESIS,SUNNYDAY
@@ -2003,6 +2005,7 @@ Pokemon = PAWNIARD,33
 #-------------------------------
 [REGALIAPRINCE,Alistair,2]
 Items = MAXPOTION,MAXPOTION
+LastStandText = Tu devrais pourtant trembler de peur !...
 LoseText = Est-ce que tu as conscience des ennuis que tu vas t'attirer ?
 Pokemon = COFAGRIGUS,36
     Moves = HEX,TOXIC,GRUDGE,DARKPULSE
@@ -2286,6 +2289,7 @@ Pokemon = DOUBLADE,39
 #-------------------------------
 [REGALIAPRINCESS,Méryl,2]
 Items = MAXPOTION,MAXPOTION
+LastStandText = Sois sans pitié ! Montre-lui ce qu'il en coûte de s'opposer à la famille royale !
 LoseText = Je ne peux pas croire cela…
 Pokemon = TREVENANT,41
     Moves = PHANTOMFORCE,HORNLEECH,BULLDOZE,CURSE
@@ -2409,6 +2413,7 @@ Pokemon = SANDACONDA,41
 #-------------------------------
 [REGALIAQUEEN,Ismérie,1]
 Items = MAXPOTION,MAXPOTION
+LastStandText = J'anéantirai toute forme de résistance ! Tel est le devoir d'une reine !
 LoseText = Tu es sans doute l'exception qui confirme la règle…
 Pokemon = ESPATHRA,45
     Moves = LUMINACRASH,DAZZLINGGLEAM,FOULPLAY,LIGHTSCREEN
@@ -2548,6 +2553,7 @@ Pokemon = JELLICENT,44
 #-------------------------------
 [GYMLEADER7,Émilie]
 Items = FULLRESTORE,FULLRESTORE
+LastStandText = ***
 LoseText = Tu es vraiment devenu un prodige…
 Pokemon = VANILLUXE,47
     Moves = BLIZZARD,FLASHCANNON,HYPERBEAM,AURORAVEIL
