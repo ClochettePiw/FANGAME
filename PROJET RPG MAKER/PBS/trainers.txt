@@ -2553,7 +2553,7 @@ Pokemon = JELLICENT,44
 #-------------------------------
 [GYMLEADER7,Émilie]
 Items = FULLRESTORE,FULLRESTORE
-LastStandText = ***
+LastStandText = Je suis sûre que tu peux me vaincre… Mais ne compte pas sur moi pour retenir mes coups !
 LoseText = Tu es vraiment devenu un prodige…
 Pokemon = VANILLUXE,47
     Moves = BLIZZARD,FLASHCANNON,HYPERBEAM,AURORAVEIL
@@ -2798,6 +2798,7 @@ Pokemon = SANDACONDA,49
 #-------------------------------
 [GYMLEADER8,Haakon]
 Items = FULLRESTORE,FULLRESTORE
+LastStandText = ***
 LoseText = Oh non… C'est déjà fini ?
 Pokemon = TATSUGIRI,51
     Form = 0
