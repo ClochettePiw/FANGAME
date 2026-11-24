@@ -2798,7 +2798,7 @@ Pokemon = SANDACONDA,49
 #-------------------------------
 [GYMLEADER8,Haakon]
 Items = FULLRESTORE,FULLRESTORE
-LastStandText = ***
+LastStandText = Allez-y ! Sortez vos griffes et crachez vos flammes !
 LoseText = Oh non… C'est déjà fini ?
 Pokemon = TATSUGIRI,51
     Form = 0
