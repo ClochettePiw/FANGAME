@@ -2839,7 +2839,8 @@ Pokemon = KOMMOO,53
 #-------------------------------
 [MILOO,Milo,1]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = Non ! Pas encore une fois !...
+LastStandText = Je ne peux pas perdre maintenant… Je ne te laisserai pas l'emporter, cette fois !
+LoseText = Non ! Pas encore !...
 Pokemon = SANDSLASH,53
     Moves = EARTHQUAKE,STEALTHROCK,FLING,SWORDSDANCE
     AbilityIndex = 0
@@ -2878,7 +2879,8 @@ Pokemon = CHIENPAO,55
 #-------------------------------
 [MILOO,Milo,2]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = Non ! Pas encore une fois !...
+LastStandText = Je ne peux pas perdre maintenant… Je ne te laisserai pas l'emporter, cette fois !
+LoseText = Non ! Pas encore !...
 Pokemon = SANDSLASH,53
     Moves = EARTHQUAKE,STEALTHROCK,FLING,SWORDSDANCE
     AbilityIndex = 0
@@ -2917,7 +2919,8 @@ Pokemon = CHIENPAO,55
 #-------------------------------
 [MILOO,Milo,3]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = Non ! Pas encore une fois !...
+LastStandText = Je ne peux pas perdre maintenant… Je ne te laisserai pas l'emporter, cette fois !
+LoseText = Non ! Pas encore !...
 Pokemon = SANDSLASH,53
     Moves = EARTHQUAKE,STEALTHROCK,FLING,SWORDSDANCE
     AbilityIndex = 0
@@ -2956,6 +2959,7 @@ Pokemon = CHIENPAO,55
 #-------------------------------
 [REGALIAKING,Faust]
 Items = FULLRESTORE,FULLRESTORE
+LastStandText = Je ne laisserai pas un gamin ruiner mes plans !
 LoseText = Mes projets… Mon nouveau monde… Non !
 Pokemon = SKARMORY,54
     Moves = BRAVEBIRD,STEALTHROCK,BODYPRESS,ROOST
@@ -3175,6 +3179,7 @@ Pokemon = CLAWITZER,53
 #-------------------------------
 [ISAAC2,Isaac,1]
 Items = FULLRESTORE,FULLRESTORE
+LastStandText = Ce n'est pas encore fini !
 LoseText = Wouah, tu es vraiment devenu super fort…
 Pokemon = CHANDELURE,55
     Moves = OVERHEAT,MEMENTO,SHADOWBALL,SAFEGUARD
@@ -3215,6 +3220,7 @@ Pokemon = VOLCARONA,59
 #-------------------------------
 [ELITE4POISON,Arsène,1]
 Items = FULLRESTORE,FULLRESTORE
+LastStandText = Finissons avec une note épicée, veux-tu ?
 LoseText = C'était un véritable chef-d'œuvre !
 Pokemon = GRAFAIAI,58
     Moves = POISONFANG,TOXIC,NASTYPLOT,BATONPASS
@@ -3249,6 +3255,7 @@ Pokemon = DRAGALGE,60
 #-------------------------------
 [ELITE4FIGHTING,Floyd,1]
 Items = FULLRESTORE,FULLRESTORE
+LastStandText = C'est le dernier atout dans ma manche…
 LoseText = C'est une issue à laquelle je ne m'attendais pas.
 Pokemon = PALAFIN,61
     Moves = FLIPTURN,WAVECRASH,DRAINPUNCH,HYPERVOICE
@@ -3283,6 +3290,7 @@ Pokemon = BLAZIKEN,60
 #-------------------------------
 [ELITE4GHOST,Alma,1]
 Items = FULLRESTORE,FULLRESTORE
+LastStandText = Ça me peine, mais celui-là sera sans merci.
 LoseText = Snif… Ne t'en fais pas, ce sont des larmes de joie…
 Pokemon = GOLURK,60
     Moves = EARTHQUAKE,SHADOWPUNCH,HEAVYSLAM,STEALTHROCK
@@ -3317,6 +3325,7 @@ Pokemon = BASCULEGION,61
 #-------------------------------
 [ELITE4FAIRY,Kimiko,1]
 Items = FULLRESTORE,FULLRESTORE
+LastStandText = Ne nous arrêtons pas en si bon chemin. Que nos Pokémons continuent de danser !
 LoseText = Et voici que s'achève le premier acte…
 Pokemon = WHIMSICOTT,61
     Moves = THIEF,ENERGYBALL,MOONBLAST,TAILWIND
@@ -3350,6 +3359,7 @@ Pokemon = FLORGES,63
 #-------------------------------
 [CHAMPION,Aurèle,1]
 Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
+LastStandText = Es-tu prêt à porter les responsabilités qui incombent à un maître ?
 LoseText = Tu es le dresseur que j'attendais toutes ces années durant.
 Pokemon = TALONFLAME,62
     Moves = STEELWING,FIREBLAST,TAILWIND,FEATHERDANCE
@@ -3658,6 +3668,7 @@ Pokemon = AZUMARILL,55
 #-------------------------------
 [ADVISOR,Kain,1]
 Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
+LastStandText = Pauvres fous ! Savez-vous qui je suis ?
 LoseText = Non ! Je ne peux pas échouer si près du but !
 Pokemon = ZOROARK,66
     Moves = UTURN,NIGHTDAZE,PSYCHIC,NASTYPLOT
@@ -3909,6 +3920,7 @@ Pokemon = MILOTIC,60
 #-------------------------------
 [ADVISOR,Kain,2]
 Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
+LastStandText = Tu n'as pas le droit de me priver de ma destinée !
 LoseText = Non… Ça devait être le grand jour !
 Pokemon = MIENSHAO,68
     Moves = DRAINPUNCH,FLING,CALMMIND,BATONPASS
@@ -3947,6 +3959,7 @@ Pokemon = KLEAVOR,68
     IV = 31,31,31,31,31,31
 #-------------------------------
 [CONJURER,Yselda]
+LastStandText = Faites disparaître cette vermine de ma vue !
 LoseText = Assez ! Assez !!!
 Pokemon = MILOTIC,72
     Moves = SCALD,ICEBEAM,HAZE,TOXIC
